@@ -25,8 +25,8 @@ Topic 2:
 
 RENTIFY</B></U>
 
-People work hard for money, so spending it on things that just aren't worth is a total waste. When it comes down to it, we're better off putting our cash toward some expenses than throwing it away on others. In that scenario, one can rent an item for required time and return it once done. Currently, there is no general-purpose platform (most are domain specific) available for lending and renting things.<br>
-RENTIFY mobile application will facilitate such scenario by providing lenders and borrowers with a shared platform. Please find below the proposed process flow:<br>
+People work hard for money, so spending it on things that just aren't worth is a total waste. When it comes down to it, we're better off putting our cash toward some expenses than throwing it away on others. In that scenario, one can rent an item for required time and return it once done. Currently, there is no general-purpose platform (most are domain specific) available for lending and renting things.<br><br>
+RENTIFY mobile application will facilitate such scenario by providing lenders and borrowers with a shared platform. Please find below the proposed process flow:<br><br>
 •	Lender will post an advertisement for renting out goods with complete item description and quoted rent per hour. <br>
 •	Anyone who wants to rent an item will search for it and would get a result of all the lenders in a mile’s radius. The search could be extended if required.<br>
 •	If the two parties agree on the mutual terms, then deal will be fixed for a fixed time.<br>
