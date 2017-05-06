@@ -1,0 +1,7 @@
+#Sat May 06 04:09:24 PDT 2017
+base.0=C\:\\Users\\arsh2\\Music\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4394fce84d8223d09ebc358f5f18bed1b4b8cf54
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\arsh2\\Music\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6aa2758601aaa606401e142066566a7323d2f2f1\\classes.dex
+base.1=C\:\\Users\\arsh2\\Music\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6aa2758601aaa606401e142066566a7323d2f2f1
+file.0=C\:\\Users\\arsh2\\Music\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4394fce84d8223d09ebc358f5f18bed1b4b8cf54\\classes.dex

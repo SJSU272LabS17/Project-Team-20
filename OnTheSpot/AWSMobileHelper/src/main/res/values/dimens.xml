@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sign_in_button_margin">10dp</dimen>
+    <dimen name="sign_in_button_width">240dp</dimen>
+    <dimen name="sign_in_button_height">40dp</dimen>
+    <dimen name="user_pools_activity_horizontal_margin">20dp</dimen>
+    <dimen name="user_pools_activity_vertical_margin">70dp</dimen>
+    <dimen name="user_pools_activity_inter_group_separation">30dp</dimen>
+    <dimen name="user_pools_activity_button_border">1dp</dimen>
+    <dimen name="user_pools_activity_button_radius">2dp</dimen>
+    <dimen name="user_pools_activity_button_text_size">20sp</dimen>
+    <dimen name="user_pools_activity_text_height">40dp</dimen>
+    <dimen name="user_pools_activity_text_border">1dp</dimen>
+    <dimen name="user_pools_activity_button_height">45dp</dimen>
+    <dimen name="user_pools_activity_intra_group_separation">10dp</dimen>
+    <dimen name="sign_in_text_margin">20dp</dimen>
+    <dimen name="sign_in_separator_height">2dp</dimen>
+</resources>

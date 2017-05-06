@@ -1,0 +1,397 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:16:1-62:12
+	package
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:17:5-28
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:19:5-67
+MERGED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\arsh2\.android\build-cache\51997cd3127f25f78deb1f587af7ee059bc51eb9\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\arsh2\.android\build-cache\a129ee94cd0005e07ae89e07755a569690b9e9cf\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\arsh2\.android\build-cache\f3aa9964e8684d56758ba92b7425dd4c4df1eb43\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\arsh2\.android\build-cache\872d6f924b8bc9b94ea6b1e0f93177169dc6c568\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\arsh2\.android\build-cache\f3aa9964e8684d56758ba92b7425dd4c4df1eb43\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\arsh2\.android\build-cache\92a274ac86b425f32f14b71df69473e3d4ebd110\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:21:22-73
+application
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:23:5-61:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\arsh2\.android\build-cache\439f757386fee3428f5777dcc26c2b345c1fa603\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\arsh2\.android\build-cache\3219737916e3ec161e54bda1304431086d474213\output\AndroidManifest.xml:22:5-20
+MERGED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:19:5-48:19
+MERGED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:15:5-39:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\arsh2\.android\build-cache\cad5071705a18c386bfe434b1b0a1b205cca4202\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\arsh2\.android\build-cache\e92a6307d619f1ed10f22741d1862bb1ebd2800f\output\AndroidManifest.xml:22:5-20
+MERGED from [OnTheSpot:Speech:unspecified] C:\Users\arsh2\Music\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:11:5-21:19
+MERGED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\arsh2\.android\build-cache\b5f155319c47edefa9c32043520c04fd50c14880\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\arsh2\.android\build-cache\51997cd3127f25f78deb1f587af7ee059bc51eb9\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\arsh2\.android\build-cache\5610f4269293609ccdea7e82444f5ab38162c7c7\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\arsh2\.android\build-cache\0c96acb3300f2895b31a36c9bb6a161832e14efa\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\arsh2\.android\build-cache\8510500ee73de051a99bace3bfcc849819842ccc\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\arsh2\.android\build-cache\f60fd6d64cd67f55a12217a281439d42b457c320\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\arsh2\.android\build-cache\4ab68e0ec371b6f259cdcc2a364afbc5e455f659\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\arsh2\.android\build-cache\a0cac9150c9a262b270e4c40dd417ab9cae4c416\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\arsh2\.android\build-cache\f5929986172af72efb46f549b2888bc97aef4e8e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\arsh2\.android\build-cache\3347f68a85d1a9551d95025b6ad44db7f5989172\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\arsh2\.android\build-cache\9c5f5cc55c7a9d4090675efcc127866dd9b667e8\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\arsh2\.android\build-cache\a129ee94cd0005e07ae89e07755a569690b9e9cf\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\arsh2\.android\build-cache\09d1dc99ddaf4bc071c9bc9f084bfd5ba1ebc63e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\arsh2\.android\build-cache\f3aa9964e8684d56758ba92b7425dd4c4df1eb43\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\arsh2\.android\build-cache\467d47ca1f6a0a13fa4039e7e4b071a41720eec4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\arsh2\.android\build-cache\92a274ac86b425f32f14b71df69473e3d4ebd110\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\arsh2\.android\build-cache\35112d196d86b6c0a3bc62175f06662f047fe201\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\arsh2\.android\build-cache\1b789fbd12e8d9ffcff025ad071f2d9bf40bb9ba\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\arsh2\.android\build-cache\750c7ba2ae6d85dd34edc2294b7f9556fe6bdb3f\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\arsh2\.android\build-cache\14f4ef9846d37bfa7c089193865ff6b75067042e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\arsh2\.android\build-cache\ebc12f01459d2dab0abb029ec03c4546fd131190\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\arsh2\.android\build-cache\c92aa3d1ce83d386fb79a6bc530e6bffbf80d745\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\arsh2\.android\build-cache\5403f5f50ae5adbf24cedb1e93de23d6b9bc1223\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\arsh2\.android\build-cache\a05df4fda0f5d464ebe22dafa185ad71c1ce694e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\arsh2\.android\build-cache\4b0530b6d2a83efeb697b10aea1aea3825136fa4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\arsh2\.android\build-cache\db23db8a6ff078778ff7478c2b62826525e0fb00\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\arsh2\.android\build-cache\6a4a58d7fed0a2b4bac8a8263e8ece460a7836a0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\arsh2\.android\build-cache\619e71dc8f91673f403b6b16181e0fdbf59d63ec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\arsh2\.android\build-cache\6f849df603461c2952188a1dff4de604f0a98721\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:26:9-41
+	android:supportsRtl
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:28:9-49
+activity#com.onthespot.SplashActivity
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:32:13-45
+	android:configChanges
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:33:13-83
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:31:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.onthespot.MainActivity
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:label
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:42:13-56
+	android:launchMode
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:40:13-54
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:47:9-56:20
+	android:exported
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:48:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:50:13-55:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:52:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:53:17-78
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:53:27-75
+data
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:54:17-75
+	android:scheme
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:54:23-72
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:57:9-108
+	android:value
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:57:66-105
+	android:name
+		ADDED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml:57:20-65
+uses-sdk
+INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\arsh2\.android\build-cache\439f757386fee3428f5777dcc26c2b345c1fa603\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\arsh2\.android\build-cache\3219737916e3ec161e54bda1304431086d474213\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\arsh2\.android\build-cache\798d1bab72ecefd3f54deb8b74ac79f6770155e8\output\AndroidManifest.xml:18:5-42
+MERGED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:15:5-17:41
+MERGED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.1] C:\Users\arsh2\.android\build-cache\cad5071705a18c386bfe434b1b0a1b205cca4202\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\arsh2\.android\build-cache\cf0240cffbbdab344b7e6f52bad42a3eabbc605a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\arsh2\.android\build-cache\e92a6307d619f1ed10f22741d1862bb1ebd2800f\output\AndroidManifest.xml:20:5-44
+MERGED from [OnTheSpot:Speech:unspecified] C:\Users\arsh2\Music\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\arsh2\.android\build-cache\b5f155319c47edefa9c32043520c04fd50c14880\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\arsh2\.android\build-cache\51997cd3127f25f78deb1f587af7ee059bc51eb9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\arsh2\.android\build-cache\5610f4269293609ccdea7e82444f5ab38162c7c7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\arsh2\.android\build-cache\0c96acb3300f2895b31a36c9bb6a161832e14efa\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\arsh2\.android\build-cache\8510500ee73de051a99bace3bfcc849819842ccc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\arsh2\.android\build-cache\f60fd6d64cd67f55a12217a281439d42b457c320\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\arsh2\.android\build-cache\4ab68e0ec371b6f259cdcc2a364afbc5e455f659\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\arsh2\.android\build-cache\a0cac9150c9a262b270e4c40dd417ab9cae4c416\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\arsh2\.android\build-cache\f5929986172af72efb46f549b2888bc97aef4e8e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\arsh2\.android\build-cache\3347f68a85d1a9551d95025b6ad44db7f5989172\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\arsh2\.android\build-cache\9c5f5cc55c7a9d4090675efcc127866dd9b667e8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\arsh2\.android\build-cache\a129ee94cd0005e07ae89e07755a569690b9e9cf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\arsh2\.android\build-cache\09d1dc99ddaf4bc071c9bc9f084bfd5ba1ebc63e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\arsh2\.android\build-cache\f3aa9964e8684d56758ba92b7425dd4c4df1eb43\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\arsh2\.android\build-cache\467d47ca1f6a0a13fa4039e7e4b071a41720eec4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\arsh2\.android\build-cache\92a274ac86b425f32f14b71df69473e3d4ebd110\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\arsh2\.android\build-cache\35112d196d86b6c0a3bc62175f06662f047fe201\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\arsh2\.android\build-cache\1b789fbd12e8d9ffcff025ad071f2d9bf40bb9ba\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\arsh2\.android\build-cache\750c7ba2ae6d85dd34edc2294b7f9556fe6bdb3f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\arsh2\.android\build-cache\14f4ef9846d37bfa7c089193865ff6b75067042e\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\arsh2\.android\build-cache\872d6f924b8bc9b94ea6b1e0f93177169dc6c568\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\arsh2\.android\build-cache\ebc12f01459d2dab0abb029ec03c4546fd131190\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\arsh2\.android\build-cache\c92aa3d1ce83d386fb79a6bc530e6bffbf80d745\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\arsh2\.android\build-cache\2d055c3cec5c1f73c3925911bb0144ccf1ca851a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\arsh2\.android\build-cache\5403f5f50ae5adbf24cedb1e93de23d6b9bc1223\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\arsh2\.android\build-cache\a05df4fda0f5d464ebe22dafa185ad71c1ce694e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\arsh2\.android\build-cache\4b0530b6d2a83efeb697b10aea1aea3825136fa4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\arsh2\.android\build-cache\db23db8a6ff078778ff7478c2b62826525e0fb00\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\arsh2\.android\build-cache\6a4a58d7fed0a2b4bac8a8263e8ece460a7836a0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\arsh2\.android\build-cache\619e71dc8f91673f403b6b16181e0fdbf59d63ec\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\arsh2\.android\build-cache\6f849df603461c2952188a1dff4de604f0a98721\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\arsh2\.android\build-cache\cad5071705a18c386bfe434b1b0a1b205cca4202\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arsh2\Music\OnTheSpot\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\arsh2\.android\build-cache\92323dd12851b62434ca30da5a024c185a149031\output\AndroidManifest.xml:45:13-70
+activity#com.amazonaws.mobilehelper.auth.signin.SignInActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:23:9-27:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:26:13-59
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:25:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:24:13-81
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.ForgotPasswordActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:28:9-32:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:31:13-67
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:30:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:29:13-99
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.SignUpActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:33:9-37:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:36:13-59
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:35:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:34:13-91
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.MFAActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:38:9-42:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:41:13-55
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:40:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:39:13-88
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.SignUpConfirmActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:43:9-47:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:46:13-67
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:45:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\arsh2\Music\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:44:13-98
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:13:22-62
+activity#com.google.sample.cloudvision.MainActivity
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:18:9-28:20
+	android:screenOrientation
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:19:13-70
+provider#android.support.v4.content.FileProvider
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:30:9-38:20
+	android:authorities
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:32:13-60
+	android:grantUriPermissions
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:34:13-47
+	android:exported
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:31:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:35:13-37:58
+	android:resource
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:37:17-55
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\arsh2\Music\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:36:17-67
+activity#info.androidhive.speechtotext.SpeechMainActivity
+ADDED from [OnTheSpot:Speech:unspecified] C:\Users\arsh2\Music\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from [OnTheSpot:Speech:unspecified] C:\Users\arsh2\Music\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from [OnTheSpot:Speech:unspecified] C:\Users\arsh2\Music\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:13:13-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:26:22-76
+meta-data#com.google.android.gms.version
+ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:29:9-31:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\arsh2\.android\build-cache\5403f5f50ae5adbf24cedb1e93de23d6b9bc1223\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:30:13-58
+activity#com.google.android.gms.location.sample.locationaddress.LocationMainActivity
+ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:34:13-103
+service#com.google.android.gms.location.sample.locationaddress.FetchAddressIntentService
+ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:47:9-49:40
+	android:exported
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\arsh2\Music\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:48:13-108
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\arsh2\.android\build-cache\a129ee94cd0005e07ae89e07755a569690b9e9cf\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\arsh2\.android\build-cache\a129ee94cd0005e07ae89e07755a569690b9e9cf\output\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\AndroidManifest.xml:42:11-82
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\arsh2\.android\build-cache\872d6f924b8bc9b94ea6b1e0f93177169dc6c568\output\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\arsh2\.android\build-cache\872d6f924b8bc9b94ea6b1e0f93177169dc6c568\output\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\arsh2\.android\build-cache\872d6f924b8bc9b94ea6b1e0f93177169dc6c568\output\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\arsh2\.android\build-cache\872d6f924b8bc9b94ea6b1e0f93177169dc6c568\output\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:22:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\AndroidManifest.xml:25:8-31

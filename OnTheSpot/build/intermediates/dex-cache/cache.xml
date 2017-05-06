@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\3347f68a85d1a9551d95025b6ad44db7f5989172\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4e4765ec2f124cf265183bada0da1d787124cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\cb0ae169fa7eaad5e7feaf292d9f2128f8c13c74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_909d6751db3c30afff5dff3f22e5c474e6fc1cab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\c92aa3d1ce83d386fb79a6bc530e6bffbf80d745\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b54b095b7cd05ac03676867eb066845619a0629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\5403f5f50ae5adbf24cedb1e93de23d6b9bc1223\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01eeb08ca50b38fc3c4ef042850dbbf7478eda10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\92a274ac86b425f32f14b71df69473e3d4ebd110\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_580eb2519cb0c6d2c67c3c6ed37fe54fd2476625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\872d6f924b8bc9b94ea6b1e0f93177169dc6c568\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec162a39a82532424aa32c432db6c4460fe52f76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\750c7ba2ae6d85dd34edc2294b7f9556fe6bdb3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64e341d5a12347b2b51e56a6cc5e44cb7956a902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\1b789fbd12e8d9ffcff025ad071f2d9bf40bb9ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b5e71faae5fdd8d0f0c1d3b0dccd9fe4d70b8dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\09d1dc99ddaf4bc071c9bc9f084bfd5ba1ebc63e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c9d605e36cc51790ec3c6f253c5313d070cccf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\f5929986172af72efb46f549b2888bc97aef4e8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4266ff3a1ee84d7e20742c05eceea19154bc9e4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\14f4ef9846d37bfa7c089193865ff6b75067042e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e363cc756fcedb2cbc47bf60e31d09b026286f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\Music\OnTheSpot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297b9733e3f628d46bd61fbe279821c028d5afcb">
+        <dex dex="C:\Users\arsh2\Music\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4394fce84d8223d09ebc358f5f18bed1b4b8cf54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a567b52458b694fc7c1cc8f511c5713b19557e28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\35112d196d86b6c0a3bc62175f06662f047fe201\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67a0eee7ea9db815794d9e795c3bb671328385cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288e19292b0e725bc037c0d7f777e0731b080801">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_78e0d83ce24289947a1bf67feb5c27b5c72a3a85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\ebc12f01459d2dab0abb029ec03c4546fd131190\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deabafc14dfe95d64b757f54ff1f835b7a55f73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\8510500ee73de051a99bace3bfcc849819842ccc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79004f65d26afeae43365780f24d6376d9f810d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\9c5f5cc55c7a9d4090675efcc127866dd9b667e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38d130473577cbd349904a6a79aaeb8fa0521cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\0c96acb3300f2895b31a36c9bb6a161832e14efa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eeb08a2ccbeaff1da560d1091a670764374de49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\51997cd3127f25f78deb1f587af7ee059bc51eb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8498610d215c51fa3055869396b32458afed9c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\Music\OnTheSpot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\arsh2\Music\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6aa2758601aaa606401e142066566a7323d2f2f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\f3aa9964e8684d56758ba92b7425dd4c4df1eb43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33a5d3823a60d12ed97bab944505b87bacb89112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\a129ee94cd0005e07ae89e07755a569690b9e9cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a20e847a1bc8cb19417e9aba135d1de2e19e0cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\6d5470b12d6bf0b39719af8c150ed046e4856833\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2ebae2461545b6c3a4f83bf04f35b42934fc529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\e65138b63ea5583a3c3bd01cad63b00f008db3f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0621caa0da31ffff8eb839cd193a4772230105ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\467d47ca1f6a0a13fa4039e7e4b071a41720eec4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db230c0a5797f2a34e2fd976d14276d082bd8f2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\8510500ee73de051a99bace3bfcc849819842ccc\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_44dd47534d42da1e4cc87031506727d4dc6e9ec3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\2d055c3cec5c1f73c3925911bb0144ccf1ca851a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\arsh2\Documents\spotify-aws-my-sample-app-android\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f09e219f9f057464f74af75ca8c0367e2fa1cfa8\classes.dex" />
+    </item>
+
+</items>
