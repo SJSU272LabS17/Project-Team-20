@@ -16,6 +16,8 @@
 
 package com.google.android.gms.location.sample.locationaddress;
 
+import android.app.AlertDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.location.Geocoder;
 import android.location.Location;
@@ -30,11 +32,16 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+
+
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
 import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener;
 import com.google.android.gms.location.LocationServices;
+
+
+
 
 /**
  * Getting the Location Address.
@@ -100,6 +107,8 @@ public class LocationMainActivity extends ActionBarActivity implements
      * Displays the location address.
      */
     protected TextView mLocationAddressTextView;
+    protected TextView mDescriptionTextView;
+    protected TextView mObjectTextView;
 
     /**
      * Visible while the address is being fetched.
@@ -109,29 +118,54 @@ public class LocationMainActivity extends ActionBarActivity implements
     /**
      * Kicks off the request to fetch an address when pressed.
      */
-    Button mFetchAddressButton;
+    //Button mFetchAddressButton;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.l_main_activity);
-
+        buildGoogleApiClient();
         mResultReceiver = new AddressResultReceiver(new Handler());
 
         mLocationAddressTextView = (TextView) findViewById(R.id.location_address_view);
+        mDescriptionTextView = (TextView) findViewById(R.id.descriptionTextView);
+        mObjectTextView = (TextView) findViewById(R.id.objectTextView);
         mProgressBar = (ProgressBar) findViewById(R.id.progress_bar);
-        mFetchAddressButton = (Button) findViewById(R.id.fetch_address_button);
+        //mFetchAddressButton = (Button) findViewById(R.id.fetch_address_button);
 
         // Set defaults, then update using values stored in the Bundle.
-        mAddressRequested = false;
+        mAddressRequested = true;
         mAddressOutput = "";
+        if (mGoogleApiClient.isConnected() && mLastLocation != null) {
+            startIntentService();
+        }
+        // If GoogleApiClient isn't connected, we process the user's request by setting
+        // mAddressRequested to true. Later, when GoogleApiClient connects, we launch the service to
+        // fetch the address. As far as the user is concerned, pressing the Fetch Address button
+        // immediately kicks off the process of getting the address
+        updateUIWidgets();
+
+        Intent in= getIntent();
+        Bundle b = in.getExtras();
+
+        if(b!=null)
+        {
+            if(b.containsKey("identifiedObject")) {
+                String objectName =  b.get("identifiedObject").toString();
+                String description = b.get("description").toString();
+                mObjectTextView.setText(objectName);
+                mDescriptionTextView.setText(description);
+            }
+
+        }
 
 
         updateValuesFromBundle(savedInstanceState);
+        //fetchUserIdentity();
+        //updateUIWidgets();
 
-        updateUIWidgets();
-        buildGoogleApiClient();
     }
+
 
     /**
      * Updates fields based on data stored in the bundle.
@@ -165,19 +199,19 @@ public class LocationMainActivity extends ActionBarActivity implements
     /**
      * Runs when user clicks the Fetch Address button. Starts the service to fetch the address if
      * GoogleApiClient is connected.
-     */
-    public void fetchAddressButtonHandler(View view) {
-        // We only start the service to fetch the address if GoogleApiClient is connected.
-        if (mGoogleApiClient.isConnected() && mLastLocation != null) {
-            startIntentService();
-        }
-        // If GoogleApiClient isn't connected, we process the user's request by setting
-        // mAddressRequested to true. Later, when GoogleApiClient connects, we launch the service to
-        // fetch the address. As far as the user is concerned, pressing the Fetch Address button
-        // immediately kicks off the process of getting the address.
-        mAddressRequested = true;
-        updateUIWidgets();
-    }
+
+     public void fetchAddressButtonHandler(View view) {
+     // We only start the service to fetch the address if GoogleApiClient is connected.
+     if (mGoogleApiClient.isConnected() && mLastLocation != null) {
+     startIntentService();
+     }
+     // If GoogleApiClient isn't connected, we process the user's request by setting
+     // mAddressRequested to true. Later, when GoogleApiClient connects, we launch the service to
+     // fetch the address. As far as the user is concerned, pressing the Fetch Address button
+     // immediately kicks off the process of getting the address.
+     mAddressRequested = true;
+     updateUIWidgets();
+     }*/
 
     @Override
     protected void onStart() {
@@ -267,10 +301,10 @@ public class LocationMainActivity extends ActionBarActivity implements
     private void updateUIWidgets() {
         if (mAddressRequested) {
             mProgressBar.setVisibility(ProgressBar.VISIBLE);
-            mFetchAddressButton.setEnabled(false);
+            //    mFetchAddressButton.setEnabled(false);
         } else {
             mProgressBar.setVisibility(ProgressBar.GONE);
-            mFetchAddressButton.setEnabled(true);
+            //  mFetchAddressButton.setEnabled(true);
         }
     }
 
@@ -311,7 +345,7 @@ public class LocationMainActivity extends ActionBarActivity implements
 
             // Show a toast message if an address was found.
             if (resultCode == Constants.SUCCESS_RESULT) {
-                showToast(getString(R.string.address_found));
+                //showToast(getString(R.string.address_found));
             }
 
             // Reset. Enable the Fetch Address button and stop showing the progress bar.

@@ -4,24 +4,20 @@
         "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
@@ -32,12 +28,20 @@
         "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
@@ -48,8 +52,8 @@
         "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
@@ -58,6 +62,70 @@
     {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",

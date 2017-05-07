@@ -3,1263 +3,480 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8ebbbb2c6effc5700b9a1426dc6b72a94eb3b8df\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb29fcfa3b5d0d13a58948be94b6ff6654149fab\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\e89b4764404316acf9389d49ea2e5cbf26ed5b98\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14bcd4363f6517941930d9b3c6b700e75e78b485\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ddc0eef01013207603e398b536deb68ff1f8585b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a64e5504db5dd1c1662563c6875e3a17c7cd149\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\0567d902e8ddb16885a9240aaabc13f9db45ddc7\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6cd29218515db522356d98e0744824bce45c4b0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\2853e941bf69286e2d4d2c44f1277443489152ea\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a48dc0b148059764d32500be558702d5ff932058">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b606bb57551b8095e9f8a282542207a6ea8da64\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\929b3f6a943776f8a9345ec682db3190e4daa3e4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47d00747d354e646efa67c6a5c05b52662ff47f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_8dc722fc3f77eb6f0177374e2f7737a7f563a7c9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.3.9\2fa9ee0e95329912656c8ccd98991b195a3ea539\aws-android-sdk-core-2.3.9.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2fa9ee0e95329912656c8ccd98991b195a3ea539">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.3.9_10ad353fed50dca9d39290a5834ff522ffdd4c39\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\bdbece6917b7be24f4938df3c3582f6621b44cab\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c9001a08525ee944ff7d7738fbf0f9a4bf8ee5a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\aeda41dda1ccbfcf7b0b3171b753d4f55c33fca3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1d193729baf37df3d902a423291423a0df7e3779">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf963ad2e05007f0d8e6c9ed1cd81064eab20a8d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\29ec8a8fdf951e926e9f4e5b0122fe8e872ce01f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf757d18d7b7948b06c5b378d12eb684b6b3af80\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\2dc039429f6bfd899b7b2a66cbd3c2b2644ced50\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4232a167a69b876b618cbf83b1a86ea4e01d9b8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\70e65a19d976bb7e7d352a0b1f60470690d2f877\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92cc88d13a3a703f2890a54302df724e5dd9e41e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a29c0325941f10da64d10cd8fd6cf2eb80394b84\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15681d5098827f429af2f0111b0ac6741984e16e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\5751b32960b70128ba3b09d2b407f7b9e37f1f40\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_294d1c329eb7fc0fb7af48da7dfe3a5cda23620f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\f319024cd1d19e1bbaa4751ab678d9a857555dc4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75b188ca224306cfa7bdf9c397a7295478c95d7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\61d519d6ad26d88c450ed01aa0351e86aaac6002\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba7db47c235a96ed78959794721455a8d4d5da6f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\2dec89fa8b03a77e5297f0417d7f4835ff1f5fd6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f218f2159faf82dd5a9530f9b979014083b9bfc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\0ba4b808fd88dadc37190e01f3f326bedcd2dfbf\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c7ef89e24937c9de954b3d55a336ae462424ff1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8b9cbac56d855f922f905db779f04e0bf875e379\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f33a15d3ae95f6da73271e70f94757386ed4df5e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_590aea98d33299c05cf71f0d31c13868cc6ab333\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8e639cd66089a298a52d74129d23b351e8d134b2\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_811c601e6217b04868f188369183e94412f3e66d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\20816b04bb9e25ce54a4b80da9dcd9ad936f17cc\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_647454bd4bd300a1e81c5223c95dde6aabb59437\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\b11b3d13d982d61fa1849db1261b791eaf179f12\output\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d48a31839a523188921e63494b68ef8e64e841b6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\3964a5d2227f30c4cdb7420fadffc8799d3422ac\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93629796413c6848f679272bec6bf995c7285752\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\c5e1e5bf1de502c2b5c7236f539e62b018e4d9b9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ffe5ab15748b25afec3257177a9c7913423326b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\64b0436d94d4245919db9e41c0985e907452cde3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddd6944e3493570073121764d5ebd4a912b41f9f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\cc174d46529601ef116be835c675ff3c333e8f3f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4be512f96572b1ce8612a9d3deb0f63e8433081\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ec49e4bccd0f62d03169c4ee6c82d2e5b6bb6d49\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e148ef02a1b8477176bd86b66d66f401c617d8db\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\7719574954a9d27fb2c40f03d26419c766ad9fd3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1ccbd92d6074a7e54836b0e2e6a3d913e96bae3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\48cf1c2bbfe1b422a0046b198954cc7ac09f58e4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d77e0ad3370b2975276cabcb6b74bc1890e421a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\1b9d2a6a1bbf8bcc428e0430fc6f94593f71c13a\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f157300ac1cc82efbb87a30932a23bf8ff64298\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\5751b32960b70128ba3b09d2b407f7b9e37f1f40\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_294d1c329eb7fc0fb7af48da7dfe3a5cda23620f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\4f6c8112a3d3f1f9f71482547d5ef4e4117a9521\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9bdb921db4a6c8fff166fa882e1993d1a163ebe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\929b3f6a943776f8a9345ec682db3190e4daa3e4\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47d00747d354e646efa67c6a5c05b52662ff47f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\70e65a19d976bb7e7d352a0b1f60470690d2f877\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92cc88d13a3a703f2890a54302df724e5dd9e41e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\bdbece6917b7be24f4938df3c3582f6621b44cab\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c9001a08525ee944ff7d7738fbf0f9a4bf8ee5a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\e89b4764404316acf9389d49ea2e5cbf26ed5b98\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14bcd4363f6517941930d9b3c6b700e75e78b485\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\da314e4a5e9b34911f4387f6130882b9430e45ee\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f58b9cdcfbb9eea8cfdbdf123f121b0422ef8f77\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\b11b3d13d982d61fa1849db1261b791eaf179f12\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0041f42baad60da37e74fde02c032cae44025eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\b1530345e318bfb10268e03cce04ce7e9eb2ab9a\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1db5537924e3f5599e0015d61ca55fdec0f972b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_2f73759d49962056c9369b00eb306fe083d87641\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\c01dc2452621d301147f0d3f93310b7b873dd836\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b88ecc1acc24d2737b67a1852a470e694757eab\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-vision\v1-rev2-1.21.0\4db84d916e8ec80d9aa11c5f89a6cb6621ac1c85\google-api-services-vision-v1-rev2-1.21.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4db84d916e8ec80d9aa11c5f89a6cb6621ac1c85">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-vision-v1-rev2-1.21.0_45801811d57a99763d969a32fe88c349dd6c88f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1aba2f7d997ed5d2c4f30d72e3d4227fd918f077\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ad756b8830c8da2225dbd963b3243a6c998609ca\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1078132975366bd32918206c28e315b27182fc1e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\c99bff54650dae953a27095d9092d4f1f0bd6ef4\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_897f3b1e30675aa05afb008136a6c70a0496799b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\b11b3d13d982d61fa1849db1261b791eaf179f12\output\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d48a31839a523188921e63494b68ef8e64e841b6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\7e1d486c8617fbd748328a54ebce09f2194162a0\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\65cdc4682b3d7d148c546f813b26d2aa45e4f690\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34f33c68cf63fee3a7b181c5dc1d6ea555d14324\classes.dex" />
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_306493893ef6bf18f47a65933b691ee58ac4f34c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_9cc6f62dc62650f00c8a056405280628b244b7cf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ddbcfdff7691c1b52bc284f6c92dfd6c451ab3a6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_960343e3fb1bcbd4a837e021ac177ba9535ca37f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\7719574954a9d27fb2c40f03d26419c766ad9fd3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1ccbd92d6074a7e54836b0e2e6a3d913e96bae3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25291a5d126abb9b5fa58373bec102f1cec8e540\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.21.0\42631630fe1276d4d6d6397bb07d53a4e4fec278\google-http-client-1.21.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="42631630fe1276d4d6d6397bb07d53a4e4fec278">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.21.0_b2c375b8191ab0162558944cc3b05d8b6774878a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\cc174d46529601ef116be835c675ff3c333e8f3f\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\3f92cb473ba9a9eafa163bed253647ada995b8a6\output\jars\libs\internal_impl-24.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4be512f96572b1ce8612a9d3deb0f63e8433081\classes.dex" />
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_066d7ced421e6dcada1201c02285b01fbd286da2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\c04324e205dd03a292256948042c35c8ad2a96de\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e7833ac49b60a04bfd2a4381dccf862e45992cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8a6bf19b5e50cf419f3d99f49fd3cfe981811a9d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fba00f4b21dcdf90b164f90049ffd4f712a502cc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\893df0fcde14ed82e050bf90bd75443c7c2827e7\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9c2edb28c86f3377282793db2e46f29a7d45c5d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.21.0\61ec42bbfc51aafde5eb8b4923c602c5b5965bc2\google-oauth-client-1.21.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="61ec42bbfc51aafde5eb8b4923c602c5b5965bc2">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.21.0_d576a01f69e3aba83f9beb2b6f0254ec33a0a863\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\da314e4a5e9b34911f4387f6130882b9430e45ee\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f58b9cdcfbb9eea8cfdbdf123f121b0422ef8f77\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\d1ecfaddd1325c43e2df48bce8c5810b92440ba5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da94dfbf25dc5ea0ab8413d4397de99207d1a322\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\49c7fea0c19adc2a83b68fb90122db61eb8fd40c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8a372c4191f80489770a231f7be4820b204b886a">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_332e220da84efb11a8a467a20300b431f9179b48\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\067edcc38770d1fd47fe306182f49a7cbdacea5b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be7d7b86041880c3d1e8378102d94904d0ba7513\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\4f6c8112a3d3f1f9f71482547d5ef4e4117a9521\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9bdb921db4a6c8fff166fa882e1993d1a163ebe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\fa87f1ae0c297b3a36730ec6b0e8f0a378cd3feb\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_595d458960969a5b3caef5543e3df2cf39164166\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\b1530345e318bfb10268e03cce04ce7e9eb2ab9a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1db5537924e3f5599e0015d61ca55fdec0f972b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a36ac3cbe308b908d5f266bbeb4d00c63a492461\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb20dffea93181ead0f3632a5934392b727fd9b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\b11b3d13d982d61fa1849db1261b791eaf179f12\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0041f42baad60da37e74fde02c032cae44025eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\616455f602865c2ebf69e812c9c9023033709411\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_774abc3dc92b43d987602fd38c267137d0083890\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a9cc7513558449bd5730b07c18eb3f7db1b588af\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\4c8df3bdb30f097d1cc22040545fba25c08af802\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d1b471702285ff7bb3b9e5ddc9eef7832b1d5ae\classes.dex" />
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f252ae628dd6582819a12a18e6871f2f6db51538\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\c01dc2452621d301147f0d3f93310b7b873dd836\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\4a635a1888553543a6202ec70dd517859592b03d\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b88ecc1acc24d2737b67a1852a470e694757eab\classes.dex" />
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71ca95840f7c913196ac1d53287f3361247cdeb9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\bc8117bef9c026d10d0ab857ecb5e312ddf441ec\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85e762425f6fc55e4c003307ef99d4b4dd55f1f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\61b01bef7e825719c4b04a377b4e7d59caae0bc3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_951efa98c2498c4e3566ef209536816d4914894e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.3.9\d7e881325e8217fd65651fc7153a3db06f2e454c\aws-android-sdk-cognito-2.3.9.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7e881325e8217fd65651fc7153a3db06f2e454c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.3.9_0bda7f710eda389288e13f464ab8c80b6eeea11b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8d350a380b81e2f9269479125d807b3a76f7c3fd\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fdda53eb16673298062fbe2aea628cd8192067d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.20.0_f9f09ae0b92a630643ff3f5accc4bef925954bfc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.21.0\8ce17bdd15fff0fd8cf359757f29e778fc7191ad\google-http-client-jackson2-1.21.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ce17bdd15fff0fd8cf359757f29e778fc7191ad">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.21.0_58d7a6faee6bf1255c36f4816d8bc47be8b3214e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\fe8db54e66b225c9bf83269a364803e2498ee760\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_911e8d5d76b7685e8eb9a88269d5d58be52a3328\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\eb2fd91a8eb5a6a60b5dca6175bd13e6c5bd1c86\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01f7fc3416773ab90c89325fd2e569ab35c028a9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\70200461878d0381a42cfaed88e2cde459b5d222\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\46c48b84d120b2ea179177e1a596d036cbb72fc0\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d604e6f092f63e1d416f0169745afdf957387b57\classes.dex" />
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9945a0f9c81e5a4ffa9b7973c51badfeb25d2a41\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\61b01bef7e825719c4b04a377b4e7d59caae0bc3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_951efa98c2498c4e3566ef209536816d4914894e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\7e1d486c8617fbd748328a54ebce09f2194162a0\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34f33c68cf63fee3a7b181c5dc1d6ea555d14324\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\4291a68d283255ddd01f5950b454aa5053369014\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\97e571fc335b783d2e041454d930c3665506ada8\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1272353513cdd2411ee1f4737ca23bab388cff98\classes.dex" />
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a77ec9c2c3920992b9e7fc1e4eb678b90e76b2f8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.21.0\16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc\google-api-client-1.21.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.21.0_45c094a2385c664b8aa6c9fe98d0d6d4418cd5e7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a0fb91b9dbf6533bbc9a41de65f2128c755eb186\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17859ff2eb25085230766c282ef74ee21e37eae3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_18771734bebe93da012e7777da04f7bb46877ea6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\fc569217514457fdf71471aa67e361c082a4e1d5\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7f321a70db57f239fd74ef9e87d259ead58215f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ff8916eacb9577f416567cff25974afd6c7dc3b7\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\7f7298e2c3a288e5bd804da2d4d25c76b7391970\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0285e2332060e2a235fb728cb5a42edb9379590\classes.dex" />
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65b40a8a35c3cb4ec45745fad82db3f908d40a85\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognitoidentityprovider\2.3.9\39a3018aee421bd16bc086a92b9bede977da5c93\aws-android-sdk-cognitoidentityprovider-2.3.9.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="39a3018aee421bd16bc086a92b9bede977da5c93">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognitoidentityprovider-2.3.9_474735714d5fafaf30c8f7f57dcaad74f9ebb391\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\09ec8506010f0bd01eda61d7043eb05e4bf989e3\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\d2563ec51e93e4213044fca4bf16f87fd43c35a1\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3eb0de01f103e41933a575a8754e023a4bd3d1f\classes.dex" />
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2683ecfb6aed60a4a4984ba434c035dab79fe025\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\c04324e205dd03a292256948042c35c8ad2a96de\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e7833ac49b60a04bfd2a4381dccf862e45992cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\893df0fcde14ed82e050bf90bd75443c7c2827e7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9c2edb28c86f3377282793db2e46f29a7d45c5d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\98302519b5db9ae299e2596b87ad70b96b5ad1b6\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9c286eb5105deb56fe74e26889e8cc467c8bc4f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.20.0\9204765f39000f6109c927ac66c7963bf9c7df19\google-http-client-gson-1.20.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-gson-1.20.0_0e6d07a6b17d1897094b92f17c0517cb8a9664ed\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a29c0325941f10da64d10cd8fd6cf2eb80394b84\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15681d5098827f429af2f0111b0ac6741984e16e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\3dffb55689e0386629b7a1d3239bee55cbde2e77\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3a377fa30b5d2e07769296272a42f2f68e76c87\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\067edcc38770d1fd47fe306182f49a7cbdacea5b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be7d7b86041880c3d1e8378102d94904d0ba7513\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\f319024cd1d19e1bbaa4751ab678d9a857555dc4\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75b188ca224306cfa7bdf9c397a7295478c95d7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ddc0eef01013207603e398b536deb68ff1f8585b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a64e5504db5dd1c1662563c6875e3a17c7cd149\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a9cc7513558449bd5730b07c18eb3f7db1b588af\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d1b471702285ff7bb3b9e5ddc9eef7832b1d5ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\aeda41dda1ccbfcf7b0b3171b753d4f55c33fca3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1d193729baf37df3d902a423291423a0df7e3779">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf963ad2e05007f0d8e6c9ed1cd81064eab20a8d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ec49e4bccd0f62d03169c4ee6c82d2e5b6bb6d49\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e148ef02a1b8477176bd86b66d66f401c617d8db\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\2853e941bf69286e2d4d2c44f1277443489152ea\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a48dc0b148059764d32500be558702d5ff932058">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b606bb57551b8095e9f8a282542207a6ea8da64\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\29ec8a8fdf951e926e9f4e5b0122fe8e872ce01f\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\dc38bb4d50c75225c93fd340570586bbe213a5ce\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf757d18d7b7948b06c5b378d12eb684b6b3af80\classes.dex" />
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76c81ab484ec4a07ef0e81c91df46b961e4ba1c2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_66bd785d2360d557964d6a1a443d4053ad84fec2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca1c47dd4657f06e11c00da4f67b798824287618">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_264bdf1a9297c27bbf994f95b538c0b881ae4b01\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\d1ecfaddd1325c43e2df48bce8c5810b92440ba5\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da94dfbf25dc5ea0ab8413d4397de99207d1a322\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Speech\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="03b282cf1b040371d1e19f0be84ee531c71176a7">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_2924aa3042ec34a16284fc9f32ce3d97fe3cb40a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\2dec89fa8b03a77e5297f0417d7f4835ff1f5fd6\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\a6d92d4af69f88182b36f924072a2f5c7fb34621\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f218f2159faf82dd5a9530f9b979014083b9bfc\classes.dex" />
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_defa29be27f471306e0f0baee1d059e3e16b2e8c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\9bcfdbd73dab1f4f66e077c1fcbebdff0ff6b757\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\f0a30cb68e5bd755898bf71095b8300a43483000\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55639cc23c04e0e956607087fbd3cbd511671e9f\classes.dex" />
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68b94a6553cba7664f90e690455233a3b60c40ba\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\616455f602865c2ebf69e812c9c9023033709411\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\a360f40406a3be283eb28c45d2f33cb88b5b878f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_774abc3dc92b43d987602fd38c267137d0083890\classes.dex" />
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a785fea6bf9684659a4cbf41ab4e41353d05e259\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a3f0e3cc79d91388f3ad88eadece271478440d54\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\0e23c937074135ff670089e93d145c17a238543b\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b79d3d2111b5444ecb55e44b929836be2c81a26\classes.dex" />
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e853fe0b66364994ab42b722a8e92713fe02f58\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\eb2fd91a8eb5a6a60b5dca6175bd13e6c5bd1c86\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\f3a7eb16d3f18d5ded7bb650f9497797d8def4c5\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01f7fc3416773ab90c89325fd2e569ab35c028a9\classes.dex" />
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_194d6eeb9cecb6500cfeb23f55772b451832c3c7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8a6bf19b5e50cf419f3d99f49fd3cfe981811a9d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fba00f4b21dcdf90b164f90049ffd4f712a502cc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a8b94ce611fac992e5f0ac8989fb753b75498f68\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27da633ebfcef12c81fcea18bf642d23f42b47e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\0ba4b808fd88dadc37190e01f3f326bedcd2dfbf\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c7ef89e24937c9de954b3d55a336ae462424ff1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\61d519d6ad26d88c450ed01aa0351e86aaac6002\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba7db47c235a96ed78959794721455a8d4d5da6f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a8b94ce611fac992e5f0ac8989fb753b75498f68\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\e08f2f9b4ac7d743a10d70669c290ecb89ca1a40\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27da633ebfcef12c81fcea18bf642d23f42b47e6\classes.dex" />
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb7fe5718c623250710ab11cb5fb67ea2b594e0d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8a9fbaf4906c48cc306e19369bf12567f15493f0">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_9bc164bcaec450fcb14e77a58ccfca2c25eecbae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\4291a68d283255ddd01f5950b454aa5053369014\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1272353513cdd2411ee1f4737ca23bab388cff98\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\09ec8506010f0bd01eda61d7043eb05e4bf989e3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3eb0de01f103e41933a575a8754e023a4bd3d1f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8d350a380b81e2f9269479125d807b3a76f7c3fd\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\f67440ebf7f23e1d1bc0537c78bb7ec8c484a851\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fdda53eb16673298062fbe2aea628cd8192067d\classes.dex" />
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0dc64798127eac447798f6048ecd5d8f2fbe5960\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_bbabd08b4c760b484a7e32b1ff16f60588dcbe25\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\3964a5d2227f30c4cdb7420fadffc8799d3422ac\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93629796413c6848f679272bec6bf995c7285752\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\fe8db54e66b225c9bf83269a364803e2498ee760\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\250251fa7f3b5aeef1823ac3cb3ef05ea9ab2e28\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_911e8d5d76b7685e8eb9a88269d5d58be52a3328\classes.dex" />
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6892099ef47ec233d18d7475e382454807958b8d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\9bcfdbd73dab1f4f66e077c1fcbebdff0ff6b757\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55639cc23c04e0e956607087fbd3cbd511671e9f\classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c5985a22f7b79e298ae4331769acf3d4051527f3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\a3f0e3cc79d91388f3ad88eadece271478440d54\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\9547c83163fe413bc53816e972c24c40e235058a\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b79d3d2111b5444ecb55e44b929836be2c81a26\classes.dex" />
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2c34b57e8eb40bcfa18d85ad3637d9ba2d4f906\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8b9cbac56d855f922f905db779f04e0bf875e379\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\c7c1675f34f3db636d49c1d3473974067d4e72b2\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f33a15d3ae95f6da73271e70f94757386ed4df5e\classes.dex" />
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf68bb60bb64cc3577e7f04efb83d5bc23fc6531\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\ff8916eacb9577f416567cff25974afd6c7dc3b7\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\6132ba43330365adb5a742b11112e6c4a3bc26f9\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0285e2332060e2a235fb728cb5a42edb9379590\classes.dex" />
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6403ae3228c38ebdeaee3e38a349ee0713e1faa1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\c5e1e5bf1de502c2b5c7236f539e62b018e4d9b9\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\d90d9e89da446443bddddb07ce1f1b8cfd9356b8\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ffe5ab15748b25afec3257177a9c7913423326b\classes.dex" />
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e175345b5bf340c8ae2cfeeeaab8c943241a6ad\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\2dc039429f6bfd899b7b2a66cbd3c2b2644ced50\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\53f81c9d7be2c1e083f0b79ec2a2587688d21068\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4232a167a69b876b618cbf83b1a86ea4e01d9b8\classes.dex" />
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dddb37467514e181413350a73273d003b0c2d47\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\8e639cd66089a298a52d74129d23b351e8d134b2\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_811c601e6217b04868f188369183e94412f3e66d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\2c083c87ad959aec687a8c88a1538988754e339d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f80ae187176e7c7fc44d33fcea294236ce3e2e8a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\98302519b5db9ae299e2596b87ad70b96b5ad1b6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9c286eb5105deb56fe74e26889e8cc467c8bc4f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\CMPE272\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="58e55e8977b3159ec616193ee97789d69ea8ae4f">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_184ededd0c6aef7dd7f648b99fa73240b9d77301\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\3dffb55689e0386629b7a1d3239bee55cbde2e77\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3a377fa30b5d2e07769296272a42f2f68e76c87\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\70200461878d0381a42cfaed88e2cde459b5d222\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\edb347e5adeb1da76266e939e047766104d065e6\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d604e6f092f63e1d416f0169745afdf957387b57\classes.dex" />
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97990a22c2e523e9d10875ac42e2dd1dd5dcf19f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\3f826f671abc67849ae3c888fa52694f37c7e3b0\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="05673179575c32b69a474334255c3044adf18d40">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.20.0_8a4a91735790f115e614dc2fd20224fc264a5d63\classes.dex" />
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_495ac0d89a972501e72e887d3fadbbb806eff47b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\48cf1c2bbfe1b422a0046b198954cc7ac09f58e4\output\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\arsh2\.android\build-cache\6e83121a1a69fd7936c3a95b4bb9160b8724fb26\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d77e0ad3370b2975276cabcb6b74bc1890e421a\classes.dex" />
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a4b04e89101bce77c7a0f8ee94251212cb5b863\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\kimta\.android\build-cache\64b0436d94d4245919db9e41c0985e907452cde3\output\jars\classes.jar"
+        jar="C:\Users\arsh2\.android\build-cache\7bbd0f439b84dd9829edf6174eb303adcab50564\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c90d4d7a2ae77bd05cbc8933532d31c694bafb45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\b7a103e14c85eb5d75fa4c92bb8b45fb47b98c31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab9b012ad5f7da0576a7fe0a3d46ded4b601878a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\5cbc69afecb2d0d6f19835bf9a87045e6bc339b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cef3da31966b09fc44f27a439adf1ebff9fd2e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\f8a5a7f10fc12ff20618e585fbf59003c83cc95f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94ac705e4523d27196916beb99a6faba7b1ab24c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\932a4110b5534f1b21ab2acc683f2d45dcb01109\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_496920df74716bb19545a91768391734f0e8d044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\067c356fd2561d7e79e927e6c957fe54c501e2e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8c006368fd2952420bb4e4691e9e96e160970d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\c33fbe05545e7854146036c2b4da6007426008c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c9f74156c7f5869f7b1a4e6c34bab680ea8e37d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\f84dbe63194abdbcc7dd80ccc83ce2dc99c8241a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94235db9df48d090788afdaf2e1979c69a19e36c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\38de1d5098308f3304095193bbe79d6eb2b4125d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7d450a87efc0e66cc70bdb644b2b6fb42c038b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\893ff0a38d9be304ed0ffed7a05c323d69fda84f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_435fda28566816cb0f4ad961c68a1c54ebb53948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\ed335c82eb95a2b67a3e2748d2d191eb2a0ce6be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3c8c45f0088d528d4fbd3330f34d250d96ad4a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\8fcc144805b44a24f3101b64fc4e9b1a33765916\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43ef4bba76fed4dac82105318cd7f576297b1705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\f82880976e4c54c81726b5d79b9d8d1520656324\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79131ed745f65ac7b32a1b619f84abc0d4b89fcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\3d5bef507de6187b1041686b9b154d5e1e528550\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b821fce91bc9febdf7d8d8bce0a97d525a95d86a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\34511b998e5a995c2bea3386bff20f3913b89d3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c1e786a580b38871b3fdfdfea4f27936a77f743\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f8b9be308335d456c8462e66eb1bbf560b7cff9">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1517fdc45b1726e87eba25be7863324752bacdca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\f6c1868530c7f286904ef00ecc14a5565a39f926\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e9da1b1f112a1ab63f14a8fd944f8e53bbace7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\3f92cb473ba9a9eafa163bed253647ada995b8a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb42f758fb745eb12f7e83ae989508115e0fdb24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\1c24806a7c6f454f782664842c7ea0ab4d4b4222\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c8d0ceb9b3e4becb6e2a867ee3cc657d9aa5e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\62b5d419d157100f087a159f6f831f680e15401f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e56e76dc29761a02d50ba19bad59393c39bf4c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\8bb19cfbf6a46c55038cec936b4d7244fba10e2a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
-        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddd6944e3493570073121764d5ebd4a912b41f9f\classes.dex" />
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc0001407e9a6ba4c3f1049d436d06ad866360a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\194121642242ae68a9c0daf67851d284b15c3f3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bcde66f35d4ee21987ec988aa704ab468a6ecda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\08371a1c66e2fa9925272e827ed68a793aa426e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e374da95ac3837c48be10cdd040ec638e738177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\6a1bd324ce2f5c845c7a176d23909e9656db72e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47cfa81c44bfc03d89778431b9e6b34d744633bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\979cb8473acc9bb9a165a6080ace9e843e998c06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a765485eb1e22fac904b17dd30dc01bf68d7b7cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\2070cb9809b1f3d1abccbdcde90ebbc2484995de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b383c5c0d1a699377a839c362a9998c3c331138\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.android\build-cache\ee9e5a2ce10361a03b5d5768880bcf65d7b19b31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_843a85952bf5931d2e8d31b2fd1d86d3ceff7d93\classes.dex" />
     </item>
 
 </items>

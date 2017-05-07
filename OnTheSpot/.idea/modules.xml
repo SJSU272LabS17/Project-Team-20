@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AWSMobileHelper/AWSMobileHelper.iml" filepath="$PROJECT_DIR$/AWSMobileHelper/AWSMobileHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/Location/Location.iml" filepath="$PROJECT_DIR$/Location/Location.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Location/Location.iml" filepath="$PROJECT_DIR$/Location/Location.iml" />
       <module fileurl="file://$PROJECT_DIR$/OnTheSpot.iml" filepath="$PROJECT_DIR$/OnTheSpot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Speech/Speech.iml" filepath="$PROJECT_DIR$/Speech/Speech.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vision/Vision.iml" filepath="$PROJECT_DIR$/Vision/Vision.iml" />
