@@ -1,26 +1,14 @@
 [
     {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\facebook_icon.png",
-        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\facebook_icon.png"
+        "merged": "C:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\button_login.png",
+        "source": "C:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\button_login.png",
-        "source": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login.png"
+        "merged": "C:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
+        "source": "C:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login_pressed.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
-        "source": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\facebook_icon.png",
-        "source": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\facebook_icon.png"
-    },
-    {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\button_login.png",
-        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login.png"
-    },
-    {
-        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
-        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login_pressed.png"
+        "merged": "C:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\facebook_icon.png",
+        "source": "C:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\facebook_icon.png"
     }
 ]

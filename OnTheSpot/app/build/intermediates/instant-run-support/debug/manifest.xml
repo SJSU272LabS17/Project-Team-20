@@ -13,7 +13,7 @@
      http://tools.android.com/tech-docs/new-build-system/applicationid-vs-packagename
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.amazon.onthespot"
+    package="com.onthespot"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -35,10 +35,10 @@
         android:required="true" />
 
     <permission
-        android:name="com.amazon.onthespot.permission.C2D_MESSAGE"
+        android:name="com.onthespot.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.amazon.onthespot.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.onthespot.permission.C2D_MESSAGE" />
 
     <application
         android:name="com.onthespot.Application"
@@ -100,7 +100,7 @@
         -->
         <provider
             android:name="com.facebook.internal.FacebookInitProvider"
-            android:authorities="com.amazon.onthespot.FacebookInitProvider"
+            android:authorities="com.onthespot.FacebookInitProvider"
             android:exported="false" />
 
         <activity
@@ -142,7 +142,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.amazon.onthespot.provider"
+            android:authorities="com.onthespot.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -236,7 +236,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
             android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
             <intent-filter>
-                <data android:scheme="tagmanager.c.com.amazon.onthespot" />
+                <data android:scheme="tagmanager.c.com.onthespot" />
 
                 <action android:name="android.intent.action.VIEW" />
 
@@ -276,7 +276,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.amazon.onthespot" />
+                <category android:name="com.onthespot" />
             </intent-filter>
         </receiver>
         <!--
@@ -300,12 +300,12 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.amazon.onthespot.firebaseinitprovider"
+            android:authorities="com.onthespot.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
-            android:authorities="com.amazon.onthespot.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.onthespot.com.android.tools.fd.runtime.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

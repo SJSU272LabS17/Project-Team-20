@@ -4397,7 +4397,7 @@ containing a value of this type.
         public static final int selector_button_login=0x7f0201b2;
     }
     public static final class id {
-        public static final int action0=0x7f11016f;
+        public static final int action0=0x7f110170;
         public static final int action_bar=0x7f1100b9;
         public static final int action_bar_activity_content=0x7f110000;
         public static final int action_bar_container=0x7f1100b8;
@@ -4405,18 +4405,18 @@ containing a value of this type.
         public static final int action_bar_spinner=0x7f110001;
         public static final int action_bar_subtitle=0x7f110097;
         public static final int action_bar_title=0x7f110096;
-        public static final int action_container=0x7f11016c;
+        public static final int action_container=0x7f11016d;
         public static final int action_context_bar=0x7f1100ba;
-        public static final int action_divider=0x7f110173;
-        public static final int action_image=0x7f11016d;
+        public static final int action_divider=0x7f110174;
+        public static final int action_image=0x7f11016e;
         public static final int action_menu_divider=0x7f110002;
         public static final int action_menu_presenter=0x7f110003;
         public static final int action_mode_bar=0x7f1100b6;
         public static final int action_mode_bar_stub=0x7f1100b5;
         public static final int action_mode_close_button=0x7f110098;
-        public static final int action_settings=0x7f110195;
-        public static final int action_text=0x7f11016e;
-        public static final int actions=0x7f11017b;
+        public static final int action_settings=0x7f110196;
+        public static final int action_text=0x7f11016f;
+        public static final int actions=0x7f11017c;
         public static final int activity_chooser_view_content=0x7f110099;
         public static final int ad_container=0x7f110108;
         public static final int ad_image_view=0x7f11010b;
@@ -4443,10 +4443,10 @@ containing a value of this type.
         public static final int book_now=0x7f11007c;
         public static final int bottom=0x7f110034;
         public static final int box_count=0x7f110090;
-        public static final int btnSpeak=0x7f110190;
+        public static final int btnSpeak=0x7f110191;
         public static final int button=0x7f110091;
         public static final int buttonPanel=0x7f1100a0;
-        public static final int buttonSubmit=0x7f110191;
+        public static final int buttonSubmit=0x7f110192;
         public static final int button_0=0x7f110114;
         public static final int button_1=0x7f110115;
         public static final int button_2=0x7f110117;
@@ -4458,7 +4458,7 @@ containing a value of this type.
         public static final int buy_now=0x7f11007d;
         public static final int buy_with=0x7f11007e;
         public static final int buy_with_google=0x7f11007f;
-        public static final int cancel_action=0x7f110170;
+        public static final int cancel_action=0x7f110171;
         public static final int cancel_button=0x7f11012a;
         public static final int cast_button_type_closed_caption=0x7f110004;
         public static final int cast_button_type_custom=0x7f110005;
@@ -4477,7 +4477,7 @@ containing a value of this type.
         public static final int center_horizontal=0x7f110036;
         public static final int center_vertical=0x7f110037;
         public static final int checkbox=0x7f1100b0;
-        public static final int chronometer=0x7f110178;
+        public static final int chronometer=0x7f110179;
         public static final int classic=0x7f110086;
         public static final int clip_horizontal=0x7f110040;
         public static final int clip_vertical=0x7f110041;
@@ -4527,13 +4527,13 @@ containing a value of this type.
         public static final int display_always=0x7f110094;
         public static final int donate_with=0x7f110080;
         public static final int donate_with_google=0x7f110081;
-        public static final int drawer_item_icon=0x7f11016a;
-        public static final int drawer_item_text=0x7f11016b;
+        public static final int drawer_item_icon=0x7f11016b;
+        public static final int drawer_item_text=0x7f11016c;
         public static final int drawer_layout=0x7f1100d1;
         public static final int edit_query=0x7f1100bb;
         public static final int email=0x7f110054;
         public static final int end=0x7f110038;
-        public static final int end_padder=0x7f110180;
+        public static final int end_padder=0x7f110181;
         public static final int end_text=0x7f110110;
         public static final int enterAlways=0x7f110027;
         public static final int enterAlwaysCollapsed=0x7f110028;
@@ -4541,7 +4541,7 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f11009a;
         public static final int expanded_controller_layout=0x7f110103;
         public static final int expanded_menu=0x7f1100af;
-        public static final int fab=0x7f110192;
+        public static final int fab=0x7f110193;
         public static final int fb_login_button=0x7f1100e8;
         public static final int fill=0x7f110042;
         public static final int fill_horizontal=0x7f110043;
@@ -4567,7 +4567,7 @@ containing a value of this type.
         public static final int html=0x7f110062;
         public static final int hybrid=0x7f11005a;
         public static final int icon=0x7f11009e;
-        public static final int icon_group=0x7f11017c;
+        public static final int icon_group=0x7f11017d;
         public static final int icon_only=0x7f11006c;
         public static final int icon_uri=0x7f110049;
         public static final int icon_view=0x7f11011c;
@@ -4576,7 +4576,7 @@ containing a value of this type.
         public static final int imageView_demoIdentityUserImage=0x7f110142;
         public static final int image_details=0x7f110133;
         public static final int index_entity_types=0x7f110068;
-        public static final int info=0x7f110179;
+        public static final int info=0x7f11017a;
         public static final int inline=0x7f110092;
         public static final int instant_message=0x7f110055;
         public static final int intent_action=0x7f11004a;
@@ -4590,14 +4590,14 @@ containing a value of this type.
         public static final int large_icon_uri=0x7f11004f;
         public static final int left=0x7f11003a;
         public static final int light=0x7f110047;
-        public static final int line1=0x7f11017e;
-        public static final int line3=0x7f11017f;
-        public static final int linearLayout=0x7f11018a;
+        public static final int line1=0x7f11017f;
+        public static final int line3=0x7f110180;
+        public static final int linearLayout=0x7f11018b;
         public static final int listMode=0x7f11001d;
         public static final int list_item=0x7f11009d;
-        public static final int list_item_icon=0x7f11014d;
-        public static final int list_item_subtitle=0x7f11014f;
-        public static final int list_item_title=0x7f11014e;
+        public static final int list_item_icon=0x7f11014e;
+        public static final int list_item_subtitle=0x7f110150;
+        public static final int list_item_title=0x7f11014f;
         public static final int live_stream_indicator=0x7f110111;
         public static final int live_stream_seek_bar=0x7f110113;
         public static final int loading_indicator=0x7f11010c;
@@ -4607,11 +4607,11 @@ containing a value of this type.
         public static final int main_content_layout=0x7f1100d2;
         public static final int main_fragment_container=0x7f1100d4;
         public static final int main_image=0x7f110134;
-        public static final int masked=0x7f110194;
+        public static final int masked=0x7f110195;
         public static final int match_global_nicknames=0x7f110069;
         public static final int match_parent=0x7f11007b;
-        public static final int media_actions=0x7f110172;
-        public static final int messenger_send_button=0x7f110150;
+        public static final int media_actions=0x7f110173;
+        public static final int messenger_send_button=0x7f110151;
         public static final int mfa_button=0x7f1100e2;
         public static final int mfa_code=0x7f1100e0;
         public static final int mfa_message=0x7f1100de;
@@ -4622,31 +4622,31 @@ containing a value of this type.
         public static final int middle=0x7f110057;
         public static final int mini=0x7f110048;
         public static final int monochrome=0x7f11008b;
-        public static final int mr_art=0x7f11015c;
-        public static final int mr_chooser_list=0x7f110151;
-        public static final int mr_chooser_route_desc=0x7f110154;
-        public static final int mr_chooser_route_icon=0x7f110152;
-        public static final int mr_chooser_route_name=0x7f110153;
-        public static final int mr_close=0x7f110159;
-        public static final int mr_control_divider=0x7f11015f;
-        public static final int mr_control_play_pause=0x7f110165;
-        public static final int mr_control_subtitle=0x7f110168;
-        public static final int mr_control_title=0x7f110167;
-        public static final int mr_control_title_container=0x7f110166;
-        public static final int mr_custom_control=0x7f11015a;
-        public static final int mr_default_control=0x7f11015b;
-        public static final int mr_dialog_area=0x7f110156;
-        public static final int mr_expandable_area=0x7f110155;
-        public static final int mr_group_expand_collapse=0x7f110169;
-        public static final int mr_media_main_control=0x7f11015d;
-        public static final int mr_name=0x7f110158;
-        public static final int mr_playback_control=0x7f11015e;
-        public static final int mr_title_bar=0x7f110157;
-        public static final int mr_volume_control=0x7f110160;
-        public static final int mr_volume_group_list=0x7f110161;
-        public static final int mr_volume_item_icon=0x7f110163;
-        public static final int mr_volume_slider=0x7f110164;
-        public static final int multiAutoCompleteTextView=0x7f11018f;
+        public static final int mr_art=0x7f11015d;
+        public static final int mr_chooser_list=0x7f110152;
+        public static final int mr_chooser_route_desc=0x7f110155;
+        public static final int mr_chooser_route_icon=0x7f110153;
+        public static final int mr_chooser_route_name=0x7f110154;
+        public static final int mr_close=0x7f11015a;
+        public static final int mr_control_divider=0x7f110160;
+        public static final int mr_control_play_pause=0x7f110166;
+        public static final int mr_control_subtitle=0x7f110169;
+        public static final int mr_control_title=0x7f110168;
+        public static final int mr_control_title_container=0x7f110167;
+        public static final int mr_custom_control=0x7f11015b;
+        public static final int mr_default_control=0x7f11015c;
+        public static final int mr_dialog_area=0x7f110157;
+        public static final int mr_expandable_area=0x7f110156;
+        public static final int mr_group_expand_collapse=0x7f11016a;
+        public static final int mr_media_main_control=0x7f11015e;
+        public static final int mr_name=0x7f110159;
+        public static final int mr_playback_control=0x7f11015f;
+        public static final int mr_title_bar=0x7f110158;
+        public static final int mr_volume_control=0x7f110161;
+        public static final int mr_volume_group_list=0x7f110162;
+        public static final int mr_volume_item_icon=0x7f110164;
+        public static final int mr_volume_slider=0x7f110165;
+        public static final int multiAutoCompleteTextView=0x7f110190;
         public static final int multiply=0x7f11002d;
         public static final int nav_drawer=0x7f1100d6;
         public static final int nav_drawer_items=0x7f1100db;
@@ -4655,9 +4655,9 @@ containing a value of this type.
         public static final int never_display=0x7f110095;
         public static final int none=0x7f110022;
         public static final int normal=0x7f11001e;
-        public static final int notification_background=0x7f11017a;
-        public static final int notification_main_column=0x7f110175;
-        public static final int notification_main_column_container=0x7f110174;
+        public static final int notification_background=0x7f11017b;
+        public static final int notification_main_column=0x7f110176;
+        public static final int notification_main_column_container=0x7f110175;
         public static final int objectTextView=0x7f11014b;
         public static final int omnibox_title_section=0x7f11006a;
         public static final int omnibox_url_section=0x7f11006b;
@@ -4666,14 +4666,14 @@ containing a value of this type.
         public static final int parallax=0x7f11003e;
         public static final int parentPanel=0x7f1100a2;
         public static final int pin=0x7f11003f;
-        public static final int place_autocomplete_clear_button=0x7f110183;
-        public static final int place_autocomplete_powered_by_google=0x7f110185;
-        public static final int place_autocomplete_prediction_primary_text=0x7f110187;
-        public static final int place_autocomplete_prediction_secondary_text=0x7f110188;
-        public static final int place_autocomplete_progress=0x7f110186;
-        public static final int place_autocomplete_search_button=0x7f110181;
-        public static final int place_autocomplete_search_input=0x7f110182;
-        public static final int place_autocomplete_separator=0x7f110184;
+        public static final int place_autocomplete_clear_button=0x7f110184;
+        public static final int place_autocomplete_powered_by_google=0x7f110186;
+        public static final int place_autocomplete_prediction_primary_text=0x7f110188;
+        public static final int place_autocomplete_prediction_secondary_text=0x7f110189;
+        public static final int place_autocomplete_progress=0x7f110187;
+        public static final int place_autocomplete_search_button=0x7f110182;
+        public static final int place_autocomplete_search_input=0x7f110183;
+        public static final int place_autocomplete_separator=0x7f110185;
         public static final int plain=0x7f110063;
         public static final int production=0x7f110075;
         public static final int progressBar=0x7f11011f;
@@ -4683,9 +4683,9 @@ containing a value of this type.
         public static final int radio=0x7f1100b2;
         public static final int rfc822=0x7f110064;
         public static final int right=0x7f11003b;
-        public static final int right_icon=0x7f11017d;
-        public static final int right_side=0x7f110176;
-        public static final int rowTextView=0x7f110189;
+        public static final int right_icon=0x7f11017e;
+        public static final int right_side=0x7f110177;
+        public static final int rowTextView=0x7f11018a;
         public static final int sandbox=0x7f110076;
         public static final int satellite=0x7f11005b;
         public static final int screen=0x7f11002e;
@@ -4746,7 +4746,7 @@ containing a value of this type.
         public static final int standard=0x7f11006d;
         public static final int start=0x7f11003c;
         public static final int start_text=0x7f11010f;
-        public static final int status_bar_latest_event_content=0x7f110171;
+        public static final int status_bar_latest_event_content=0x7f110172;
         public static final int status_text=0x7f11010d;
         public static final int strict_sandbox=0x7f110077;
         public static final int submenuarrow=0x7f1100b3;
@@ -4762,10 +4762,10 @@ containing a value of this type.
         public static final int textSpacerNoButtons=0x7f1100a7;
         public static final int textSpacerNoTitle=0x7f1100a6;
         public static final int textTitle=0x7f110119;
-        public static final int textView=0x7f11018c;
-        public static final int textView3=0x7f11018b;
-        public static final int textView5=0x7f11018d;
-        public static final int textView7=0x7f11018e;
+        public static final int textView=0x7f11018d;
+        public static final int textView3=0x7f11018c;
+        public static final int textView5=0x7f11018e;
+        public static final int textView7=0x7f11018f;
         public static final int textView_demoIdentityUserID=0x7f110145;
         public static final int textView_demoIdentityUserIDLabel=0x7f110144;
         public static final int textView_demoIdentityUserName=0x7f110143;
@@ -4779,7 +4779,7 @@ containing a value of this type.
         public static final int textinput_counter=0x7f110017;
         public static final int textinput_error=0x7f110018;
         public static final int thing_proto=0x7f110052;
-        public static final int time=0x7f110177;
+        public static final int time=0x7f110178;
         public static final int title=0x7f11009f;
         public static final int titleDividerNoCustom=0x7f1100ae;
         public static final int title_template=0x7f1100ac;
@@ -4796,10 +4796,11 @@ containing a value of this type.
         public static final int useLogo=0x7f110026;
         public static final int userImage=0x7f1100d8;
         public static final int userName=0x7f1100d9;
+        public static final int userTextView=0x7f11014d;
         public static final int user_info=0x7f1100d7;
         public static final int view_offset_helper=0x7f11001c;
-        public static final int visible=0x7f110193;
-        public static final int volume_item_container=0x7f110162;
+        public static final int visible=0x7f110194;
+        public static final int volume_item_container=0x7f110163;
         public static final int wide=0x7f11006e;
         public static final int withText=0x7f110061;
         public static final int wrap_content=0x7f110032;
@@ -5674,35 +5675,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.amazon.onthespot:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.amazon.onthespot:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.amazon.onthespot:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.amazon.onthespot:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.amazon.onthespot:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.amazon.onthespot:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.amazon.onthespot:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.amazon.onthespot:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.amazon.onthespot:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.amazon.onthespot:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.amazon.onthespot:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.amazon.onthespot:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.amazon.onthespot:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.amazon.onthespot:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.amazon.onthespot:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.amazon.onthespot:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.amazon.onthespot:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.amazon.onthespot:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.amazon.onthespot:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.amazon.onthespot:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.amazon.onthespot:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.amazon.onthespot:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.amazon.onthespot:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.amazon.onthespot:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.amazon.onthespot:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.amazon.onthespot:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.amazon.onthespot:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.amazon.onthespot:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.amazon.onthespot:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.onthespot:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.onthespot:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.onthespot:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.onthespot:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.onthespot:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.onthespot:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.onthespot:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.onthespot:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.onthespot:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.onthespot:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.onthespot:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.onthespot:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.onthespot:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.onthespot:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.onthespot:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.onthespot:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.onthespot:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.onthespot:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.onthespot:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.onthespot:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.onthespot:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.onthespot:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.onthespot:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.onthespot:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.onthespot:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.onthespot:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.onthespot:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.onthespot:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.onthespot:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -5745,17 +5746,17 @@ containing a value of this type.
             0x7f010079
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#background}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:background
+          @attr name com.onthespot:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5763,11 +5764,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:backgroundSplit
+          @attr name com.onthespot:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5775,11 +5776,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:backgroundStacked
+          @attr name com.onthespot:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5791,11 +5792,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetEnd
+          @attr name com.onthespot:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5807,11 +5808,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetEndWithActions
+          @attr name com.onthespot:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5823,11 +5824,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetLeft
+          @attr name com.onthespot:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5839,11 +5840,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetRight
+          @attr name com.onthespot:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5855,11 +5856,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetStart
+          @attr name com.onthespot:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5871,21 +5872,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetStartWithNavigation
+          @attr name com.onthespot:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:customNavigationLayout
+          @attr name com.onthespot:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5903,21 +5904,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:displayOptions
+          @attr name com.onthespot:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:divider
+          @attr name com.onthespot:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5929,11 +5930,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:elevation
+          @attr name com.onthespot:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#height}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5945,11 +5946,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:height
+          @attr name com.onthespot:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5959,51 +5960,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:hideOnContentScroll
+          @attr name com.onthespot:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:homeAsUpIndicator
+          @attr name com.onthespot:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:homeLayout
+          @attr name com.onthespot:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:icon
+          @attr name com.onthespot:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:indeterminateProgressStyle
+          @attr name com.onthespot:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6015,21 +6016,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:itemPadding
+          @attr name com.onthespot:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:logo
+          @attr name com.onthespot:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6043,21 +6044,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:navigationMode
+          @attr name com.onthespot:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:popupTheme
+          @attr name com.onthespot:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6069,21 +6070,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:progressBarPadding
+          @attr name com.onthespot:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:progressBarStyle
+          @attr name com.onthespot:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6093,21 +6094,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:subtitle
+          @attr name com.onthespot:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:subtitleTextStyle
+          @attr name com.onthespot:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#title}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6117,17 +6118,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:title
+          @attr name com.onthespot:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:titleTextStyle
+          @attr name com.onthespot:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -6179,12 +6180,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.amazon.onthespot:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.amazon.onthespot:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.amazon.onthespot:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.amazon.onthespot:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.amazon.onthespot:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.amazon.onthespot:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.onthespot:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.onthespot:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.onthespot:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.onthespot:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.onthespot:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.onthespot:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -6198,17 +6199,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010024, 0x7f010034
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#background}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:background
+          @attr name com.onthespot:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -6216,21 +6217,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:backgroundSplit
+          @attr name com.onthespot:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:closeItemLayout
+          @attr name com.onthespot:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#height}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -6242,27 +6243,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:height
+          @attr name com.onthespot:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:subtitleTextStyle
+          @attr name com.onthespot:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:titleTextStyle
+          @attr name com.onthespot:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -6271,8 +6272,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.amazon.onthespot:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.amazon.onthespot:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.onthespot:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.onthespot:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -6281,17 +6282,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010035, 0x7f010036
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:expandActivityOverflowButtonDrawable
+          @attr name com.onthespot:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -6301,7 +6302,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:initialActivityCount
+          @attr name com.onthespot:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AdsAttrs.
@@ -6310,9 +6311,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize com.amazon.onthespot:adSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes com.amazon.onthespot:adSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId com.amazon.onthespot:adUnitId}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSize com.onthespot:adSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSizes com.onthespot:adSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adUnitId com.onthespot:adUnitId}</code></td><td></td></tr>
            </table>
            @see #AdsAttrs_adSize
            @see #AdsAttrs_adSizes
@@ -6322,7 +6323,7 @@ containing a value of this type.
             0x7f010037, 0x7f010038, 0x7f010039
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#adSize}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#adSize}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -6332,11 +6333,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:adSize
+          @attr name com.onthespot:adSize
         */
         public static final int AdsAttrs_adSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#adSizes}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#adSizes}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -6346,11 +6347,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:adSizes
+          @attr name com.onthespot:adSizes
         */
         public static final int AdsAttrs_adSizes = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#adUnitId}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#adUnitId}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -6360,7 +6361,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:adUnitId
+          @attr name com.onthespot:adUnitId
         */
         public static final int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a AlertDialog.
@@ -6370,12 +6371,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.amazon.onthespot:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.amazon.onthespot:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.amazon.onthespot:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.amazon.onthespot:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.amazon.onthespot:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.amazon.onthespot:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.onthespot:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.onthespot:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.onthespot:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.onthespot:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.onthespot:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.onthespot:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -6396,47 +6397,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonPanelSideLayout
+          @attr name com.onthespot:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:listItemLayout
+          @attr name com.onthespot:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:listLayout
+          @attr name com.onthespot:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:multiChoiceItemLayout
+          @attr name com.onthespot:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -6446,17 +6447,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:showTitle
+          @attr name com.onthespot:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:singleChoiceItemLayout
+          @attr name com.onthespot:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -6466,8 +6467,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.amazon.onthespot:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.amazon.onthespot:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.onthespot:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.onthespot:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -6483,7 +6484,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6495,11 +6496,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:elevation
+          @attr name com.onthespot:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6509,7 +6510,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:expanded
+          @attr name com.onthespot:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -6518,8 +6519,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.amazon.onthespot:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.amazon.onthespot:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.onthespot:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.onthespot:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -6528,7 +6529,7 @@ containing a value of this type.
             0x7f010041, 0x7f010042
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6538,11 +6539,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:state_collapsed
+          @attr name com.onthespot:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6552,7 +6553,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:state_collapsible
+          @attr name com.onthespot:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -6561,8 +6562,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.amazon.onthespot:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.amazon.onthespot:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.onthespot:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.onthespot:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -6571,7 +6572,7 @@ containing a value of this type.
             0x7f010043, 0x7f010044
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -6587,17 +6588,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:layout_scrollFlags
+          @attr name com.onthespot:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:layout_scrollInterpolator
+          @attr name com.onthespot:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -6607,7 +6608,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.amazon.onthespot:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.onthespot:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -6622,13 +6623,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:srcCompat
+          @attr name com.onthespot:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -6638,9 +6639,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.amazon.onthespot:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.amazon.onthespot:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.amazon.onthespot:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.onthespot:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.onthespot:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.onthespot:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -6657,17 +6658,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:tickMark
+          @attr name com.onthespot:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -6678,11 +6679,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tickMarkTint
+          @attr name com.onthespot:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -6699,7 +6700,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:tickMarkTintMode
+          @attr name com.onthespot:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -6777,7 +6778,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.amazon.onthespot:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.onthespot:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -6792,14 +6793,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.amazon.onthespot:textAllCaps
+          @attr name com.onthespot:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -6808,121 +6809,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.amazon.onthespot:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.amazon.onthespot:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.amazon.onthespot:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.amazon.onthespot:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.amazon.onthespot:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.amazon.onthespot:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.amazon.onthespot:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.amazon.onthespot:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.amazon.onthespot:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.amazon.onthespot:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.amazon.onthespot:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.amazon.onthespot:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.amazon.onthespot:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.amazon.onthespot:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.amazon.onthespot:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.amazon.onthespot:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.amazon.onthespot:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.amazon.onthespot:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.amazon.onthespot:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.amazon.onthespot:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.amazon.onthespot:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.amazon.onthespot:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.amazon.onthespot:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.amazon.onthespot:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.amazon.onthespot:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.amazon.onthespot:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.amazon.onthespot:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.amazon.onthespot:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.amazon.onthespot:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.amazon.onthespot:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.amazon.onthespot:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.amazon.onthespot:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.amazon.onthespot:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.amazon.onthespot:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.amazon.onthespot:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.onthespot:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.onthespot:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.onthespot:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.onthespot:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.onthespot:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.onthespot:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.onthespot:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.onthespot:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.onthespot:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.onthespot:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.onthespot:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.onthespot:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.onthespot:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.onthespot:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.onthespot:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.onthespot:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.onthespot:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.onthespot:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.onthespot:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.onthespot:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.onthespot:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.onthespot:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.onthespot:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.onthespot:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.onthespot:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.onthespot:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.onthespot:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.onthespot:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.onthespot:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.onthespot:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.onthespot:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.onthespot:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.onthespot:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.onthespot:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.onthespot:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.amazon.onthespot:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.amazon.onthespot:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.amazon.onthespot:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.amazon.onthespot:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.amazon.onthespot:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.amazon.onthespot:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.amazon.onthespot:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.amazon.onthespot:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.amazon.onthespot:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.amazon.onthespot:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.amazon.onthespot:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.amazon.onthespot:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.amazon.onthespot:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.amazon.onthespot:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.amazon.onthespot:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.amazon.onthespot:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.amazon.onthespot:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.amazon.onthespot:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.amazon.onthespot:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.amazon.onthespot:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.amazon.onthespot:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.amazon.onthespot:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.amazon.onthespot:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.amazon.onthespot:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.amazon.onthespot:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.amazon.onthespot:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.amazon.onthespot:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.amazon.onthespot:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.amazon.onthespot:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.amazon.onthespot:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.amazon.onthespot:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.amazon.onthespot:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.amazon.onthespot:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.amazon.onthespot:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.amazon.onthespot:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.amazon.onthespot:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.amazon.onthespot:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.amazon.onthespot:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.amazon.onthespot:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.amazon.onthespot:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.amazon.onthespot:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.amazon.onthespot:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.amazon.onthespot:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.amazon.onthespot:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.amazon.onthespot:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.amazon.onthespot:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.amazon.onthespot:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.amazon.onthespot:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.amazon.onthespot:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.amazon.onthespot:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.amazon.onthespot:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.amazon.onthespot:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.amazon.onthespot:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.amazon.onthespot:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.amazon.onthespot:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.amazon.onthespot:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.amazon.onthespot:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.amazon.onthespot:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.amazon.onthespot:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.amazon.onthespot:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.amazon.onthespot:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.amazon.onthespot:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.amazon.onthespot:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.amazon.onthespot:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.amazon.onthespot:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.amazon.onthespot:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.amazon.onthespot:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.amazon.onthespot:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.amazon.onthespot:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.amazon.onthespot:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.amazon.onthespot:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.amazon.onthespot:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.amazon.onthespot:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.amazon.onthespot:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.amazon.onthespot:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.amazon.onthespot:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.amazon.onthespot:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.amazon.onthespot:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.onthespot:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.onthespot:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.onthespot:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.onthespot:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.onthespot:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.onthespot:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.onthespot:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.onthespot:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.onthespot:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.onthespot:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.onthespot:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.onthespot:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.onthespot:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.onthespot:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.onthespot:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.onthespot:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.onthespot:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.onthespot:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.onthespot:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.onthespot:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.onthespot:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.onthespot:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.onthespot:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.onthespot:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.onthespot:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.onthespot:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.onthespot:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.onthespot:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.onthespot:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.onthespot:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.onthespot:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.onthespot:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.onthespot:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.onthespot:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.onthespot:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.onthespot:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.onthespot:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.onthespot:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.onthespot:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.onthespot:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.onthespot:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.onthespot:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.onthespot:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.onthespot:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.onthespot:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.onthespot:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.onthespot:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.onthespot:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.onthespot:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.onthespot:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.onthespot:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.onthespot:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.onthespot:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.onthespot:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.onthespot:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.onthespot:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.onthespot:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.onthespot:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.onthespot:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.onthespot:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.onthespot:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.onthespot:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.onthespot:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.onthespot:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.onthespot:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.onthespot:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.onthespot:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.onthespot:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.onthespot:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.onthespot:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.onthespot:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.onthespot:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.onthespot:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.onthespot:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.onthespot:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.onthespot:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.onthespot:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.onthespot:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -7072,37 +7073,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b8, 0x7f0100b9, 0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarDivider
+          @attr name com.onthespot:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarItemBackground
+          @attr name com.onthespot:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarPopupTheme
+          @attr name com.onthespot:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7122,111 +7123,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:actionBarSize
+          @attr name com.onthespot:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarSplitStyle
+          @attr name com.onthespot:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarStyle
+          @attr name com.onthespot:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarTabBarStyle
+          @attr name com.onthespot:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarTabStyle
+          @attr name com.onthespot:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarTabTextStyle
+          @attr name com.onthespot:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarTheme
+          @attr name com.onthespot:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionBarWidgetTheme
+          @attr name com.onthespot:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionButtonStyle
+          @attr name com.onthespot:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionDropDownStyle
+          @attr name com.onthespot:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionMenuTextAppearance
+          @attr name com.onthespot:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7234,181 +7235,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:actionMenuTextColor
+          @attr name com.onthespot:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeBackground
+          @attr name com.onthespot:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeCloseButtonStyle
+          @attr name com.onthespot:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeCloseDrawable
+          @attr name com.onthespot:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeCopyDrawable
+          @attr name com.onthespot:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeCutDrawable
+          @attr name com.onthespot:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeFindDrawable
+          @attr name com.onthespot:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModePasteDrawable
+          @attr name com.onthespot:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModePopupWindowStyle
+          @attr name com.onthespot:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeSelectAllDrawable
+          @attr name com.onthespot:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeShareDrawable
+          @attr name com.onthespot:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeSplitBackground
+          @attr name com.onthespot:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeStyle
+          @attr name com.onthespot:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionModeWebSearchDrawable
+          @attr name com.onthespot:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionOverflowButtonStyle
+          @attr name com.onthespot:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionOverflowMenuStyle
+          @attr name com.onthespot:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:activityChooserViewStyle
+          @attr name com.onthespot:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:alertDialogButtonGroupStyle
+          @attr name com.onthespot:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7418,27 +7419,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:alertDialogCenterButtons
+          @attr name com.onthespot:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:alertDialogStyle
+          @attr name com.onthespot:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:alertDialogTheme
+          @attr name com.onthespot:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -7454,117 +7455,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:autoCompleteTextViewStyle
+          @attr name com.onthespot:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:borderlessButtonStyle
+          @attr name com.onthespot:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonBarButtonStyle
+          @attr name com.onthespot:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonBarNegativeButtonStyle
+          @attr name com.onthespot:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonBarNeutralButtonStyle
+          @attr name com.onthespot:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonBarPositiveButtonStyle
+          @attr name com.onthespot:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonBarStyle
+          @attr name com.onthespot:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonStyle
+          @attr name com.onthespot:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:buttonStyleSmall
+          @attr name com.onthespot:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:checkboxStyle
+          @attr name com.onthespot:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:checkedTextViewStyle
+          @attr name com.onthespot:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7575,11 +7576,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorAccent
+          @attr name com.onthespot:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7590,11 +7591,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorBackgroundFloating
+          @attr name com.onthespot:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7605,11 +7606,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorButtonNormal
+          @attr name com.onthespot:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7620,11 +7621,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorControlActivated
+          @attr name com.onthespot:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7635,11 +7636,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorControlHighlight
+          @attr name com.onthespot:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7650,11 +7651,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorControlNormal
+          @attr name com.onthespot:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7665,11 +7666,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorPrimary
+          @attr name com.onthespot:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7680,11 +7681,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorPrimaryDark
+          @attr name com.onthespot:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7695,21 +7696,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:colorSwitchThumbNormal
+          @attr name com.onthespot:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:controlBackground
+          @attr name com.onthespot:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7721,51 +7722,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:dialogPreferredPadding
+          @attr name com.onthespot:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:dialogTheme
+          @attr name com.onthespot:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:dividerHorizontal
+          @attr name com.onthespot:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:dividerVertical
+          @attr name com.onthespot:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:dropDownListViewStyle
+          @attr name com.onthespot:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7777,21 +7778,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:dropdownListPreferredItemHeight
+          @attr name com.onthespot:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:editTextBackground
+          @attr name com.onthespot:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7799,81 +7800,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:editTextColor
+          @attr name com.onthespot:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:editTextStyle
+          @attr name com.onthespot:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:homeAsUpIndicator
+          @attr name com.onthespot:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:imageButtonStyle
+          @attr name com.onthespot:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:listChoiceBackgroundIndicator
+          @attr name com.onthespot:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:listDividerAlertDialog
+          @attr name com.onthespot:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:listMenuViewStyle
+          @attr name com.onthespot:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:listPopupWindowStyle
+          @attr name com.onthespot:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7885,11 +7886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:listPreferredItemHeight
+          @attr name com.onthespot:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7901,11 +7902,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:listPreferredItemHeightLarge
+          @attr name com.onthespot:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7917,11 +7918,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:listPreferredItemHeightSmall
+          @attr name com.onthespot:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7933,11 +7934,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:listPreferredItemPaddingLeft
+          @attr name com.onthespot:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7949,31 +7950,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:listPreferredItemPaddingRight
+          @attr name com.onthespot:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:panelBackground
+          @attr name com.onthespot:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:panelMenuListTheme
+          @attr name com.onthespot:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7985,211 +7986,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:panelMenuListWidth
+          @attr name com.onthespot:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:popupMenuStyle
+          @attr name com.onthespot:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:popupWindowStyle
+          @attr name com.onthespot:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:radioButtonStyle
+          @attr name com.onthespot:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:ratingBarStyle
+          @attr name com.onthespot:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:ratingBarStyleIndicator
+          @attr name com.onthespot:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:ratingBarStyleSmall
+          @attr name com.onthespot:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:searchViewStyle
+          @attr name com.onthespot:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:seekBarStyle
+          @attr name com.onthespot:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:selectableItemBackground
+          @attr name com.onthespot:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:selectableItemBackgroundBorderless
+          @attr name com.onthespot:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:spinnerDropDownItemStyle
+          @attr name com.onthespot:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:spinnerStyle
+          @attr name com.onthespot:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:switchStyle
+          @attr name com.onthespot:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:textAppearanceLargePopupMenu
+          @attr name com.onthespot:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:textAppearanceListItem
+          @attr name com.onthespot:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:textAppearanceListItemSmall
+          @attr name com.onthespot:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:textAppearancePopupMenuHeader
+          @attr name com.onthespot:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:textAppearanceSearchResultSubtitle
+          @attr name com.onthespot:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:textAppearanceSearchResultTitle
+          @attr name com.onthespot:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:textAppearanceSmallPopupMenu
+          @attr name com.onthespot:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8197,11 +8198,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:textColorAlertDialogListItem
+          @attr name com.onthespot:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8209,31 +8210,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:textColorSearchUrl
+          @attr name com.onthespot:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:toolbarNavigationButtonStyle
+          @attr name com.onthespot:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:toolbarStyle
+          @attr name com.onthespot:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8243,11 +8244,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowActionBar
+          @attr name com.onthespot:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8257,11 +8258,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowActionBarOverlay
+          @attr name com.onthespot:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8271,11 +8272,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowActionModeOverlay
+          @attr name com.onthespot:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8290,11 +8291,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowFixedHeightMajor
+          @attr name com.onthespot:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8309,11 +8310,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowFixedHeightMinor
+          @attr name com.onthespot:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8328,11 +8329,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowFixedWidthMajor
+          @attr name com.onthespot:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8347,11 +8348,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowFixedWidthMinor
+          @attr name com.onthespot:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8366,11 +8367,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowMinWidthMajor
+          @attr name com.onthespot:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8385,11 +8386,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowMinWidthMinor
+          @attr name com.onthespot:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8399,7 +8400,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:windowNoTitle
+          @attr name com.onthespot:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a AppDataSearch.
@@ -8413,11 +8414,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.amazon.onthespot:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.amazon.onthespot:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.amazon.onthespot:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.amazon.onthespot:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.amazon.onthespot:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.onthespot:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.onthespot:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.onthespot:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.onthespot:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.onthespot:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -8430,7 +8431,7 @@ containing a value of this type.
             0x7f010159
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8442,21 +8443,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:elevation
+          @attr name com.onthespot:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:itemBackground
+          @attr name com.onthespot:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8467,11 +8468,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:itemIconTint
+          @attr name com.onthespot:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8482,17 +8483,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:itemTextColor
+          @attr name com.onthespot:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:menu
+          @attr name com.onthespot:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -8501,9 +8502,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.amazon.onthespot:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.amazon.onthespot:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.amazon.onthespot:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.onthespot:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.onthespot:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.onthespot:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -8513,7 +8514,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100bb, 0x7f0100bc, 0x7f0100bd
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8523,11 +8524,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:behavior_hideable
+          @attr name com.onthespot:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8547,11 +8548,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:behavior_peekHeight
+          @attr name com.onthespot:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8561,7 +8562,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:behavior_skipCollapsed
+          @attr name com.onthespot:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarContainerTheme.
@@ -8570,8 +8571,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarButtonStyle com.amazon.onthespot:metaButtonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarStyle com.amazon.onthespot:metaButtonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarButtonStyle com.onthespot:metaButtonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarContainerTheme_metaButtonBarStyle com.onthespot:metaButtonBarStyle}</code></td><td></td></tr>
            </table>
            @see #ButtonBarContainerTheme_metaButtonBarButtonStyle
            @see #ButtonBarContainerTheme_metaButtonBarStyle
@@ -8580,23 +8581,23 @@ containing a value of this type.
             0x7f0100be, 0x7f0100bf
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#metaButtonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#metaButtonBarButtonStyle}
           attribute's value can be found in the {@link #ButtonBarContainerTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:metaButtonBarButtonStyle
+          @attr name com.onthespot:metaButtonBarButtonStyle
         */
         public static final int ButtonBarContainerTheme_metaButtonBarButtonStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#metaButtonBarStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#metaButtonBarStyle}
           attribute's value can be found in the {@link #ButtonBarContainerTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:metaButtonBarStyle
+          @attr name com.onthespot:metaButtonBarStyle
         */
         public static final int ButtonBarContainerTheme_metaButtonBarStyle = 0;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -8605,7 +8606,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.amazon.onthespot:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.onthespot:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -8613,7 +8614,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100c0
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -8623,7 +8624,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:allowStacking
+          @attr name com.onthespot:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -8634,17 +8635,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.amazon.onthespot:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.amazon.onthespot:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.amazon.onthespot:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.amazon.onthespot:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.amazon.onthespot:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.amazon.onthespot:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.amazon.onthespot:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.amazon.onthespot:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.amazon.onthespot:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.amazon.onthespot:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.amazon.onthespot:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.onthespot:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.onthespot:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.onthespot:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.onthespot:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.onthespot:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.onthespot:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.onthespot:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.onthespot:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.onthespot:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.onthespot:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.onthespot:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -8679,7 +8680,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8690,11 +8691,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cardBackgroundColor
+          @attr name com.onthespot:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8706,11 +8707,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cardCornerRadius
+          @attr name com.onthespot:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8722,11 +8723,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cardElevation
+          @attr name com.onthespot:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8738,11 +8739,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cardMaxElevation
+          @attr name com.onthespot:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8752,11 +8753,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cardPreventCornerOverlap
+          @attr name com.onthespot:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8766,11 +8767,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cardUseCompatPadding
+          @attr name com.onthespot:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8782,11 +8783,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentPadding
+          @attr name com.onthespot:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8798,11 +8799,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentPaddingBottom
+          @attr name com.onthespot:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8814,11 +8815,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentPaddingLeft
+          @attr name com.onthespot:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8830,11 +8831,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentPaddingRight
+          @attr name com.onthespot:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -8846,7 +8847,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentPaddingTop
+          @attr name com.onthespot:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CastExpandedController.
@@ -8855,19 +8856,19 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CastExpandedController_castButtonColor com.amazon.onthespot:castButtonColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castClosedCaptionsButtonDrawable com.amazon.onthespot:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castControlButtons com.amazon.onthespot:castControlButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castForward30ButtonDrawable com.amazon.onthespot:castForward30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castMuteToggleButtonDrawable com.amazon.onthespot:castMuteToggleButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castPauseButtonDrawable com.amazon.onthespot:castPauseButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castPlayButtonDrawable com.amazon.onthespot:castPlayButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castRewind30ButtonDrawable com.amazon.onthespot:castRewind30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSeekBarProgressDrawable com.amazon.onthespot:castSeekBarProgressDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSeekBarThumbDrawable com.amazon.onthespot:castSeekBarThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSkipNextButtonDrawable com.amazon.onthespot:castSkipNextButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSkipPreviousButtonDrawable com.amazon.onthespot:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castStopButtonDrawable com.amazon.onthespot:castStopButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castButtonColor com.onthespot:castButtonColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castClosedCaptionsButtonDrawable com.onthespot:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castControlButtons com.onthespot:castControlButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castForward30ButtonDrawable com.onthespot:castForward30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castMuteToggleButtonDrawable com.onthespot:castMuteToggleButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castPauseButtonDrawable com.onthespot:castPauseButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castPlayButtonDrawable com.onthespot:castPlayButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castRewind30ButtonDrawable com.onthespot:castRewind30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSeekBarProgressDrawable com.onthespot:castSeekBarProgressDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSeekBarThumbDrawable com.onthespot:castSeekBarThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSkipNextButtonDrawable com.onthespot:castSkipNextButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSkipPreviousButtonDrawable com.onthespot:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castStopButtonDrawable com.onthespot:castStopButtonDrawable}</code></td><td></td></tr>
            </table>
            @see #CastExpandedController_castButtonColor
            @see #CastExpandedController_castClosedCaptionsButtonDrawable
@@ -8890,7 +8891,7 @@ containing a value of this type.
             0x7f0100e5
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castButtonColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castButtonColor}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
@@ -8898,127 +8899,127 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:castButtonColor
+          @attr name com.onthespot:castButtonColor
         */
         public static final int CastExpandedController_castButtonColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castClosedCaptionsButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castClosedCaptionsButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castClosedCaptionsButtonDrawable
+          @attr name com.onthespot:castClosedCaptionsButtonDrawable
         */
         public static final int CastExpandedController_castClosedCaptionsButtonDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castControlButtons}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castControlButtons}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castControlButtons
+          @attr name com.onthespot:castControlButtons
         */
         public static final int CastExpandedController_castControlButtons = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castForward30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castForward30ButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castForward30ButtonDrawable
+          @attr name com.onthespot:castForward30ButtonDrawable
         */
         public static final int CastExpandedController_castForward30ButtonDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castMuteToggleButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castMuteToggleButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castMuteToggleButtonDrawable
+          @attr name com.onthespot:castMuteToggleButtonDrawable
         */
         public static final int CastExpandedController_castMuteToggleButtonDrawable = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castPauseButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castPauseButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castPauseButtonDrawable
+          @attr name com.onthespot:castPauseButtonDrawable
         */
         public static final int CastExpandedController_castPauseButtonDrawable = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castPlayButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castPlayButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castPlayButtonDrawable
+          @attr name com.onthespot:castPlayButtonDrawable
         */
         public static final int CastExpandedController_castPlayButtonDrawable = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castRewind30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castRewind30ButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castRewind30ButtonDrawable
+          @attr name com.onthespot:castRewind30ButtonDrawable
         */
         public static final int CastExpandedController_castRewind30ButtonDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castSeekBarProgressDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castSeekBarProgressDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castSeekBarProgressDrawable
+          @attr name com.onthespot:castSeekBarProgressDrawable
         */
         public static final int CastExpandedController_castSeekBarProgressDrawable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castSeekBarThumbDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castSeekBarThumbDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castSeekBarThumbDrawable
+          @attr name com.onthespot:castSeekBarThumbDrawable
         */
         public static final int CastExpandedController_castSeekBarThumbDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castSkipNextButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castSkipNextButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castSkipNextButtonDrawable
+          @attr name com.onthespot:castSkipNextButtonDrawable
         */
         public static final int CastExpandedController_castSkipNextButtonDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castSkipPreviousButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castSkipPreviousButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castSkipPreviousButtonDrawable
+          @attr name com.onthespot:castSkipPreviousButtonDrawable
         */
         public static final int CastExpandedController_castSkipPreviousButtonDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castStopButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castStopButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castStopButtonDrawable
+          @attr name com.onthespot:castStopButtonDrawable
         */
         public static final int CastExpandedController_castStopButtonDrawable = 6;
         /** Attributes that can be used with a CastIntroOverlay.
@@ -9027,12 +9028,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castBackgroundColor com.amazon.onthespot:castBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castButtonBackgroundColor com.amazon.onthespot:castButtonBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castButtonText com.amazon.onthespot:castButtonText}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castButtonTextAppearance com.amazon.onthespot:castButtonTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castFocusRadius com.amazon.onthespot:castFocusRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castTitleTextAppearance com.amazon.onthespot:castTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castBackgroundColor com.onthespot:castBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castButtonBackgroundColor com.onthespot:castButtonBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castButtonText com.onthespot:castButtonText}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castButtonTextAppearance com.onthespot:castButtonTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castFocusRadius com.onthespot:castFocusRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castTitleTextAppearance com.onthespot:castTitleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #CastIntroOverlay_castBackgroundColor
            @see #CastIntroOverlay_castButtonBackgroundColor
@@ -9046,7 +9047,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100d2, 0x7f0100d3
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castBackgroundColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castBackgroundColor}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
@@ -9054,11 +9055,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:castBackgroundColor
+          @attr name com.onthespot:castBackgroundColor
         */
         public static final int CastIntroOverlay_castBackgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castButtonBackgroundColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castButtonBackgroundColor}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
@@ -9066,32 +9067,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:castButtonBackgroundColor
+          @attr name com.onthespot:castButtonBackgroundColor
         */
         public static final int CastIntroOverlay_castButtonBackgroundColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castButtonText}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castButtonText}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.amazon.onthespot:castButtonText
+          @attr name com.onthespot:castButtonText
         */
         public static final int CastIntroOverlay_castButtonText = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castButtonTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castButtonTextAppearance}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castButtonTextAppearance
+          @attr name com.onthespot:castButtonTextAppearance
         */
         public static final int CastIntroOverlay_castButtonTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castFocusRadius}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castFocusRadius}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
@@ -9100,17 +9101,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.amazon.onthespot:castFocusRadius
+          @attr name com.onthespot:castFocusRadius
         */
         public static final int CastIntroOverlay_castFocusRadius = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castTitleTextAppearance}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castTitleTextAppearance
+          @attr name com.onthespot:castTitleTextAppearance
         */
         public static final int CastIntroOverlay_castTitleTextAppearance = 4;
         /** Attributes that can be used with a CastMiniController.
@@ -9119,25 +9120,25 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CastMiniController_castBackground com.amazon.onthespot:castBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castButtonColor com.amazon.onthespot:castButtonColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castClosedCaptionsButtonDrawable com.amazon.onthespot:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castControlButtons com.amazon.onthespot:castControlButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castForward30ButtonDrawable com.amazon.onthespot:castForward30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castLargePauseButtonDrawable com.amazon.onthespot:castLargePauseButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castLargePlayButtonDrawable com.amazon.onthespot:castLargePlayButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castLargeStopButtonDrawable com.amazon.onthespot:castLargeStopButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castMuteToggleButtonDrawable com.amazon.onthespot:castMuteToggleButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castPauseButtonDrawable com.amazon.onthespot:castPauseButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castPlayButtonDrawable com.amazon.onthespot:castPlayButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castProgressBarColor com.amazon.onthespot:castProgressBarColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castRewind30ButtonDrawable com.amazon.onthespot:castRewind30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castShowImageThumbnail com.amazon.onthespot:castShowImageThumbnail}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castSkipNextButtonDrawable com.amazon.onthespot:castSkipNextButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castSkipPreviousButtonDrawable com.amazon.onthespot:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castStopButtonDrawable com.amazon.onthespot:castStopButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castSubtitleTextAppearance com.amazon.onthespot:castSubtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castTitleTextAppearance com.amazon.onthespot:castTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castBackground com.onthespot:castBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castButtonColor com.onthespot:castButtonColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castClosedCaptionsButtonDrawable com.onthespot:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castControlButtons com.onthespot:castControlButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castForward30ButtonDrawable com.onthespot:castForward30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castLargePauseButtonDrawable com.onthespot:castLargePauseButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castLargePlayButtonDrawable com.onthespot:castLargePlayButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castLargeStopButtonDrawable com.onthespot:castLargeStopButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castMuteToggleButtonDrawable com.onthespot:castMuteToggleButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castPauseButtonDrawable com.onthespot:castPauseButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castPlayButtonDrawable com.onthespot:castPlayButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castProgressBarColor com.onthespot:castProgressBarColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castRewind30ButtonDrawable com.onthespot:castRewind30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castShowImageThumbnail com.onthespot:castShowImageThumbnail}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castSkipNextButtonDrawable com.onthespot:castSkipNextButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castSkipPreviousButtonDrawable com.onthespot:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castStopButtonDrawable com.onthespot:castStopButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castSubtitleTextAppearance com.onthespot:castSubtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castTitleTextAppearance com.onthespot:castTitleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #CastMiniController_castBackground
            @see #CastMiniController_castButtonColor
@@ -9167,7 +9168,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100e3, 0x7f0100e4, 0x7f0100e5
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castBackground}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -9175,11 +9176,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:castBackground
+          @attr name com.onthespot:castBackground
         */
         public static final int CastMiniController_castBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castButtonColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castButtonColor}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -9187,101 +9188,101 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:castButtonColor
+          @attr name com.onthespot:castButtonColor
         */
         public static final int CastMiniController_castButtonColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castClosedCaptionsButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castClosedCaptionsButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castClosedCaptionsButtonDrawable
+          @attr name com.onthespot:castClosedCaptionsButtonDrawable
         */
         public static final int CastMiniController_castClosedCaptionsButtonDrawable = 18;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castControlButtons}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castControlButtons}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castControlButtons
+          @attr name com.onthespot:castControlButtons
         */
         public static final int CastMiniController_castControlButtons = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castForward30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castForward30ButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castForward30ButtonDrawable
+          @attr name com.onthespot:castForward30ButtonDrawable
         */
         public static final int CastMiniController_castForward30ButtonDrawable = 16;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castLargePauseButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castLargePauseButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castLargePauseButtonDrawable
+          @attr name com.onthespot:castLargePauseButtonDrawable
         */
         public static final int CastMiniController_castLargePauseButtonDrawable = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castLargePlayButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castLargePlayButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castLargePlayButtonDrawable
+          @attr name com.onthespot:castLargePlayButtonDrawable
         */
         public static final int CastMiniController_castLargePlayButtonDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castLargeStopButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castLargeStopButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castLargeStopButtonDrawable
+          @attr name com.onthespot:castLargeStopButtonDrawable
         */
         public static final int CastMiniController_castLargeStopButtonDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castMuteToggleButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castMuteToggleButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castMuteToggleButtonDrawable
+          @attr name com.onthespot:castMuteToggleButtonDrawable
         */
         public static final int CastMiniController_castMuteToggleButtonDrawable = 17;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castPauseButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castPauseButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castPauseButtonDrawable
+          @attr name com.onthespot:castPauseButtonDrawable
         */
         public static final int CastMiniController_castPauseButtonDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castPlayButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castPlayButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castPlayButtonDrawable
+          @attr name com.onthespot:castPlayButtonDrawable
         */
         public static final int CastMiniController_castPlayButtonDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castProgressBarColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castProgressBarColor}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -9292,21 +9293,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:castProgressBarColor
+          @attr name com.onthespot:castProgressBarColor
         */
         public static final int CastMiniController_castProgressBarColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castRewind30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castRewind30ButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castRewind30ButtonDrawable
+          @attr name com.onthespot:castRewind30ButtonDrawable
         */
         public static final int CastMiniController_castRewind30ButtonDrawable = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castShowImageThumbnail}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castShowImageThumbnail}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -9316,57 +9317,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:castShowImageThumbnail
+          @attr name com.onthespot:castShowImageThumbnail
         */
         public static final int CastMiniController_castShowImageThumbnail = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castSkipNextButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castSkipNextButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castSkipNextButtonDrawable
+          @attr name com.onthespot:castSkipNextButtonDrawable
         */
         public static final int CastMiniController_castSkipNextButtonDrawable = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castSkipPreviousButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castSkipPreviousButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castSkipPreviousButtonDrawable
+          @attr name com.onthespot:castSkipPreviousButtonDrawable
         */
         public static final int CastMiniController_castSkipPreviousButtonDrawable = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castStopButtonDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castStopButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castStopButtonDrawable
+          @attr name com.onthespot:castStopButtonDrawable
         */
         public static final int CastMiniController_castStopButtonDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castSubtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castSubtitleTextAppearance}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castSubtitleTextAppearance
+          @attr name com.onthespot:castSubtitleTextAppearance
         */
         public static final int CastMiniController_castSubtitleTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castTitleTextAppearance}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castTitleTextAppearance
+          @attr name com.onthespot:castTitleTextAppearance
         */
         public static final int CastMiniController_castTitleTextAppearance = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -9375,22 +9376,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.amazon.onthespot:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.amazon.onthespot:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.amazon.onthespot:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.amazon.onthespot:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.amazon.onthespot:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.amazon.onthespot:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.amazon.onthespot:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.amazon.onthespot:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.amazon.onthespot:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.amazon.onthespot:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.amazon.onthespot:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.amazon.onthespot:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.amazon.onthespot:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.amazon.onthespot:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.amazon.onthespot:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.amazon.onthespot:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.onthespot:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.onthespot:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.onthespot:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.onthespot:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.onthespot:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.onthespot:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.onthespot:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.onthespot:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.onthespot:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.onthespot:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.onthespot:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.onthespot:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.onthespot:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.onthespot:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.onthespot:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.onthespot:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -9416,7 +9417,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f1, 0x7f0100f2, 0x7f0100f3, 0x7f0100f4
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9437,21 +9438,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:collapsedTitleGravity
+          @attr name com.onthespot:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:collapsedTitleTextAppearance
+          @attr name com.onthespot:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9462,11 +9463,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentScrim
+          @attr name com.onthespot:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9487,11 +9488,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:expandedTitleGravity
+          @attr name com.onthespot:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9503,11 +9504,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:expandedTitleMargin
+          @attr name com.onthespot:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9519,11 +9520,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:expandedTitleMarginBottom
+          @attr name com.onthespot:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9535,11 +9536,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:expandedTitleMarginEnd
+          @attr name com.onthespot:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9551,11 +9552,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:expandedTitleMarginStart
+          @attr name com.onthespot:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9567,21 +9568,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:expandedTitleMarginTop
+          @attr name com.onthespot:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:expandedTitleTextAppearance
+          @attr name com.onthespot:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9591,11 +9592,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:scrimAnimationDuration
+          @attr name com.onthespot:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9607,11 +9608,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:scrimVisibleHeightTrigger
+          @attr name com.onthespot:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9622,11 +9623,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:statusBarScrim
+          @attr name com.onthespot:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#title}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9636,11 +9637,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:title
+          @attr name com.onthespot:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9650,17 +9651,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleEnabled
+          @attr name com.onthespot:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:toolbarId
+          @attr name com.onthespot:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -9669,8 +9670,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.amazon.onthespot:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.amazon.onthespot:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.onthespot:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.onthespot:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -9679,7 +9680,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f5, 0x7f0100f6
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -9693,11 +9694,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:layout_collapseMode
+          @attr name com.onthespot:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -9707,7 +9708,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:layout_collapseParallaxMultiplier
+          @attr name com.onthespot:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -9716,7 +9717,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.amazon.onthespot:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.onthespot:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -9728,7 +9729,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100f7
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -9738,7 +9739,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:alpha
+          @attr name com.onthespot:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -9760,8 +9761,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.amazon.onthespot:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.amazon.onthespot:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.onthespot:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.onthespot:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -9777,7 +9778,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -9788,11 +9789,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:buttonTint
+          @attr name com.onthespot:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -9808,7 +9809,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:buttonTintMode
+          @attr name com.onthespot:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -9817,8 +9818,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.amazon.onthespot:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.amazon.onthespot:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.onthespot:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.onthespot:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -9827,23 +9828,23 @@ containing a value of this type.
             0x7f0100fa, 0x7f0100fb
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:keylines
+          @attr name com.onthespot:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:statusBarBackground
+          @attr name com.onthespot:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -9853,12 +9854,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.amazon.onthespot:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.amazon.onthespot:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.amazon.onthespot:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.amazon.onthespot:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.amazon.onthespot:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.amazon.onthespot:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.onthespot:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.onthespot:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.onthespot:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.onthespot:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.onthespot:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.onthespot:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -9879,17 +9880,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:layout_anchor
+          @attr name com.onthespot:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9914,11 +9915,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:layout_anchorGravity
+          @attr name com.onthespot:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9928,11 +9929,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:layout_behavior
+          @attr name com.onthespot:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9951,11 +9952,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:layout_dodgeInsetEdges
+          @attr name com.onthespot:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9973,11 +9974,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:layout_insetEdge
+          @attr name com.onthespot:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9987,7 +9988,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:layout_keyline
+          @attr name com.onthespot:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a Corpus.
@@ -9996,14 +9997,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Corpus_contentProviderUri com.amazon.onthespot:contentProviderUri}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_corpusId com.amazon.onthespot:corpusId}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_corpusVersion com.amazon.onthespot:corpusVersion}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_documentMaxAgeSecs com.amazon.onthespot:documentMaxAgeSecs}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_perAccountTemplate com.amazon.onthespot:perAccountTemplate}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_schemaOrgType com.amazon.onthespot:schemaOrgType}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_semanticallySearchable com.amazon.onthespot:semanticallySearchable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_trimmable com.amazon.onthespot:trimmable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_contentProviderUri com.onthespot:contentProviderUri}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_corpusId com.onthespot:corpusId}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_corpusVersion com.onthespot:corpusVersion}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_documentMaxAgeSecs com.onthespot:documentMaxAgeSecs}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_perAccountTemplate com.onthespot:perAccountTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_schemaOrgType com.onthespot:schemaOrgType}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_semanticallySearchable com.onthespot:semanticallySearchable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_trimmable com.onthespot:trimmable}</code></td><td></td></tr>
            </table>
            @see #Corpus_contentProviderUri
            @see #Corpus_corpusId
@@ -10019,7 +10020,7 @@ containing a value of this type.
             0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentProviderUri}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentProviderUri}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10029,11 +10030,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentProviderUri
+          @attr name com.onthespot:contentProviderUri
         */
         public static final int Corpus_contentProviderUri = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#corpusId}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#corpusId}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10043,11 +10044,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:corpusId
+          @attr name com.onthespot:corpusId
         */
         public static final int Corpus_corpusId = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#corpusVersion}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#corpusVersion}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10057,11 +10058,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:corpusVersion
+          @attr name com.onthespot:corpusVersion
         */
         public static final int Corpus_corpusVersion = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#documentMaxAgeSecs}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#documentMaxAgeSecs}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10071,11 +10072,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:documentMaxAgeSecs
+          @attr name com.onthespot:documentMaxAgeSecs
         */
         public static final int Corpus_documentMaxAgeSecs = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#perAccountTemplate}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#perAccountTemplate}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10085,11 +10086,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:perAccountTemplate
+          @attr name com.onthespot:perAccountTemplate
         */
         public static final int Corpus_perAccountTemplate = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#schemaOrgType}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#schemaOrgType}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10099,11 +10100,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:schemaOrgType
+          @attr name com.onthespot:schemaOrgType
         */
         public static final int Corpus_schemaOrgType = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#semanticallySearchable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#semanticallySearchable}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10113,11 +10114,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:semanticallySearchable
+          @attr name com.onthespot:semanticallySearchable
         */
         public static final int Corpus_semanticallySearchable = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#trimmable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#trimmable}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -10127,7 +10128,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:trimmable
+          @attr name com.onthespot:trimmable
         */
         public static final int Corpus_trimmable = 3;
         /** Attributes that can be used with a CustomCastTheme.
@@ -10136,9 +10137,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CustomCastTheme_castExpandedControllerStyle com.amazon.onthespot:castExpandedControllerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CustomCastTheme_castIntroOverlayStyle com.amazon.onthespot:castIntroOverlayStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CustomCastTheme_castMiniControllerStyle com.amazon.onthespot:castMiniControllerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomCastTheme_castExpandedControllerStyle com.onthespot:castExpandedControllerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomCastTheme_castIntroOverlayStyle com.onthespot:castIntroOverlayStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomCastTheme_castMiniControllerStyle com.onthespot:castMiniControllerStyle}</code></td><td></td></tr>
            </table>
            @see #CustomCastTheme_castExpandedControllerStyle
            @see #CustomCastTheme_castIntroOverlayStyle
@@ -10148,33 +10149,33 @@ containing a value of this type.
             0x7f01010a, 0x7f01010b, 0x7f01010c
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castExpandedControllerStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castExpandedControllerStyle}
           attribute's value can be found in the {@link #CustomCastTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castExpandedControllerStyle
+          @attr name com.onthespot:castExpandedControllerStyle
         */
         public static final int CustomCastTheme_castExpandedControllerStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castIntroOverlayStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castIntroOverlayStyle}
           attribute's value can be found in the {@link #CustomCastTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castIntroOverlayStyle
+          @attr name com.onthespot:castIntroOverlayStyle
         */
         public static final int CustomCastTheme_castIntroOverlayStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#castMiniControllerStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#castMiniControllerStyle}
           attribute's value can be found in the {@link #CustomCastTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:castMiniControllerStyle
+          @attr name com.onthespot:castMiniControllerStyle
         */
         public static final int CustomCastTheme_castMiniControllerStyle = 1;
         /** Attributes that can be used with a CustomWalletTheme.
@@ -10183,8 +10184,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CustomWalletTheme_toolbarTextColorStyle com.amazon.onthespot:toolbarTextColorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle com.amazon.onthespot:windowTransitionStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomWalletTheme_toolbarTextColorStyle com.onthespot:toolbarTextColorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle com.onthespot:windowTransitionStyle}</code></td><td></td></tr>
            </table>
            @see #CustomWalletTheme_toolbarTextColorStyle
            @see #CustomWalletTheme_windowTransitionStyle
@@ -10193,7 +10194,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010d, 0x7f01010e
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#toolbarTextColorStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#toolbarTextColorStyle}
           attribute's value can be found in the {@link #CustomWalletTheme} array.
 
 
@@ -10206,11 +10207,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>dark</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:toolbarTextColorStyle
+          @attr name com.onthespot:toolbarTextColorStyle
         */
         public static final int CustomWalletTheme_toolbarTextColorStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#windowTransitionStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#windowTransitionStyle}
           attribute's value can be found in the {@link #CustomWalletTheme} array.
 
 
@@ -10223,7 +10224,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>slide</code></td><td>1</td><td></td></tr>
 <tr><td><code>none</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:windowTransitionStyle
+          @attr name com.onthespot:windowTransitionStyle
         */
         public static final int CustomWalletTheme_windowTransitionStyle = 0;
         /** Attributes that can be used with a DesignTheme.
@@ -10232,9 +10233,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.amazon.onthespot:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.amazon.onthespot:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.amazon.onthespot:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.onthespot:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.onthespot:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.onthespot:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -10244,27 +10245,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010f, 0x7f010110, 0x7f010111
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:bottomSheetDialogTheme
+          @attr name com.onthespot:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:bottomSheetStyle
+          @attr name com.onthespot:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -10275,7 +10276,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:textColorError
+          @attr name com.onthespot:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -10284,14 +10285,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.amazon.onthespot:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.amazon.onthespot:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.amazon.onthespot:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.amazon.onthespot:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.amazon.onthespot:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.amazon.onthespot:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.amazon.onthespot:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.amazon.onthespot:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.onthespot:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.onthespot:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.onthespot:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.onthespot:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.onthespot:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.onthespot:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.onthespot:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.onthespot:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -10307,7 +10308,7 @@ containing a value of this type.
             0x7f010116, 0x7f010117, 0x7f010118, 0x7f010119
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10319,11 +10320,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:arrowHeadLength
+          @attr name com.onthespot:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10335,11 +10336,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:arrowShaftLength
+          @attr name com.onthespot:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10351,11 +10352,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:barLength
+          @attr name com.onthespot:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#color}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10366,11 +10367,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:color
+          @attr name com.onthespot:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10382,11 +10383,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:drawableSize
+          @attr name com.onthespot:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10398,11 +10399,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:gapBetweenBars
+          @attr name com.onthespot:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10412,11 +10413,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:spinBars
+          @attr name com.onthespot:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -10428,7 +10429,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:thickness
+          @attr name com.onthespot:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FeatureParam.
@@ -10437,8 +10438,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FeatureParam_paramName com.amazon.onthespot:paramName}</code></td><td></td></tr>
-           <tr><td><code>{@link #FeatureParam_paramValue com.amazon.onthespot:paramValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #FeatureParam_paramName com.onthespot:paramName}</code></td><td></td></tr>
+           <tr><td><code>{@link #FeatureParam_paramValue com.onthespot:paramValue}</code></td><td></td></tr>
            </table>
            @see #FeatureParam_paramName
            @see #FeatureParam_paramValue
@@ -10447,7 +10448,7 @@ containing a value of this type.
             0x7f01011a, 0x7f01011b
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#paramName}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#paramName}
           attribute's value can be found in the {@link #FeatureParam} array.
 
 
@@ -10457,11 +10458,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:paramName
+          @attr name com.onthespot:paramName
         */
         public static final int FeatureParam_paramName = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#paramValue}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#paramValue}
           attribute's value can be found in the {@link #FeatureParam} array.
 
 
@@ -10471,7 +10472,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:paramValue
+          @attr name com.onthespot:paramValue
         */
         public static final int FeatureParam_paramValue = 1;
         /** Attributes that can be used with a FloatingActionButton.
@@ -10480,14 +10481,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.amazon.onthespot:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.amazon.onthespot:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.amazon.onthespot:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.amazon.onthespot:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.amazon.onthespot:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.amazon.onthespot:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.amazon.onthespot:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.amazon.onthespot:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.onthespot:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.onthespot:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.onthespot:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.onthespot:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.onthespot:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.onthespot:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.onthespot:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.onthespot:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -10503,7 +10504,7 @@ containing a value of this type.
             0x7f01011f, 0x7f010120, 0x7f0101be, 0x7f0101bf
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10514,11 +10515,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:backgroundTint
+          @attr name com.onthespot:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10534,11 +10535,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:backgroundTintMode
+          @attr name com.onthespot:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10550,11 +10551,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:borderWidth
+          @attr name com.onthespot:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10566,11 +10567,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:elevation
+          @attr name com.onthespot:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10584,11 +10585,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:fabSize
+          @attr name com.onthespot:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10600,11 +10601,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:pressedTranslationZ
+          @attr name com.onthespot:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10615,11 +10616,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:rippleColor
+          @attr name com.onthespot:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -10629,7 +10630,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:useCompatPadding
+          @attr name com.onthespot:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -10638,7 +10639,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.amazon.onthespot:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.onthespot:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -10646,7 +10647,7 @@ containing a value of this type.
             0x7f010121
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -10656,7 +10657,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:behavior_autoHide
+          @attr name com.onthespot:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -10667,7 +10668,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.amazon.onthespot:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.onthespot:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -10689,7 +10690,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -10699,7 +10700,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:foregroundInsidePadding
+          @attr name com.onthespot:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a GlobalSearch.
@@ -10708,12 +10709,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GlobalSearch_defaultIntentAction com.amazon.onthespot:defaultIntentAction}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_defaultIntentActivity com.amazon.onthespot:defaultIntentActivity}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_defaultIntentData com.amazon.onthespot:defaultIntentData}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_searchEnabled com.amazon.onthespot:searchEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_searchLabel com.amazon.onthespot:searchLabel}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_settingsDescription com.amazon.onthespot:settingsDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_defaultIntentAction com.onthespot:defaultIntentAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_defaultIntentActivity com.onthespot:defaultIntentActivity}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_defaultIntentData com.onthespot:defaultIntentData}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_searchEnabled com.onthespot:searchEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_searchLabel com.onthespot:searchLabel}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_settingsDescription com.onthespot:settingsDescription}</code></td><td></td></tr>
            </table>
            @see #GlobalSearch_defaultIntentAction
            @see #GlobalSearch_defaultIntentActivity
@@ -10727,7 +10728,7 @@ containing a value of this type.
             0x7f010127, 0x7f010128
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#defaultIntentAction}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#defaultIntentAction}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -10737,11 +10738,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:defaultIntentAction
+          @attr name com.onthespot:defaultIntentAction
         */
         public static final int GlobalSearch_defaultIntentAction = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#defaultIntentActivity}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#defaultIntentActivity}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -10751,11 +10752,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:defaultIntentActivity
+          @attr name com.onthespot:defaultIntentActivity
         */
         public static final int GlobalSearch_defaultIntentActivity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#defaultIntentData}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#defaultIntentData}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -10765,11 +10766,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:defaultIntentData
+          @attr name com.onthespot:defaultIntentData
         */
         public static final int GlobalSearch_defaultIntentData = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#searchEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#searchEnabled}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -10779,11 +10780,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:searchEnabled
+          @attr name com.onthespot:searchEnabled
         */
         public static final int GlobalSearch_searchEnabled = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#searchLabel}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#searchLabel}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -10793,11 +10794,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:searchLabel
+          @attr name com.onthespot:searchLabel
         */
         public static final int GlobalSearch_searchLabel = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#settingsDescription}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#settingsDescription}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -10807,7 +10808,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:settingsDescription
+          @attr name com.onthespot:settingsDescription
         */
         public static final int GlobalSearch_settingsDescription = 2;
         /** Attributes that can be used with a GlobalSearchCorpus.
@@ -10816,7 +10817,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GlobalSearchCorpus_allowShortcuts com.amazon.onthespot:allowShortcuts}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearchCorpus_allowShortcuts com.onthespot:allowShortcuts}</code></td><td></td></tr>
            </table>
            @see #GlobalSearchCorpus_allowShortcuts
          */
@@ -10824,7 +10825,7 @@ containing a value of this type.
             0x7f010129
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#allowShortcuts}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#allowShortcuts}
           attribute's value can be found in the {@link #GlobalSearchCorpus} array.
 
 
@@ -10834,7 +10835,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:allowShortcuts
+          @attr name com.onthespot:allowShortcuts
         */
         public static final int GlobalSearchCorpus_allowShortcuts = 0;
         /** Attributes that can be used with a GlobalSearchSection.
@@ -10843,8 +10844,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GlobalSearchSection_sectionContent com.amazon.onthespot:sectionContent}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearchSection_sectionType com.amazon.onthespot:sectionType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearchSection_sectionContent com.onthespot:sectionContent}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearchSection_sectionType com.onthespot:sectionType}</code></td><td></td></tr>
            </table>
            @see #GlobalSearchSection_sectionContent
            @see #GlobalSearchSection_sectionType
@@ -10853,7 +10854,7 @@ containing a value of this type.
             0x7f01012a, 0x7f01012b
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#sectionContent}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#sectionContent}
           attribute's value can be found in the {@link #GlobalSearchSection} array.
 
 
@@ -10863,11 +10864,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:sectionContent
+          @attr name com.onthespot:sectionContent
         */
         public static final int GlobalSearchSection_sectionContent = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#sectionType}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#sectionType}
           attribute's value can be found in the {@link #GlobalSearchSection} array.
 
 
@@ -10888,7 +10889,7 @@ containing a value of this type.
 <tr><td><code>intent_activity</code></td><td>8</td><td></td></tr>
 <tr><td><code>thing_proto</code></td><td>9</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:sectionType
+          @attr name com.onthespot:sectionType
         */
         public static final int GlobalSearchSection_sectionType = 0;
         /** Attributes that can be used with a IMECorpus.
@@ -10897,12 +10898,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #IMECorpus_inputEnabled com.amazon.onthespot:inputEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_sourceClass com.amazon.onthespot:sourceClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_toAddressesSection com.amazon.onthespot:toAddressesSection}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_userInputSection com.amazon.onthespot:userInputSection}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_userInputTag com.amazon.onthespot:userInputTag}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_userInputValue com.amazon.onthespot:userInputValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_inputEnabled com.onthespot:inputEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_sourceClass com.onthespot:sourceClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_toAddressesSection com.onthespot:toAddressesSection}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_userInputSection com.onthespot:userInputSection}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_userInputTag com.onthespot:userInputTag}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_userInputValue com.onthespot:userInputValue}</code></td><td></td></tr>
            </table>
            @see #IMECorpus_inputEnabled
            @see #IMECorpus_sourceClass
@@ -10916,7 +10917,7 @@ containing a value of this type.
             0x7f010130, 0x7f010131
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#inputEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#inputEnabled}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -10926,11 +10927,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:inputEnabled
+          @attr name com.onthespot:inputEnabled
         */
         public static final int IMECorpus_inputEnabled = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#sourceClass}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#sourceClass}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -10944,11 +10945,11 @@ containing a value of this type.
 <tr><td><code>contact</code></td><td>1</td><td></td></tr>
 <tr><td><code>instant_message</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:sourceClass
+          @attr name com.onthespot:sourceClass
         */
         public static final int IMECorpus_sourceClass = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#toAddressesSection}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#toAddressesSection}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -10958,11 +10959,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:toAddressesSection
+          @attr name com.onthespot:toAddressesSection
         */
         public static final int IMECorpus_toAddressesSection = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#userInputSection}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#userInputSection}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -10972,11 +10973,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:userInputSection
+          @attr name com.onthespot:userInputSection
         */
         public static final int IMECorpus_userInputSection = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#userInputTag}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#userInputTag}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -10986,11 +10987,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:userInputTag
+          @attr name com.onthespot:userInputTag
         */
         public static final int IMECorpus_userInputTag = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#userInputValue}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#userInputValue}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -11000,7 +11001,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:userInputValue
+          @attr name com.onthespot:userInputValue
         */
         public static final int IMECorpus_userInputValue = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -11014,10 +11015,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.amazon.onthespot:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.amazon.onthespot:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.amazon.onthespot:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.amazon.onthespot:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.onthespot:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.onthespot:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.onthespot:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.onthespot:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -11065,17 +11066,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:divider
+          @attr name com.onthespot:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -11087,11 +11088,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:dividerPadding
+          @attr name com.onthespot:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -11101,11 +11102,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:measureWithLargestChild
+          @attr name com.onthespot:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -11120,7 +11121,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:showDividers
+          @attr name com.onthespot:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -11199,9 +11200,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.amazon.onthespot:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.amazon.onthespot:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.amazon.onthespot:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.onthespot:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.onthespot:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.onthespot:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -11211,7 +11212,7 @@ containing a value of this type.
             0x7f010135, 0x7f010136, 0x7f010137
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -11221,11 +11222,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:circleCrop
+          @attr name com.onthespot:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -11235,11 +11236,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:imageAspectRatio
+          @attr name com.onthespot:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -11253,7 +11254,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:imageAspectRatioAdjust
+          @attr name com.onthespot:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MapAttrs.
@@ -11262,29 +11263,29 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MapAttrs_ambientEnabled com.amazon.onthespot:ambientEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraBearing com.amazon.onthespot:cameraBearing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.amazon.onthespot:cameraMaxZoomPreference}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.amazon.onthespot:cameraMinZoomPreference}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.amazon.onthespot:cameraTargetLat}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.amazon.onthespot:cameraTargetLng}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTilt com.amazon.onthespot:cameraTilt}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraZoom com.amazon.onthespot:cameraZoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.amazon.onthespot:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.amazon.onthespot:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.amazon.onthespot:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.amazon.onthespot:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_liteMode com.amazon.onthespot:liteMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_mapType com.amazon.onthespot:mapType}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiCompass com.amazon.onthespot:uiCompass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiMapToolbar com.amazon.onthespot:uiMapToolbar}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.amazon.onthespot:uiRotateGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.amazon.onthespot:uiScrollGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.amazon.onthespot:uiTiltGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomControls com.amazon.onthespot:uiZoomControls}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.amazon.onthespot:uiZoomGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.amazon.onthespot:useViewLifecycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.amazon.onthespot:zOrderOnTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_ambientEnabled com.onthespot:ambientEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraBearing com.onthespot:cameraBearing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.onthespot:cameraMaxZoomPreference}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.onthespot:cameraMinZoomPreference}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.onthespot:cameraTargetLat}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.onthespot:cameraTargetLng}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTilt com.onthespot:cameraTilt}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraZoom com.onthespot:cameraZoom}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.onthespot:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.onthespot:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.onthespot:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.onthespot:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_liteMode com.onthespot:liteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_mapType com.onthespot:mapType}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiCompass com.onthespot:uiCompass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiMapToolbar com.onthespot:uiMapToolbar}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.onthespot:uiRotateGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.onthespot:uiScrollGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.onthespot:uiTiltGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomControls com.onthespot:uiZoomControls}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.onthespot:uiZoomGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.onthespot:useViewLifecycle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.onthespot:zOrderOnTop}</code></td><td></td></tr>
            </table>
            @see #MapAttrs_ambientEnabled
            @see #MapAttrs_cameraBearing
@@ -11319,7 +11320,7 @@ containing a value of this type.
             0x7f01014c, 0x7f01014d, 0x7f01014e
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#ambientEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#ambientEnabled}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11329,11 +11330,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:ambientEnabled
+          @attr name com.onthespot:ambientEnabled
         */
         public static final int MapAttrs_ambientEnabled = 16;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cameraBearing}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cameraBearing}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11343,11 +11344,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cameraBearing
+          @attr name com.onthespot:cameraBearing
         */
         public static final int MapAttrs_cameraBearing = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cameraMaxZoomPreference}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cameraMaxZoomPreference}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11357,11 +11358,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cameraMaxZoomPreference
+          @attr name com.onthespot:cameraMaxZoomPreference
         */
         public static final int MapAttrs_cameraMaxZoomPreference = 18;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cameraMinZoomPreference}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cameraMinZoomPreference}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11371,11 +11372,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cameraMinZoomPreference
+          @attr name com.onthespot:cameraMinZoomPreference
         */
         public static final int MapAttrs_cameraMinZoomPreference = 17;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cameraTargetLat}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11385,11 +11386,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cameraTargetLat
+          @attr name com.onthespot:cameraTargetLat
         */
         public static final int MapAttrs_cameraTargetLat = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cameraTargetLng}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11399,11 +11400,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cameraTargetLng
+          @attr name com.onthespot:cameraTargetLng
         */
         public static final int MapAttrs_cameraTargetLng = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cameraTilt}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11413,11 +11414,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cameraTilt
+          @attr name com.onthespot:cameraTilt
         */
         public static final int MapAttrs_cameraTilt = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#cameraZoom}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11427,11 +11428,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:cameraZoom
+          @attr name com.onthespot:cameraZoom
         */
         public static final int MapAttrs_cameraZoom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#latLngBoundsNorthEastLatitude}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#latLngBoundsNorthEastLatitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11441,11 +11442,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:latLngBoundsNorthEastLatitude
+          @attr name com.onthespot:latLngBoundsNorthEastLatitude
         */
         public static final int MapAttrs_latLngBoundsNorthEastLatitude = 21;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#latLngBoundsNorthEastLongitude}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#latLngBoundsNorthEastLongitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11455,11 +11456,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:latLngBoundsNorthEastLongitude
+          @attr name com.onthespot:latLngBoundsNorthEastLongitude
         */
         public static final int MapAttrs_latLngBoundsNorthEastLongitude = 22;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#latLngBoundsSouthWestLatitude}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#latLngBoundsSouthWestLatitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11469,11 +11470,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:latLngBoundsSouthWestLatitude
+          @attr name com.onthespot:latLngBoundsSouthWestLatitude
         */
         public static final int MapAttrs_latLngBoundsSouthWestLatitude = 19;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#latLngBoundsSouthWestLongitude}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#latLngBoundsSouthWestLongitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11483,11 +11484,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:latLngBoundsSouthWestLongitude
+          @attr name com.onthespot:latLngBoundsSouthWestLongitude
         */
         public static final int MapAttrs_latLngBoundsSouthWestLongitude = 20;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#liteMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#liteMode}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11497,11 +11498,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:liteMode
+          @attr name com.onthespot:liteMode
         */
         public static final int MapAttrs_liteMode = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#mapType}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11517,11 +11518,11 @@ containing a value of this type.
 <tr><td><code>terrain</code></td><td>3</td><td></td></tr>
 <tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:mapType
+          @attr name com.onthespot:mapType
         */
         public static final int MapAttrs_mapType = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#uiCompass}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11531,11 +11532,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:uiCompass
+          @attr name com.onthespot:uiCompass
         */
         public static final int MapAttrs_uiCompass = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#uiMapToolbar}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#uiMapToolbar}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11545,11 +11546,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:uiMapToolbar
+          @attr name com.onthespot:uiMapToolbar
         */
         public static final int MapAttrs_uiMapToolbar = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#uiRotateGestures}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11559,11 +11560,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:uiRotateGestures
+          @attr name com.onthespot:uiRotateGestures
         */
         public static final int MapAttrs_uiRotateGestures = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#uiScrollGestures}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11573,11 +11574,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:uiScrollGestures
+          @attr name com.onthespot:uiScrollGestures
         */
         public static final int MapAttrs_uiScrollGestures = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#uiTiltGestures}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11587,11 +11588,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:uiTiltGestures
+          @attr name com.onthespot:uiTiltGestures
         */
         public static final int MapAttrs_uiTiltGestures = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#uiZoomControls}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11601,11 +11602,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:uiZoomControls
+          @attr name com.onthespot:uiZoomControls
         */
         public static final int MapAttrs_uiZoomControls = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#uiZoomGestures}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11615,11 +11616,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:uiZoomGestures
+          @attr name com.onthespot:uiZoomGestures
         */
         public static final int MapAttrs_uiZoomGestures = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#useViewLifecycle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11629,11 +11630,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:useViewLifecycle
+          @attr name com.onthespot:useViewLifecycle
         */
         public static final int MapAttrs_useViewLifecycle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#zOrderOnTop}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -11643,7 +11644,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:zOrderOnTop
+          @attr name com.onthespot:zOrderOnTop
         */
         public static final int MapAttrs_zOrderOnTop = 14;
         /** Attributes that can be used with a MediaRouteButton.
@@ -11654,7 +11655,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.amazon.onthespot:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.onthespot:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -11676,13 +11677,13 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:externalRouteEnabledDrawable
+          @attr name com.onthespot:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 2;
         /** Attributes that can be used with a MenuGroup.
@@ -11751,9 +11752,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.amazon.onthespot:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.amazon.onthespot:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.amazon.onthespot:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.onthespot:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.onthespot:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.onthespot:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -11767,7 +11768,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.amazon.onthespot:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.onthespot:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -11795,17 +11796,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010153
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:actionLayout
+          @attr name com.onthespot:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -11815,11 +11816,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:actionProviderClass
+          @attr name com.onthespot:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -11829,7 +11830,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:actionViewClass
+          @attr name com.onthespot:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -11911,7 +11912,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -11927,7 +11928,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:showAsAction
+          @attr name com.onthespot:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -11943,8 +11944,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.amazon.onthespot:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.amazon.onthespot:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.onthespot:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.onthespot:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -12004,7 +12005,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -12014,17 +12015,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:preserveIconSpacing
+          @attr name com.onthespot:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:subMenuArrow
+          @attr name com.onthespot:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -12036,13 +12037,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.amazon.onthespot:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.amazon.onthespot:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.amazon.onthespot:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.amazon.onthespot:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.amazon.onthespot:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.amazon.onthespot:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.amazon.onthespot:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.onthespot:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.onthespot:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.onthespot:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.onthespot:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.onthespot:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.onthespot:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.onthespot:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -12079,7 +12080,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -12091,31 +12092,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:elevation
+          @attr name com.onthespot:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:headerLayout
+          @attr name com.onthespot:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:itemBackground
+          @attr name com.onthespot:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -12126,21 +12127,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:itemIconTint
+          @attr name com.onthespot:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:itemTextAppearance
+          @attr name com.onthespot:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -12151,17 +12152,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:itemTextColor
+          @attr name com.onthespot:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:menu
+          @attr name com.onthespot:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -12172,7 +12173,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.amazon.onthespot:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.onthespot:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -12194,7 +12195,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -12204,7 +12205,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:overlapAnchor
+          @attr name com.onthespot:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -12213,7 +12214,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.amazon.onthespot:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.onthespot:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -12221,7 +12222,7 @@ containing a value of this type.
             0x7f01015d
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -12231,7 +12232,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:state_above_anchor
+          @attr name com.onthespot:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -12240,8 +12241,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.amazon.onthespot:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.amazon.onthespot:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.onthespot:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.onthespot:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -12250,7 +12251,7 @@ containing a value of this type.
             0x7f01015e, 0x7f01015f
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -12262,11 +12263,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:paddingBottomNoButtons
+          @attr name com.onthespot:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -12278,7 +12279,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:paddingTopNoTitle
+          @attr name com.onthespot:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -12289,10 +12290,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.amazon.onthespot:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.amazon.onthespot:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.amazon.onthespot:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.amazon.onthespot:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.onthespot:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.onthespot:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.onthespot:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.onthespot:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -12318,7 +12319,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -12328,11 +12329,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:layoutManager
+          @attr name com.onthespot:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -12342,11 +12343,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:reverseLayout
+          @attr name com.onthespot:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -12356,11 +12357,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:spanCount
+          @attr name com.onthespot:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -12370,7 +12371,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:stackFromEnd
+          @attr name com.onthespot:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -12379,7 +12380,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.amazon.onthespot:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.onthespot:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -12387,7 +12388,7 @@ containing a value of this type.
             0x7f010164
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -12395,7 +12396,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:insetForeground
+          @attr name com.onthespot:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -12404,7 +12405,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.amazon.onthespot:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.onthespot:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -12412,7 +12413,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010165
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -12424,7 +12425,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:behavior_overlapTop
+          @attr name com.onthespot:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -12437,19 +12438,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.amazon.onthespot:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.amazon.onthespot:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.amazon.onthespot:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.amazon.onthespot:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.amazon.onthespot:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.amazon.onthespot:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.amazon.onthespot:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.amazon.onthespot:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.amazon.onthespot:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.amazon.onthespot:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.amazon.onthespot:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.amazon.onthespot:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.amazon.onthespot:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.onthespot:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.onthespot:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.onthespot:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.onthespot:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.onthespot:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.onthespot:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.onthespot:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.onthespot:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.onthespot:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.onthespot:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.onthespot:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.onthespot:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.onthespot:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -12501,27 +12502,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:closeIcon
+          @attr name com.onthespot:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:commitIcon
+          @attr name com.onthespot:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -12531,21 +12532,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:defaultQueryHint
+          @attr name com.onthespot:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:goIcon
+          @attr name com.onthespot:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -12555,31 +12556,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:iconifiedByDefault
+          @attr name com.onthespot:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:layout
+          @attr name com.onthespot:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:queryBackground
+          @attr name com.onthespot:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -12589,57 +12590,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:queryHint
+          @attr name com.onthespot:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:searchHintIcon
+          @attr name com.onthespot:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:searchIcon
+          @attr name com.onthespot:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:submitBackground
+          @attr name com.onthespot:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:suggestionRowLayout
+          @attr name com.onthespot:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:voiceIcon
+          @attr name com.onthespot:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Section.
@@ -12648,13 +12649,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Section_indexPrefixes com.amazon.onthespot:indexPrefixes}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_noIndex com.amazon.onthespot:noIndex}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_schemaOrgProperty com.amazon.onthespot:schemaOrgProperty}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_sectionFormat com.amazon.onthespot:sectionFormat}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_sectionId com.amazon.onthespot:sectionId}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_sectionWeight com.amazon.onthespot:sectionWeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_subsectionSeparator com.amazon.onthespot:subsectionSeparator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_indexPrefixes com.onthespot:indexPrefixes}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_noIndex com.onthespot:noIndex}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_schemaOrgProperty com.onthespot:schemaOrgProperty}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_sectionFormat com.onthespot:sectionFormat}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_sectionId com.onthespot:sectionId}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_sectionWeight com.onthespot:sectionWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_subsectionSeparator com.onthespot:subsectionSeparator}</code></td><td></td></tr>
            </table>
            @see #Section_indexPrefixes
            @see #Section_noIndex
@@ -12669,7 +12670,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010177, 0x7f010178, 0x7f010179
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#indexPrefixes}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#indexPrefixes}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -12679,11 +12680,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:indexPrefixes
+          @attr name com.onthespot:indexPrefixes
         */
         public static final int Section_indexPrefixes = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#noIndex}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#noIndex}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -12693,11 +12694,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:noIndex
+          @attr name com.onthespot:noIndex
         */
         public static final int Section_noIndex = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#schemaOrgProperty}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#schemaOrgProperty}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -12707,11 +12708,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:schemaOrgProperty
+          @attr name com.onthespot:schemaOrgProperty
         */
         public static final int Section_schemaOrgProperty = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#sectionFormat}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#sectionFormat}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -12726,11 +12727,11 @@ containing a value of this type.
 <tr><td><code>rfc822</code></td><td>2</td><td></td></tr>
 <tr><td><code>url</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:sectionFormat
+          @attr name com.onthespot:sectionFormat
         */
         public static final int Section_sectionFormat = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#sectionId}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#sectionId}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -12740,11 +12741,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:sectionId
+          @attr name com.onthespot:sectionId
         */
         public static final int Section_sectionId = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#sectionWeight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#sectionWeight}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -12754,11 +12755,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:sectionWeight
+          @attr name com.onthespot:sectionWeight
         */
         public static final int Section_sectionWeight = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subsectionSeparator}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subsectionSeparator}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -12768,7 +12769,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:subsectionSeparator
+          @attr name com.onthespot:subsectionSeparator
         */
         public static final int Section_subsectionSeparator = 5;
         /** Attributes that can be used with a SectionFeature.
@@ -12777,7 +12778,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SectionFeature_featureType com.amazon.onthespot:featureType}</code></td><td></td></tr>
+           <tr><td><code>{@link #SectionFeature_featureType com.onthespot:featureType}</code></td><td></td></tr>
            </table>
            @see #SectionFeature_featureType
          */
@@ -12785,7 +12786,7 @@ containing a value of this type.
             0x7f01017a
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#featureType}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#featureType}
           attribute's value can be found in the {@link #SectionFeature} array.
 
 
@@ -12802,7 +12803,7 @@ containing a value of this type.
 <tr><td><code>omnibox_title_section</code></td><td>5</td><td></td></tr>
 <tr><td><code>index_entity_types</code></td><td>6</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:featureType
+          @attr name com.onthespot:featureType
         */
         public static final int SectionFeature_featureType = 0;
         /** Attributes that can be used with a SignInButton.
@@ -12811,11 +12812,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize com.amazon.onthespot:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_button_style com.amazon.onthespot:button_style}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme com.amazon.onthespot:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris com.amazon.onthespot:scopeUris}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_text com.amazon.onthespot:text}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize com.onthespot:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_button_style com.onthespot:button_style}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme com.onthespot:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris com.onthespot:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_text com.onthespot:text}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_button_style
@@ -12828,7 +12829,7 @@ containing a value of this type.
             0x7f01017f
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -12844,11 +12845,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:buttonSize
+          @attr name com.onthespot:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#button_style}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#button_style}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -12861,11 +12862,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>large</code></td><td>0</td><td></td></tr>
 <tr><td><code>small</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:button_style
+          @attr name com.onthespot:button_style
         */
         public static final int SignInButton_button_style = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -12881,22 +12882,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:colorScheme
+          @attr name com.onthespot:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.amazon.onthespot:scopeUris
+          @attr name com.onthespot:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#text}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#text}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -12906,7 +12907,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:text
+          @attr name com.onthespot:text
         */
         public static final int SignInButton_text = 3;
         /** Attributes that can be used with a SnackbarLayout.
@@ -12916,8 +12917,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.amazon.onthespot:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.amazon.onthespot:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.onthespot:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.onthespot:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -12933,7 +12934,7 @@ containing a value of this type.
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -12945,11 +12946,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:elevation
+          @attr name com.onthespot:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -12961,7 +12962,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:maxActionInlineWidth
+          @attr name com.onthespot:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -12974,7 +12975,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.amazon.onthespot:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.onthespot:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -13011,13 +13012,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:popupTheme
+          @attr name com.onthespot:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -13029,17 +13030,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.amazon.onthespot:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.amazon.onthespot:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.amazon.onthespot:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.amazon.onthespot:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.amazon.onthespot:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.amazon.onthespot:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.amazon.onthespot:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.amazon.onthespot:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.amazon.onthespot:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.amazon.onthespot:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.amazon.onthespot:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.onthespot:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.onthespot:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.onthespot:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.onthespot:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.onthespot:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.onthespot:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.onthespot:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.onthespot:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.onthespot:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.onthespot:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.onthespot:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -13081,7 +13082,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13091,11 +13092,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:showText
+          @attr name com.onthespot:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13105,11 +13106,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:splitTrack
+          @attr name com.onthespot:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13121,11 +13122,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:switchMinWidth
+          @attr name com.onthespot:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13137,21 +13138,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:switchPadding
+          @attr name com.onthespot:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:switchTextAppearance
+          @attr name com.onthespot:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13163,11 +13164,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:thumbTextPadding
+          @attr name com.onthespot:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13178,11 +13179,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:thumbTint
+          @attr name com.onthespot:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13199,21 +13200,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:thumbTintMode
+          @attr name com.onthespot:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#track}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:track
+          @attr name com.onthespot:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13224,11 +13225,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:trackTint
+          @attr name com.onthespot:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13245,7 +13246,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:trackTintMode
+          @attr name com.onthespot:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -13289,22 +13290,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.amazon.onthespot:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.amazon.onthespot:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.amazon.onthespot:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.amazon.onthespot:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.amazon.onthespot:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.amazon.onthespot:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.amazon.onthespot:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.amazon.onthespot:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.amazon.onthespot:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.amazon.onthespot:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.amazon.onthespot:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.amazon.onthespot:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.amazon.onthespot:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.amazon.onthespot:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.amazon.onthespot:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.amazon.onthespot:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.onthespot:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.onthespot:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.onthespot:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.onthespot:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.onthespot:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.onthespot:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.onthespot:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.onthespot:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.onthespot:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.onthespot:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.onthespot:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.onthespot:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.onthespot:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.onthespot:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.onthespot:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.onthespot:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -13330,17 +13331,17 @@ containing a value of this type.
             0x7f010198, 0x7f010199, 0x7f01019a, 0x7f01019b
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:tabBackground
+          @attr name com.onthespot:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13352,11 +13353,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabContentStart
+          @attr name com.onthespot:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13369,11 +13370,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:tabGravity
+          @attr name com.onthespot:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13384,11 +13385,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabIndicatorColor
+          @attr name com.onthespot:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13400,11 +13401,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabIndicatorHeight
+          @attr name com.onthespot:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13416,11 +13417,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabMaxWidth
+          @attr name com.onthespot:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13432,11 +13433,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabMinWidth
+          @attr name com.onthespot:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13449,11 +13450,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:tabMode
+          @attr name com.onthespot:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13465,11 +13466,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabPadding
+          @attr name com.onthespot:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13481,11 +13482,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabPaddingBottom
+          @attr name com.onthespot:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13497,11 +13498,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabPaddingEnd
+          @attr name com.onthespot:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13513,11 +13514,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabPaddingStart
+          @attr name com.onthespot:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13529,11 +13530,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabPaddingTop
+          @attr name com.onthespot:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13544,21 +13545,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabSelectedTextColor
+          @attr name com.onthespot:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:tabTextAppearance
+          @attr name com.onthespot:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13569,7 +13570,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:tabTextColor
+          @attr name com.onthespot:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -13587,7 +13588,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.amazon.onthespot:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.onthespot:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -13660,14 +13661,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.amazon.onthespot:textAllCaps
+          @attr name com.onthespot:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -13678,20 +13679,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.amazon.onthespot:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.amazon.onthespot:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.amazon.onthespot:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.amazon.onthespot:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.amazon.onthespot:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.amazon.onthespot:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.amazon.onthespot:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.amazon.onthespot:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.amazon.onthespot:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.amazon.onthespot:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.amazon.onthespot:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.amazon.onthespot:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.amazon.onthespot:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.amazon.onthespot:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.onthespot:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.onthespot:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.onthespot:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.onthespot:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.onthespot:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.onthespot:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.onthespot:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.onthespot:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.onthespot:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.onthespot:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.onthespot:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.onthespot:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.onthespot:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.onthespot:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -13729,7 +13730,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13739,11 +13740,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:counterEnabled
+          @attr name com.onthespot:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13753,31 +13754,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:counterMaxLength
+          @attr name com.onthespot:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:counterOverflowTextAppearance
+          @attr name com.onthespot:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:counterTextAppearance
+          @attr name com.onthespot:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13787,21 +13788,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:errorEnabled
+          @attr name com.onthespot:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:errorTextAppearance
+          @attr name com.onthespot:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13811,11 +13812,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:hintAnimationEnabled
+          @attr name com.onthespot:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13825,21 +13826,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:hintEnabled
+          @attr name com.onthespot:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:hintTextAppearance
+          @attr name com.onthespot:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13849,21 +13850,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:passwordToggleContentDescription
+          @attr name com.onthespot:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:passwordToggleDrawable
+          @attr name com.onthespot:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13873,11 +13874,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:passwordToggleEnabled
+          @attr name com.onthespot:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13888,11 +13889,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:passwordToggleTint
+          @attr name com.onthespot:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -13908,7 +13909,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:passwordToggleTintMode
+          @attr name com.onthespot:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -13919,33 +13920,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.amazon.onthespot:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.amazon.onthespot:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.amazon.onthespot:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.amazon.onthespot:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.amazon.onthespot:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.amazon.onthespot:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.amazon.onthespot:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.amazon.onthespot:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.amazon.onthespot:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.amazon.onthespot:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.amazon.onthespot:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.amazon.onthespot:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.amazon.onthespot:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.amazon.onthespot:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.amazon.onthespot:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.amazon.onthespot:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.amazon.onthespot:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.amazon.onthespot:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.amazon.onthespot:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.amazon.onthespot:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.amazon.onthespot:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.amazon.onthespot:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.amazon.onthespot:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.amazon.onthespot:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.amazon.onthespot:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.amazon.onthespot:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.amazon.onthespot:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.onthespot:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.onthespot:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.onthespot:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.onthespot:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.onthespot:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.onthespot:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.onthespot:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.onthespot:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.onthespot:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.onthespot:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.onthespot:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.onthespot:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.onthespot:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.onthespot:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.onthespot:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.onthespot:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.onthespot:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.onthespot:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.onthespot:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.onthespot:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.onthespot:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.onthespot:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.onthespot:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.onthespot:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.onthespot:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.onthespot:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.onthespot:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -14000,7 +14001,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14013,11 +14014,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:buttonGravity
+          @attr name com.onthespot:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14027,21 +14028,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:collapseContentDescription
+          @attr name com.onthespot:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:collapseIcon
+          @attr name com.onthespot:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14053,11 +14054,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetEnd
+          @attr name com.onthespot:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14069,11 +14070,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetEndWithActions
+          @attr name com.onthespot:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14085,11 +14086,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetLeft
+          @attr name com.onthespot:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14101,11 +14102,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetRight
+          @attr name com.onthespot:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14117,11 +14118,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetStart
+          @attr name com.onthespot:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14133,21 +14134,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:contentInsetStartWithNavigation
+          @attr name com.onthespot:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:logo
+          @attr name com.onthespot:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14157,11 +14158,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:logoDescription
+          @attr name com.onthespot:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14173,11 +14174,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:maxButtonHeight
+          @attr name com.onthespot:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14187,31 +14188,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:navigationContentDescription
+          @attr name com.onthespot:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:navigationIcon
+          @attr name com.onthespot:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:popupTheme
+          @attr name com.onthespot:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14221,21 +14222,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:subtitle
+          @attr name com.onthespot:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:subtitleTextAppearance
+          @attr name com.onthespot:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14246,11 +14247,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:subtitleTextColor
+          @attr name com.onthespot:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#title}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14260,11 +14261,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:title
+          @attr name com.onthespot:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14276,11 +14277,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleMargin
+          @attr name com.onthespot:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14292,11 +14293,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleMarginBottom
+          @attr name com.onthespot:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14308,11 +14309,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleMarginEnd
+          @attr name com.onthespot:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14324,11 +14325,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleMarginStart
+          @attr name com.onthespot:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14340,11 +14341,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleMarginTop
+          @attr name com.onthespot:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14356,21 +14357,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleMargins
+          @attr name com.onthespot:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:titleTextAppearance
+          @attr name com.onthespot:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -14381,7 +14382,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:titleTextColor
+          @attr name com.onthespot:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -14392,9 +14393,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.amazon.onthespot:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.amazon.onthespot:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.amazon.onthespot:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.onthespot:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.onthespot:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.onthespot:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -14419,7 +14420,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -14431,11 +14432,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:paddingEnd
+          @attr name com.onthespot:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -14447,17 +14448,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:paddingStart
+          @attr name com.onthespot:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:theme
+          @attr name com.onthespot:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -14467,8 +14468,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.amazon.onthespot:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.amazon.onthespot:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.onthespot:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.onthespot:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -14484,7 +14485,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -14495,11 +14496,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:backgroundTint
+          @attr name com.onthespot:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -14515,7 +14516,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:backgroundTintMode
+          @attr name com.onthespot:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -14559,10 +14560,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_appTheme com.amazon.onthespot:appTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_environment com.amazon.onthespot:environment}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.amazon.onthespot:fragmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.amazon.onthespot:fragmentStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_appTheme com.onthespot:appTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_environment com.onthespot:environment}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.onthespot:fragmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.onthespot:fragmentStyle}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentOptions_appTheme
            @see #WalletFragmentOptions_environment
@@ -14573,7 +14574,7 @@ containing a value of this type.
             0x7f0101c0, 0x7f0101c1, 0x7f0101c2, 0x7f0101c3
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#appTheme}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#appTheme}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -14586,11 +14587,11 @@ containing a value of this type.
 <tr><td><code>holo_dark</code></td><td>0</td><td></td></tr>
 <tr><td><code>holo_light</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:appTheme
+          @attr name com.onthespot:appTheme
         */
         public static final int WalletFragmentOptions_appTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#environment}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#environment}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -14605,11 +14606,11 @@ containing a value of this type.
 <tr><td><code>sandbox</code></td><td>0</td><td></td></tr>
 <tr><td><code>strict_sandbox</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:environment
+          @attr name com.onthespot:environment
         */
         public static final int WalletFragmentOptions_environment = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#fragmentMode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#fragmentMode}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -14622,17 +14623,17 @@ containing a value of this type.
 <tr><td><code>buyButton</code></td><td>1</td><td></td></tr>
 <tr><td><code>selectionDetails</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:fragmentMode
+          @attr name com.onthespot:fragmentMode
         */
         public static final int WalletFragmentOptions_fragmentMode = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#fragmentStyle}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#fragmentStyle}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:fragmentStyle
+          @attr name com.onthespot:fragmentStyle
         */
         public static final int WalletFragmentOptions_fragmentStyle = 2;
         /** Attributes that can be used with a WalletFragmentStyle.
@@ -14641,17 +14642,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.amazon.onthespot:buyButtonAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.amazon.onthespot:buyButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.amazon.onthespot:buyButtonText}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.amazon.onthespot:buyButtonWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.amazon.onthespot:maskedWalletDetailsBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.amazon.onthespot:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.amazon.onthespot:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.amazon.onthespot:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.amazon.onthespot:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.amazon.onthespot:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.amazon.onthespot:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.onthespot:buyButtonAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.onthespot:buyButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.onthespot:buyButtonText}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.onthespot:buyButtonWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.onthespot:maskedWalletDetailsBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.onthespot:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.onthespot:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.onthespot:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.onthespot:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.onthespot:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.onthespot:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentStyle_buyButtonAppearance
            @see #WalletFragmentStyle_buyButtonHeight
@@ -14671,7 +14672,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0101cc, 0x7f0101cd, 0x7f0101ce
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buyButtonAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buyButtonAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14691,11 +14692,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>grayscale</code></td><td>2</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:buyButtonAppearance
+          @attr name com.onthespot:buyButtonAppearance
         */
         public static final int WalletFragmentStyle_buyButtonAppearance = 3;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buyButtonHeight}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buyButtonHeight}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14716,11 +14717,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:buyButtonHeight
+          @attr name com.onthespot:buyButtonHeight
         */
         public static final int WalletFragmentStyle_buyButtonHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buyButtonText}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buyButtonText}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14738,11 +14739,11 @@ containing a value of this type.
 <tr><td><code>book_now</code></td><td>3</td><td></td></tr>
 <tr><td><code>donate_with_google</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:buyButtonText
+          @attr name com.onthespot:buyButtonText
         */
         public static final int WalletFragmentStyle_buyButtonText = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#buyButtonWidth}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#buyButtonWidth}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14763,11 +14764,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:buyButtonWidth
+          @attr name com.onthespot:buyButtonWidth
         */
         public static final int WalletFragmentStyle_buyButtonWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maskedWalletDetailsBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maskedWalletDetailsBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14775,11 +14776,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:maskedWalletDetailsBackground
+          @attr name com.onthespot:maskedWalletDetailsBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maskedWalletDetailsButtonBackground}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maskedWalletDetailsButtonBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14787,31 +14788,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.amazon.onthespot:maskedWalletDetailsButtonBackground
+          @attr name com.onthespot:maskedWalletDetailsButtonBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maskedWalletDetailsButtonTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maskedWalletDetailsButtonTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:maskedWalletDetailsButtonTextAppearance
+          @attr name com.onthespot:maskedWalletDetailsButtonTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maskedWalletDetailsHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maskedWalletDetailsHeaderTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:maskedWalletDetailsHeaderTextAppearance
+          @attr name com.onthespot:maskedWalletDetailsHeaderTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maskedWalletDetailsLogoImageType}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maskedWalletDetailsLogoImageType}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14827,11 +14828,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>classic</code></td><td>1</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:maskedWalletDetailsLogoImageType
+          @attr name com.onthespot:maskedWalletDetailsLogoImageType
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maskedWalletDetailsLogoTextColor}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maskedWalletDetailsLogoTextColor}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -14842,17 +14843,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:maskedWalletDetailsLogoTextColor
+          @attr name com.onthespot:maskedWalletDetailsLogoTextColor
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#maskedWalletDetailsTextAppearance}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#maskedWalletDetailsTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.amazon.onthespot:maskedWalletDetailsTextAppearance
+          @attr name com.onthespot:maskedWalletDetailsTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
         /** Attributes that can be used with a com_facebook_like_view.
@@ -14861,12 +14862,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position com.amazon.onthespot:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color com.amazon.onthespot:com_facebook_foreground_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment com.amazon.onthespot:com_facebook_horizontal_alignment}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id com.amazon.onthespot:com_facebook_object_id}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type com.amazon.onthespot:com_facebook_object_type}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style com.amazon.onthespot:com_facebook_style}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position com.onthespot:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color com.onthespot:com_facebook_foreground_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment com.onthespot:com_facebook_horizontal_alignment}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id com.onthespot:com_facebook_object_id}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type com.onthespot:com_facebook_object_type}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style com.onthespot:com_facebook_style}</code></td><td></td></tr>
            </table>
            @see #com_facebook_like_view_com_facebook_auxiliary_view_position
            @see #com_facebook_like_view_com_facebook_foreground_color
@@ -14880,7 +14881,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0101d3, 0x7f0101d4
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_auxiliary_view_position}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_auxiliary_view_position}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -14894,11 +14895,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>inline</code></td><td>1</td><td></td></tr>
 <tr><td><code>top</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:com_facebook_auxiliary_view_position
+          @attr name com.onthespot:com_facebook_auxiliary_view_position
         */
         public static final int com_facebook_like_view_com_facebook_auxiliary_view_position = 4;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_foreground_color}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_foreground_color}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -14909,11 +14910,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:com_facebook_foreground_color
+          @attr name com.onthespot:com_facebook_foreground_color
         */
         public static final int com_facebook_like_view_com_facebook_foreground_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_horizontal_alignment}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_horizontal_alignment}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -14927,11 +14928,11 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>1</td><td></td></tr>
 <tr><td><code>right</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:com_facebook_horizontal_alignment
+          @attr name com.onthespot:com_facebook_horizontal_alignment
         */
         public static final int com_facebook_like_view_com_facebook_horizontal_alignment = 5;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_object_id}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_object_id}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -14941,11 +14942,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:com_facebook_object_id
+          @attr name com.onthespot:com_facebook_object_id
         */
         public static final int com_facebook_like_view_com_facebook_object_id = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_object_type}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_object_type}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -14959,11 +14960,11 @@ containing a value of this type.
 <tr><td><code>open_graph</code></td><td>1</td><td></td></tr>
 <tr><td><code>page</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:com_facebook_object_type
+          @attr name com.onthespot:com_facebook_object_type
         */
         public static final int com_facebook_like_view_com_facebook_object_type = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_style}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_style}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -14977,7 +14978,7 @@ containing a value of this type.
 <tr><td><code>button</code></td><td>1</td><td></td></tr>
 <tr><td><code>box_count</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:com_facebook_style
+          @attr name com.onthespot:com_facebook_style
         */
         public static final int com_facebook_like_view_com_facebook_style = 3;
         /** Attributes that can be used with a com_facebook_login_view.
@@ -14986,10 +14987,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout com.amazon.onthespot:com_facebook_confirm_logout}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text com.amazon.onthespot:com_facebook_login_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text com.amazon.onthespot:com_facebook_logout_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode com.amazon.onthespot:com_facebook_tooltip_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout com.onthespot:com_facebook_confirm_logout}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text com.onthespot:com_facebook_login_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text com.onthespot:com_facebook_logout_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode com.onthespot:com_facebook_tooltip_mode}</code></td><td></td></tr>
            </table>
            @see #com_facebook_login_view_com_facebook_confirm_logout
            @see #com_facebook_login_view_com_facebook_login_text
@@ -15000,7 +15001,7 @@ containing a value of this type.
             0x7f0101d5, 0x7f0101d6, 0x7f0101d7, 0x7f0101d8
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_confirm_logout}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_confirm_logout}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -15010,11 +15011,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:com_facebook_confirm_logout
+          @attr name com.onthespot:com_facebook_confirm_logout
         */
         public static final int com_facebook_login_view_com_facebook_confirm_logout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_login_text}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_login_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -15024,11 +15025,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:com_facebook_login_text
+          @attr name com.onthespot:com_facebook_login_text
         */
         public static final int com_facebook_login_view_com_facebook_login_text = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_logout_text}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_logout_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -15038,11 +15039,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:com_facebook_logout_text
+          @attr name com.onthespot:com_facebook_logout_text
         */
         public static final int com_facebook_login_view_com_facebook_logout_text = 2;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_tooltip_mode}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_tooltip_mode}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -15056,7 +15057,7 @@ containing a value of this type.
 <tr><td><code>display_always</code></td><td>1</td><td></td></tr>
 <tr><td><code>never_display</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:com_facebook_tooltip_mode
+          @attr name com.onthespot:com_facebook_tooltip_mode
         */
         public static final int com_facebook_login_view_com_facebook_tooltip_mode = 3;
         /** Attributes that can be used with a com_facebook_profile_picture_view.
@@ -15065,8 +15066,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped com.amazon.onthespot:com_facebook_is_cropped}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size com.amazon.onthespot:com_facebook_preset_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped com.onthespot:com_facebook_is_cropped}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size com.onthespot:com_facebook_preset_size}</code></td><td></td></tr>
            </table>
            @see #com_facebook_profile_picture_view_com_facebook_is_cropped
            @see #com_facebook_profile_picture_view_com_facebook_preset_size
@@ -15075,7 +15076,7 @@ containing a value of this type.
             0x7f0101d9, 0x7f0101da
         };
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_is_cropped}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_is_cropped}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -15085,11 +15086,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.amazon.onthespot:com_facebook_is_cropped
+          @attr name com.onthespot:com_facebook_is_cropped
         */
         public static final int com_facebook_profile_picture_view_com_facebook_is_cropped = 1;
         /**
-          <p>This symbol is the offset where the {@link com.amazon.onthespot.R.attr#com_facebook_preset_size}
+          <p>This symbol is the offset where the {@link com.onthespot.R.attr#com_facebook_preset_size}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -15103,7 +15104,7 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>-3</td><td></td></tr>
 <tr><td><code>large</code></td><td>-4</td><td></td></tr>
 </table>
-          @attr name com.amazon.onthespot:com_facebook_preset_size
+          @attr name com.onthespot:com_facebook_preset_size
         */
         public static final int com_facebook_profile_picture_view_com_facebook_preset_size = 0;
     };

@@ -9,10 +9,12 @@
 package com.onthespot;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.content.FileProvider;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -24,10 +26,14 @@ import android.widget.Button;
 import android.widget.ListView;
 
 import com.amazonaws.mobile.AWSMobileClient;
+import com.amazonaws.mobilehelper.auth.IdentityHandler;
 import com.amazonaws.mobilehelper.auth.IdentityManager;
+import com.amazonaws.mobilehelper.auth.user.IdentityProfile;
 import com.onthespot.demo.DemoConfiguration;
 import com.onthespot.demo.HomeDemoFragment;
 import com.onthespot.navigation.NavigationDrawer;
+
+import info.androidhive.speechtotext.SpeechMainActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     /** Class name for log messages. */
@@ -54,7 +60,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button   signOutButton;
 
     private Button   complaintButton;
-
+    private String userName="Arsh";
+    private final int REQ_CODE_VISION_OUTPUT = 200;
     /**
      * Initializes the Toolbar for use with the activity.
      */
@@ -131,6 +138,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // Obtain a reference to the identity manager.
         identityManager = awsMobileClient.getIdentityManager();
 
+        identityManager.getUserID(new IdentityHandler() {
+            @Override
+            public void onIdentityId(String identityId) {
+                final IdentityProfile identityProfile = identityManager.getIdentityProfile();
+                if (identityProfile != null) {
+                    userName=identityProfile.getUserName();
+                }
+            }
+
+            @Override
+            public void handleError(Exception exception) {
+
+            }
+        });
+
         setContentView(R.layout.activity_main);
 
         setupToolbar(savedInstanceState);
@@ -182,15 +204,27 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
 
         else if (view == complaintButton) {
-            // The user is currently signed in with a provider. Sign out of that provider.
-            this.startActivity(new Intent( this,com.google.sample.cloudvision.MainActivity.class)
-                    .setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
 
+           /* */
+
+            Intent intent = new Intent(getApplicationContext(),com.google.sample.cloudvision.MainActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+            intent.putExtra("userName",userName);
+            startActivityForResult(intent,REQ_CODE_VISION_OUTPUT);
             return;
         }
 
         // ... add any other button handling code here ...
 
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if(requestCode==REQ_CODE_VISION_OUTPUT) {
+            if (resultCode == RESULT_OK && null != data) {
+
+            }
+        }
     }
 
     @Override

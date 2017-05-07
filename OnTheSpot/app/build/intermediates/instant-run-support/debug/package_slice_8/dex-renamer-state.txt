@@ -1,4 +1,4 @@
-#Sat May 06 17:59:07 PDT 2017
-base.0=C\:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+#Sun May 07 02:47:00 PDT 2017
+base.0=C\:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
 renamed.0=classes.dex
-file.0=C\:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
+file.0=C\:\\Users\\arsh2\\Music\\Current\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

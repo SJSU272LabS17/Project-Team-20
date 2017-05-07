@@ -124,7 +124,7 @@ public class FetchAddressIntentService extends IntentService {
             }
             deliverResultToReceiver(Constants.FAILURE_RESULT, errorMessage);
         } else {
-            registerComplaint();
+            //registerComplaint();
             Address address = addresses.get(0);
             ArrayList<String> addressFragments = new ArrayList<String>();
 

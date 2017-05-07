@@ -25,7 +25,9 @@ public class SpeechMainActivity extends Activity {
     private ImageButton btnSpeak;
 	private Button buttonSubmit;
     private String identifiedObject;
+	private String userName;
 	private final int REQ_CODE_SPEECH_INPUT = 100;
+	private final int REQ_CODE_LOCATION_OUTPUT = 200;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -42,6 +44,9 @@ public class SpeechMainActivity extends Activity {
         {
             String objectName =(String) b.get("identifiedObject");
             identifiedObject=objectName;
+			userName=b.get("userName").toString();
+			System.out.println("*******************************"+userName);
+
             objectName= txtCaption.getText().toString()+objectName;
             txtCaption.setText(objectName);
         }
@@ -90,9 +95,9 @@ public class SpeechMainActivity extends Activity {
 		Intent intent = new Intent(getApplicationContext(),LocationMainActivity.class);
 		intent.putExtra("description",txtSpeechInput.getText());
         intent.putExtra("identifiedObject",identifiedObject);
-
+		intent.putExtra("userName",userName);
         try {
-			startActivity(intent);
+			startActivityForResult(intent,REQ_CODE_LOCATION_OUTPUT);
 		} catch (ActivityNotFoundException a) {
 			Toast.makeText(getApplicationContext(),
 					"Problem",
@@ -118,6 +123,15 @@ public class SpeechMainActivity extends Activity {
 			}
 			break;
 		}
+			case REQ_CODE_LOCATION_OUTPUT: {
+				if (resultCode == RESULT_OK && null != data) {
+					Intent intent=new Intent();
+					intent.putExtra("MESSAGE","DONE");
+					setResult(RESULT_OK,intent);
+					finish();
+				}
+				break;
+			}
 
 		}
 	}

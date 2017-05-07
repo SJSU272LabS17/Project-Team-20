@@ -82,12 +82,22 @@ public class MainActivity extends AppCompatActivity {
     private ImageView mMainImage;
     private ListView mObjectList;
     private ArrayAdapter<String> listAdapter ;
+    private String userName;
+
+    private final int REQ_CODE_SPEECH_OUTPUT = 200;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.v_activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        Intent in= getIntent();
+        Bundle b = in.getExtras();
+        if(b!=null)
+        {
+            userName =b.get("userName").toString();
+        }
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -116,6 +126,7 @@ public class MainActivity extends AppCompatActivity {
         mMainImage = (ImageView) findViewById(R.id.main_image);
         mObjectList=(ListView) findViewById(R.id.mainListView);
         listAdapter = new ArrayAdapter<String>(this, R.layout.simplerow);
+
 
 
     }
@@ -158,6 +169,14 @@ public class MainActivity extends AppCompatActivity {
         } else if (requestCode == CAMERA_IMAGE_REQUEST && resultCode == RESULT_OK) {
             Uri photoUri = FileProvider.getUriForFile(this, getApplicationContext().getPackageName() + ".provider", getCameraFile());
             uploadImage(photoUri);
+        }
+        else if(requestCode==REQ_CODE_SPEECH_OUTPUT) {
+            {
+                Intent intent=new Intent();
+                intent.putExtra("MESSAGE","DONE");
+                setResult(RESULT_OK,intent);
+                finish();
+            }
         }
     }
 
@@ -305,9 +324,12 @@ public class MainActivity extends AppCompatActivity {
     private void passObject(String identifiedObject) {
         Intent intent = new Intent(getApplicationContext(), SpeechMainActivity.class).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.putExtra("identifiedObject",identifiedObject);
-        getApplicationContext().startActivity(intent);
+        intent.putExtra("userName",userName);
+        startActivityForResult(intent,REQ_CODE_SPEECH_OUTPUT);
 
     }
+
+
     public Bitmap scaleBitmapDown(Bitmap bitmap, int maxDimension) {
 
         int originalWidth = bitmap.getWidth();

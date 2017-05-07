@@ -25,12 +25,7 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context=".LocationMainActivity">
 
-    <Button
-        android:id="@+id/fetch_address_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/fetch_address"
-        android:onClick="fetchAddressButtonHandler" />
+
 
     <ProgressBar
         android:id="@+id/progress_bar"
@@ -47,4 +42,31 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="@dimen/text_margin_top"
         android:textSize="@dimen/default_text_size" />
+
+    <TextView
+        android:id="@+id/objectTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/progress_bar"
+        android:layout_marginTop="94dp"
+        android:layout_toEndOf="@+id/location_address_view"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/objectTextView"
+        android:layout_marginTop="39dp"
+        android:layout_toEndOf="@+id/location_address_view"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/userTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/objectTextView"
+        android:layout_marginTop="39dp"
+        android:layout_toEndOf="@+id/location_address_view"
+        android:text="TextView" />
+
 </RelativeLayout>

@@ -60,4 +60,13 @@
         android:layout_marginTop="39dp"
         android:layout_toEndOf="@+id/location_address_view"
         android:text="TextView" />
+    <TextView
+        android:id="@+id/userTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/objectTextView"
+        android:layout_marginTop="39dp"
+        android:layout_toEndOf="@+id/location_address_view"
+        android:text="TextView" />
+
 </RelativeLayout>

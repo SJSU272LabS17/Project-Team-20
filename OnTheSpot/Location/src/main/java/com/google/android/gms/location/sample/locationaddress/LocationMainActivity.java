@@ -109,6 +109,9 @@ public class LocationMainActivity extends ActionBarActivity implements
     protected TextView mLocationAddressTextView;
     protected TextView mDescriptionTextView;
     protected TextView mObjectTextView;
+    protected TextView mUserTextView;
+    private String userName;
+
 
     /**
      * Visible while the address is being fetched.
@@ -130,6 +133,7 @@ public class LocationMainActivity extends ActionBarActivity implements
         mLocationAddressTextView = (TextView) findViewById(R.id.location_address_view);
         mDescriptionTextView = (TextView) findViewById(R.id.descriptionTextView);
         mObjectTextView = (TextView) findViewById(R.id.objectTextView);
+        mUserTextView = (TextView) findViewById(R.id.userTextView);
         mProgressBar = (ProgressBar) findViewById(R.id.progress_bar);
         //mFetchAddressButton = (Button) findViewById(R.id.fetch_address_button);
 
@@ -155,7 +159,9 @@ public class LocationMainActivity extends ActionBarActivity implements
                 String description = b.get("description").toString();
                 mObjectTextView.setText(objectName);
                 mDescriptionTextView.setText(description);
-            }
+                userName=b.get("userName").toString();
+                mUserTextView.setText(userName);
+             }
 
         }
 
@@ -180,6 +186,7 @@ public class LocationMainActivity extends ActionBarActivity implements
             // and stored in the Bundle. If it was found, display the address string in the UI.
             if (savedInstanceState.keySet().contains(LOCATION_ADDRESS_KEY)) {
                 mAddressOutput = savedInstanceState.getString(LOCATION_ADDRESS_KEY);
+
                 displayAddressOutput();
             }
         }
@@ -293,6 +300,10 @@ public class LocationMainActivity extends ActionBarActivity implements
      */
     protected void displayAddressOutput() {
         mLocationAddressTextView.setText(mAddressOutput);
+        Intent intent=new Intent();
+        intent.putExtra("MESSAGE","DONE");
+        setResult(RESULT_OK,intent);
+        finish();
     }
 
     /**
