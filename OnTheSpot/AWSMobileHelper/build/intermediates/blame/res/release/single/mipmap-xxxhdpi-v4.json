@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\facebook_icon.png",
-        "source": "C:\\Users\\arsh2\\Music\\OnTheSpot\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\facebook_icon.png"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\facebook_icon.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\facebook_icon.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
-        "source": "C:\\Users\\arsh2\\Music\\OnTheSpot\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\button_login_pressed.png"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\button_login.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\button_login.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\button_login.png",
-        "source": "C:\\Users\\arsh2\\Music\\OnTheSpot\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\button_login.png"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\button_login_pressed.png"
     }
 ]

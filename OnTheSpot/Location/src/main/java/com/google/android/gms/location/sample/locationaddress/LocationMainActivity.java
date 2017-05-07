@@ -126,18 +126,6 @@ public class LocationMainActivity extends ActionBarActivity implements
         mAddressRequested = false;
         mAddressOutput = "";
 
-        Intent in= getIntent();
-        Bundle b = in.getExtras();
-
-        if(b!=null)
-        {
-            String objectName =(String) b.get("identifiedObject");
-            String description =(String) b.get("description");
-            mLocationAddressTextView.setText(objectName+" "+description);
-
-
-        }
-
 
         updateValuesFromBundle(savedInstanceState);
 

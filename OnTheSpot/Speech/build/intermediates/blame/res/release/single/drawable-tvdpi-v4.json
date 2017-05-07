@@ -1,22 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "C:\\Users\\arsh2\\.android\\build-cache\\1b789fbd12e8d9ffcff025ad071f2d9bf40bb9ba\\output\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\4291a68d283255ddd01f5950b454aa5053369014\\output\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\arsh2\\.android\\build-cache\\1b789fbd12e8d9ffcff025ad071f2d9bf40bb9ba\\output\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\4291a68d283255ddd01f5950b454aa5053369014\\output\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\arsh2\\.android\\build-cache\\5403f5f50ae5adbf24cedb1e93de23d6b9bc1223\\output\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\4291a68d283255ddd01f5950b454aa5053369014\\output\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\arsh2\\.android\\build-cache\\1b789fbd12e8d9ffcff025ad071f2d9bf40bb9ba\\output\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\arsh2\\Music\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\arsh2\\.android\\build-cache\\1b789fbd12e8d9ffcff025ad071f2d9bf40bb9ba\\output\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\4291a68d283255ddd01f5950b454aa5053369014\\output\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
     }
 ]

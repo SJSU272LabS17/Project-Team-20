@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\arsh2\\Music\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v12\\values-v12.xml",
+        "outputFile": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v12\\values-v12.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 274
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 474
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -53,7 +53,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -72,7 +72,7 @@
                     "endOffset": 688
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

@@ -10,8 +10,18 @@ import android.os.ResultReceiver;
 import android.text.TextUtils;
 import android.util.Log;
 
+import com.firebase.dao.Complaint;
+import com.firebase.dao.ComplaintAddress;
+import com.firebase.dao.Person;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
@@ -114,6 +124,7 @@ public class FetchAddressIntentService extends IntentService {
             }
             deliverResultToReceiver(Constants.FAILURE_RESULT, errorMessage);
         } else {
+            registerComplaint();
             Address address = addresses.get(0);
             ArrayList<String> addressFragments = new ArrayList<String>();
 
@@ -126,6 +137,7 @@ public class FetchAddressIntentService extends IntentService {
             // getPostalCode() ("94043", for example)
             // getCountryCode() ("US", for example)
             // getCountryName() ("United States", for example)
+
             for(int i = 0; i < address.getMaxAddressLineIndex(); i++) {
                 addressFragments.add(address.getAddressLine(i));
             }
@@ -142,5 +154,104 @@ public class FetchAddressIntentService extends IntentService {
         Bundle bundle = new Bundle();
         bundle.putString(Constants.RESULT_DATA_KEY, message);
         mReceiver.send(resultCode, bundle);
+    }
+
+    /**
+     * Save the contents to database
+     */
+    private void registerComplaint(){
+
+
+        // Write a message to the database
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference myRef = database.getReference("onthespot");
+
+
+        ComplaintAddress address = new ComplaintAddress();
+        address.setCity("San Jose");
+        address.setCountry("USA");
+        address.setStreet("101 San Fernando");
+        address.setZip("95112");
+        address.setState("CA");
+
+        final Complaint complaint = new Complaint();
+        complaint.setAuthorityName("ducstbin");
+        complaint.setComplaintDate(new Date());
+        complaint.setComplaintImage("http://ssss.");
+        complaint.setComplaintLocation(address);
+        complaint.setDescription("bbbbbbbbbb");
+        String complaintId = complaint.getId();
+
+        Complaint complaintb = new Complaint();
+        complaintb.setAuthorityName("red light");
+        complaintb.setComplaintDate(new Date());
+        complaintb.setComplaintImage("http://aaa.");
+        complaintb.setComplaintLocation(address);
+        complaintb.setDescription("xxxxx");
+        String complaintbId = complaintb.getId();
+
+        List<Complaint> complaints = new ArrayList<Complaint>();
+        complaints.add(complaintb);
+        complaints.add(complaint);
+        Person person = new Person();
+        //person.setComplaints(complaints);
+        person.setContactNo("+14088861711");
+        person.setEmail("kimtani90@gmail.com");
+        person.setFirstName("Dishant");
+        person.setLastName("Kimtani");
+        person.setComplaints(complaints);
+
+        String personId = myRef.push().getKey();
+
+        //myRef.child(personId).child()
+        myRef.child("kimtani90").setValue(person);
+        // myRef.child("kimtani90").child(complaintId).setValue(complaint);
+        //  myRef.child("kimtani90").child(complaintbId).setValue(complaintb);
+
+        myRef.addListenerForSingleValueEvent(new ValueEventListener() {
+
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                for (DataSnapshot postSnapshot: dataSnapshot.getChildren()) {
+                    // TODO: handle the post
+                    Person value = postSnapshot.getValue(Person.class);
+                    List complaints = value.getComplaints();
+                    Complaint a = (Complaint) complaints.get(0);
+                    Complaint b = (Complaint) complaints.get(1);
+
+
+                    System.out.println("..value."+ value.getFirstName() + "..a ID."+ a.getId()+"..b ID."+ b.getId());
+                    Log.d(TAG, "Value is: " + value);
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError firebaseError) {
+
+            }
+        });
+       /* // Read from the database
+        myRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                // This method is called once with the initial value and again
+                // whenever data at this location is updated.
+                for (DataSnapshot postSnapshot: dataSnapshot.getChildren()) {
+                    // TODO: handle the post
+                    Person value = postSnapshot.getValue(Person.class);
+                    System.out.println("..value."+ value.getContactNo());
+                    Log.d(TAG, "Value is: " + value);
+                }
+                //Complaint value = dataSnapshot.getValue(String.class);
+
+
+            }
+
+            @Override
+            public void onCancelled(DatabaseError error) {
+                // Failed to read value
+                Log.w(TAG, "Failed to read value.", error.toException());
+            }
+        });*/
     }
 }

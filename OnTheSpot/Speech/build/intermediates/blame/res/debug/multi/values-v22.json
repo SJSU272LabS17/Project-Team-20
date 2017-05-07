@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\arsh2\\Music\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+        "outputFile": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\cbd15176bae3742d44429f3112870978a36def79\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\794e78ce56d59a706034fac177683ecd522a3467\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 285,
+                        "startOffset": 55,
                         "endColumn": 74,
-                        "endOffset": 355
+                        "endOffset": 125
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\cbd15176bae3742d44429f3112870978a36def79\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\794e78ce56d59a706034fac177683ecd522a3467\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 360,
+                        "startOffset": 130,
                         "endColumn": 86,
-                        "endOffset": 442
+                        "endOffset": 212
                     }
                 }
             },
@@ -45,40 +45,40 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 217,
-                    "endLine": 6,
+                    "endLine": 8,
                     "endColumn": 12,
-                    "endOffset": 393
+                    "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\cbd15176bae3742d44429f3112870978a36def79\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\794e78ce56d59a706034fac177683ecd522a3467\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 447,
+                        "startOffset": 217,
                         "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 623
+                        "endOffset": 548
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 398,
-                    "endLine": 9,
+                    "startOffset": 553,
+                    "endLine": 13,
                     "endColumn": 12,
-                    "endOffset": 586
+                    "endOffset": 896
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\cbd15176bae3742d44429f3112870978a36def79\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\794e78ce56d59a706034fac177683ecd522a3467\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 628,
-                        "endLine": 11,
+                        "startOffset": 553,
+                        "endLine": 13,
                         "endColumn": 12,
-                        "endOffset": 816
+                        "endOffset": 896
                     }
                 }
             }
