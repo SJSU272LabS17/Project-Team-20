@@ -3085,7 +3085,7 @@ containing a value of this type.
         public static int mr_ic_pause_light=0x7f020143;
         public static int mr_ic_play_dark=0x7f020144;
         public static int mr_ic_play_light=0x7f020145;
-        public static int notification_template_icon_bg=0x7f020173;
+        public static int notification_template_icon_bg=0x7f020174;
         public static int places_ic_clear=0x7f020146;
         public static int places_ic_search=0x7f020147;
         public static int powered_by_google_dark=0x7f020148;
@@ -3131,6 +3131,7 @@ containing a value of this type.
         public static int quantum_ic_volume_off_white_36=0x7f020170;
         public static int quantum_ic_volume_up_grey600_36=0x7f020171;
         public static int quantum_ic_volume_up_white_36=0x7f020172;
+        public static int test=0x7f020173;
     }
     public static final class id {
         public static int action0=0x7f0d00e3;

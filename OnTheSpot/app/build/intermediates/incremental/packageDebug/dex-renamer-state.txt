@@ -1,7 +1,7 @@
-#Sun May 07 16:35:38 PDT 2017
-base.0=D\:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2fcd733ba125f11329f2c4616c018ca9aff1857a
+#Sun May 07 18:11:05 PDT 2017
+base.0=C\:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a6ae74af83d80509b2689ad8dd9764b932fdbef5
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=D\:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ba06dd38b4f71493ebd596183be965585a2f6c1\\classes.dex
-base.1=D\:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ba06dd38b4f71493ebd596183be965585a2f6c1
-file.0=D\:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2fcd733ba125f11329f2c4616c018ca9aff1857a\\classes.dex
+file.1=C\:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ff5f56ea2da643d1d4227027df61aa41efed5a79\\classes.dex
+base.1=C\:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ff5f56ea2da643d1d4227027df61aa41efed5a79
+file.0=C\:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a6ae74af83d80509b2689ad8dd9764b932fdbef5\\classes.dex

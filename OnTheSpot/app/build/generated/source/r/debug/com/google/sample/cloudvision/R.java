@@ -910,13 +910,13 @@ public final class R {
         public static final int abc_textfield_search_material = 0x7f020051;
         public static final int abc_vector_test = 0x7f020052;
         public static final int avd_hide_password = 0x7f020053;
-        public static final int avd_hide_password_1 = 0x7f0201b5;
-        public static final int avd_hide_password_2 = 0x7f0201b6;
-        public static final int avd_hide_password_3 = 0x7f0201b7;
+        public static final int avd_hide_password_1 = 0x7f0201b6;
+        public static final int avd_hide_password_2 = 0x7f0201b7;
+        public static final int avd_hide_password_3 = 0x7f0201b8;
         public static final int avd_show_password = 0x7f020054;
-        public static final int avd_show_password_1 = 0x7f0201b8;
-        public static final int avd_show_password_2 = 0x7f0201b9;
-        public static final int avd_show_password_3 = 0x7f0201ba;
+        public static final int avd_show_password_1 = 0x7f0201b9;
+        public static final int avd_show_password_2 = 0x7f0201ba;
+        public static final int avd_show_password_3 = 0x7f0201bb;
         public static final int bg_gradient = 0x7f020055;
         public static final int cast_abc_scrubber_control_off_mtrl_alpha = 0x7f020056;
         public static final int cast_abc_scrubber_control_to_pressed_mtrl_000 = 0x7f020057;
@@ -1182,8 +1182,8 @@ public final class R {
         public static final int notification_bg_normal = 0x7f020180;
         public static final int notification_bg_normal_pressed = 0x7f020181;
         public static final int notification_icon_background = 0x7f020182;
-        public static final int notification_template_icon_bg = 0x7f0201b3;
-        public static final int notification_template_icon_low_bg = 0x7f0201b4;
+        public static final int notification_template_icon_bg = 0x7f0201b4;
+        public static final int notification_template_icon_low_bg = 0x7f0201b5;
         public static final int notification_tile_bg = 0x7f020183;
         public static final int notify_panel_notification_icon_bg = 0x7f020184;
         public static final int places_ic_clear = 0x7f020185;
@@ -1231,6 +1231,7 @@ public final class R {
         public static final int quantum_ic_volume_off_white_36 = 0x7f0201af;
         public static final int quantum_ic_volume_up_grey600_36 = 0x7f0201b0;
         public static final int quantum_ic_volume_up_white_36 = 0x7f0201b1;
+        public static final int test = 0x7f0201b3;
     }
     public static final class id {
         public static final int action0 = 0x7f110170;

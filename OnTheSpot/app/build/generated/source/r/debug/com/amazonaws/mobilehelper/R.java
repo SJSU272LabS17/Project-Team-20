@@ -508,7 +508,7 @@ public final class R {
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020050;
         public static final int abc_textfield_search_material = 0x7f020051;
         public static final int abc_vector_test = 0x7f020052;
-        public static final int notification_template_icon_bg = 0x7f0201b3;
+        public static final int notification_template_icon_bg = 0x7f0201b4;
         public static final int selector_button_login = 0x7f0201b2;
     }
     public static final class id {
@@ -662,7 +662,6 @@ public final class R {
         public static final int abc_config_activityDefaultDur = 0x7f0e0001;
         public static final int abc_config_activityShortDur = 0x7f0e0002;
         public static final int cancel_button_image_alpha = 0x7f0e0005;
-        public static final int google_play_services_version = 0x7f0e0007;
         public static final int status_bar_notification_info_maxnum = 0x7f0e000d;
     }
     public static final class layout {
@@ -747,7 +746,6 @@ public final class R {
         public static final int abc_shareactionprovider_share_with_application = 0x7f0a0011;
         public static final int abc_toolbar_collapse_description = 0x7f0a0012;
         public static final int app_name = 0x7f0a0090;
-        public static final int common_google_play_services_unknown_issue = 0x7f0a0058;
         public static final int default_facebook_button_text = 0x7f0a0099;
         public static final int email_address_text = 0x7f0a009e;
         public static final int forgot_password_body = 0x7f0a00a9;

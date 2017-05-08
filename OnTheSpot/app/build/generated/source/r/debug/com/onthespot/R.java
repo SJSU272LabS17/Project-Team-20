@@ -4036,13 +4036,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f0201b5;
-        public static final int avd_hide_password_2=0x7f0201b6;
-        public static final int avd_hide_password_3=0x7f0201b7;
+        public static final int avd_hide_password_1=0x7f0201b6;
+        public static final int avd_hide_password_2=0x7f0201b7;
+        public static final int avd_hide_password_3=0x7f0201b8;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f0201b8;
-        public static final int avd_show_password_2=0x7f0201b9;
-        public static final int avd_show_password_3=0x7f0201ba;
+        public static final int avd_show_password_1=0x7f0201b9;
+        public static final int avd_show_password_2=0x7f0201ba;
+        public static final int avd_show_password_3=0x7f0201bb;
         public static final int bg_gradient=0x7f020055;
         public static final int cast_abc_scrubber_control_off_mtrl_alpha=0x7f020056;
         public static final int cast_abc_scrubber_control_to_pressed_mtrl_000=0x7f020057;
@@ -4345,8 +4345,8 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f020180;
         public static final int notification_bg_normal_pressed=0x7f020181;
         public static final int notification_icon_background=0x7f020182;
-        public static final int notification_template_icon_bg=0x7f0201b3;
-        public static final int notification_template_icon_low_bg=0x7f0201b4;
+        public static final int notification_template_icon_bg=0x7f0201b4;
+        public static final int notification_template_icon_low_bg=0x7f0201b5;
         public static final int notification_tile_bg=0x7f020183;
         public static final int notify_panel_notification_icon_bg=0x7f020184;
         public static final int places_ic_clear=0x7f020185;
@@ -4395,6 +4395,7 @@ containing a value of this type.
         public static final int quantum_ic_volume_up_grey600_36=0x7f0201b0;
         public static final int quantum_ic_volume_up_white_36=0x7f0201b1;
         public static final int selector_button_login=0x7f0201b2;
+        public static final int test=0x7f0201b3;
     }
     public static final class id {
         public static final int action0=0x7f110170;
@@ -4941,10 +4942,11 @@ containing a value of this type.
         public static final int facebook_icon=0x7f030002;
         public static final int ic_launcher=0x7f030003;
         public static final int icon_home=0x7f030004;
-        public static final int splash_icon=0x7f030005;
-        public static final int user=0x7f030006;
-        public static final int user_data_storage=0x7f030007;
-        public static final int user_identity=0x7f030008;
+        public static final int noun_89570=0x7f030005;
+        public static final int splash_icon=0x7f030006;
+        public static final int user=0x7f030007;
+        public static final int user_data_storage=0x7f030008;
+        public static final int user_identity=0x7f030009;
     }
     public static final class raw {
         public static final int gtm_analytics=0x7f090000;
@@ -5210,15 +5212,7 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f0c00a7;
         public static final int Animation_AppCompat_DropDownUp=0x7f0c00a8;
         public static final int Animation_Design_BottomSheetDialog=0x7f0c00a9;
-        /** 
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
-         */
         public static final int AppBaseTheme=0x7f0c000c;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f0c00aa;
         public static final int AppTheme_AppBarOverlay=0x7f0c00ab;
         public static final int AppTheme_NoActionBar=0x7f0c0042;

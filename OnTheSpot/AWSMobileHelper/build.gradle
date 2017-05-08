@@ -34,6 +34,5 @@ dependencies {
     compile 'com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.3.9'
     compile 'com.amazonaws:aws-android-sdk-cognito:2.3.9'
     compile 'com.android.support:appcompat-v7:24.2.0'
-    compile 'com.google.firebase:firebase-database:10.0.1'
     testCompile 'junit:junit:4.12'
 }
