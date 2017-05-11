@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -832,7 +832,7 @@
                     "endOffset": 3428
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -851,7 +851,7 @@
                     "endOffset": 3480
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -870,7 +870,7 @@
                     "endOffset": 3531
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -889,7 +889,7 @@
                     "endOffset": 3581
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1345,7 +1345,7 @@
                     "endOffset": 5469
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1364,7 +1364,7 @@
                     "endOffset": 5516
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1383,7 +1383,7 @@
                     "endOffset": 5567
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -2295,7 +2295,7 @@
                     "endOffset": 9153
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2314,7 +2314,7 @@
                     "endOffset": 9203
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -2561,7 +2561,7 @@
                     "endOffset": 9931
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2580,7 +2580,7 @@
                     "endOffset": 9995
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -2599,7 +2599,7 @@
                     "endOffset": 10055
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3055,7 +3055,7 @@
                     "endOffset": 11771
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3074,7 +3074,7 @@
                     "endOffset": 11823
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3093,7 +3093,7 @@
                     "endOffset": 11869
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -3188,7 +3188,7 @@
                     "endOffset": 12208
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3454,7 +3454,7 @@
                     "endOffset": 13166
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4879,7 +4879,7 @@
                     "endOffset": 61744
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4898,7 +4898,7 @@
                     "endOffset": 61800
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -5962,7 +5962,7 @@
                     "endOffset": 66067
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -5981,7 +5981,7 @@
                     "endOffset": 66137
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -6760,7 +6760,7 @@
                     "endOffset": 68734
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -7558,7 +7558,7 @@
                     "endOffset": 71740
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -7577,7 +7577,7 @@
                     "endOffset": 71793
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -7596,7 +7596,7 @@
                     "endOffset": 71846
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -7615,7 +7615,7 @@
                     "endOffset": 71901
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -7634,7 +7634,7 @@
                     "endOffset": 71952
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -7653,7 +7653,7 @@
                     "endOffset": 71999
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -7672,7 +7672,7 @@
                     "endOffset": 72063
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -7691,7 +7691,7 @@
                     "endOffset": 72128
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -7710,7 +7710,7 @@
                     "endOffset": 72192
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -7729,7 +7729,7 @@
                     "endOffset": 72260
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -7748,7 +7748,7 @@
                     "endOffset": 72329
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -7767,7 +7767,7 @@
                     "endOffset": 72403
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -7786,7 +7786,7 @@
                     "endOffset": 72477
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -7805,7 +7805,7 @@
                     "endOffset": 72539
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -7824,7 +7824,7 @@
                     "endOffset": 72602
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -7843,7 +7843,7 @@
                     "endOffset": 72669
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -9325,7 +9325,7 @@
                     "endOffset": 77702
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -9344,7 +9344,7 @@
                     "endOffset": 77758
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -9363,7 +9363,7 @@
                     "endOffset": 77807
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -9420,7 +9420,7 @@
                     "endOffset": 78137
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -9439,7 +9439,7 @@
                     "endOffset": 78193
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 2,
@@ -9458,7 +9458,7 @@
                     "endOffset": 78251
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
@@ -11168,7 +11168,7 @@
                     "endOffset": 86155
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -11187,7 +11187,7 @@
                     "endOffset": 86299
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -11206,7 +11206,7 @@
                     "endOffset": 86355
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -11225,7 +11225,7 @@
                     "endOffset": 86413
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -11244,7 +11244,7 @@
                     "endOffset": 86479
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -11263,7 +11263,7 @@
                     "endOffset": 86540
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -11282,7 +11282,7 @@
                     "endOffset": 86600
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -11301,7 +11301,7 @@
                     "endOffset": 86671
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -11320,7 +11320,7 @@
                     "endOffset": 86746
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,
@@ -11339,7 +11339,7 @@
                     "endOffset": 87082
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -11358,7 +11358,7 @@
                     "endOffset": 87330
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
@@ -11377,7 +11377,7 @@
                     "endOffset": 87411
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
@@ -11396,7 +11396,7 @@
                     "endOffset": 87547
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
@@ -11415,7 +11415,7 @@
                     "endOffset": 87618
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -11434,7 +11434,7 @@
                     "endOffset": 87674
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -11453,7 +11453,7 @@
                     "endOffset": 87788
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -11472,7 +11472,7 @@
                     "endOffset": 87908
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -11491,7 +11491,7 @@
                     "endOffset": 87977
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -11510,7 +11510,7 @@
                     "endOffset": 88050
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -11529,7 +11529,7 @@
                     "endOffset": 88128
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -11548,7 +11548,7 @@
                     "endOffset": 88194
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -11567,7 +11567,7 @@
                     "endOffset": 88282
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -11586,7 +11586,7 @@
                     "endOffset": 88364
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -11605,7 +11605,7 @@
                     "endOffset": 88419
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -11624,7 +11624,7 @@
                     "endOffset": 88523
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -11643,7 +11643,7 @@
                     "endOffset": 88626
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -11662,7 +11662,7 @@
                     "endOffset": 88746
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -11681,7 +11681,7 @@
                     "endOffset": 88849
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -11700,7 +11700,7 @@
                     "endOffset": 88902
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -11719,7 +11719,7 @@
                     "endOffset": 88972
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,
@@ -11738,7 +11738,7 @@
                     "endOffset": 89059
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 2,
@@ -11757,7 +11757,7 @@
                     "endOffset": 89179
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
@@ -11776,7 +11776,7 @@
                     "endOffset": 89271
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
@@ -11795,7 +11795,7 @@
                     "endOffset": 89367
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 2,
@@ -11814,7 +11814,7 @@
                     "endOffset": 89452
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
@@ -11833,7 +11833,7 @@
                     "endOffset": 89538
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 2,
@@ -11852,7 +11852,7 @@
                     "endOffset": 89596
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -11871,7 +11871,7 @@
                     "endOffset": 89708
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -11890,7 +11890,7 @@
                     "endOffset": 89766
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -11909,7 +11909,7 @@
                     "endOffset": 89851
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -11928,7 +11928,7 @@
                     "endOffset": 89925
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -11947,7 +11947,7 @@
                     "endOffset": 89980
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -11966,7 +11966,7 @@
                     "endOffset": 90039
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -11985,7 +11985,7 @@
                     "endOffset": 90124
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -12004,7 +12004,7 @@
                     "endOffset": 90200
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 2,
@@ -12023,7 +12023,7 @@
                     "endOffset": 90369
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -12042,7 +12042,7 @@
                     "endOffset": 90426
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
@@ -12080,7 +12080,7 @@
                     "endOffset": 90547
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -12099,7 +12099,7 @@
                     "endOffset": 90632
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -12422,7 +12422,7 @@
                     "endOffset": 91723
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -12441,7 +12441,7 @@
                     "endOffset": 91795
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -12460,7 +12460,7 @@
                     "endOffset": 91875
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -12479,7 +12479,7 @@
                     "endOffset": 91950
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -12498,7 +12498,7 @@
                     "endOffset": 92029
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -12612,7 +12612,7 @@
                     "endOffset": 92834
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -12688,7 +12688,7 @@
                     "endOffset": 93112
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -12707,7 +12707,7 @@
                     "endOffset": 93200
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -12726,7 +12726,7 @@
                     "endOffset": 93248
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -12745,7 +12745,7 @@
                     "endOffset": 93319
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -12764,7 +12764,7 @@
                     "endOffset": 93410
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -12783,7 +12783,7 @@
                     "endOffset": 93484
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -12802,7 +12802,7 @@
                     "endOffset": 93551
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -12821,7 +12821,7 @@
                     "endOffset": 93606
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -12840,7 +12840,7 @@
                     "endOffset": 93660
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -12859,7 +12859,7 @@
                     "endOffset": 93750
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -12878,7 +12878,7 @@
                     "endOffset": 93832
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -12897,7 +12897,7 @@
                     "endOffset": 93899
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -12916,7 +12916,7 @@
                     "endOffset": 93983
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -12935,7 +12935,7 @@
                     "endOffset": 94091
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -12954,7 +12954,7 @@
                     "endOffset": 94171
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -12973,7 +12973,7 @@
                     "endOffset": 94255
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -12992,7 +12992,7 @@
                     "endOffset": 94312
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -13011,7 +13011,7 @@
                     "endOffset": 94383
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -13030,7 +13030,7 @@
                     "endOffset": 94442
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -13049,7 +13049,7 @@
                     "endOffset": 94529
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -13068,7 +13068,7 @@
                     "endOffset": 94592
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -13087,7 +13087,7 @@
                     "endOffset": 94690
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -13106,7 +13106,7 @@
                     "endOffset": 94747
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -13239,7 +13239,7 @@
                     "endOffset": 95254
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -13258,7 +13258,7 @@
                     "endOffset": 95329
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -13277,7 +13277,7 @@
                     "endOffset": 95396
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
@@ -13296,7 +13296,7 @@
                     "endOffset": 95459
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 2,
@@ -13315,7 +13315,7 @@
                     "endOffset": 95519
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
@@ -13334,7 +13334,7 @@
                     "endOffset": 95575
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -13353,7 +13353,7 @@
                     "endOffset": 95634
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -13372,7 +13372,7 @@
                     "endOffset": 95693
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -13391,7 +13391,7 @@
                     "endOffset": 95768
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -13410,7 +13410,7 @@
                     "endOffset": 95839
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -13429,7 +13429,7 @@
                     "endOffset": 95891
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
@@ -13448,7 +13448,7 @@
                     "endOffset": 95943
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
@@ -13467,7 +13467,7 @@
                     "endOffset": 95994
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -13486,7 +13486,7 @@
                     "endOffset": 96048
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -13622,7 +13622,7 @@
                     "endOffset": 97053
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -13643,7 +13643,7 @@
                     "endOffset": 97181
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -13663,7 +13663,7 @@
                     "endOffset": 97271
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -13683,7 +13683,7 @@
                     "endOffset": 97421
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -13703,7 +13703,7 @@
                     "endOffset": 97501
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Vision\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -16608,7 +16608,7 @@
                     "endOffset": 163452
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -16628,7 +16628,7 @@
                     "endOffset": 163488
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,

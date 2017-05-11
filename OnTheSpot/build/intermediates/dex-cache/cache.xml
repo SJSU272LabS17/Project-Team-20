@@ -3,12 +3,30 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="886d946759586df780435e7420d2af552247d68e">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1517fdc45b1726e87eba25be7863324752bacdca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\arsh2\Pictures\OnTheSpot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
         <dex dex="C:\Users\arsh2\Pictures\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f82b197e696f3d4f48c413e4fd258b05f7e00290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c5985a22f7b79e298ae4331769acf3d4051527f3\classes.dex" />
     </item>
     <item
         is-multidex="true"

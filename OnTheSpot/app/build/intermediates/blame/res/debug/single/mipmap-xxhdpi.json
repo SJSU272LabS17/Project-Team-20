@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\splash_icon.png",
-        "source": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_icon.png"
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\splash_icon.png",
+        "source": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_icon.png"
     }
 ]

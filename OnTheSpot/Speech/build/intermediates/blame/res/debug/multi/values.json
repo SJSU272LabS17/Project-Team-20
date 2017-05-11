@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -832,7 +832,7 @@
                     "endOffset": 3383
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -851,7 +851,7 @@
                     "endOffset": 3435
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -870,7 +870,7 @@
                     "endOffset": 3486
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -2523,7 +2523,7 @@
                     "endOffset": 9873
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3891,7 +3891,7 @@
                     "endOffset": 44402
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -3910,7 +3910,7 @@
                     "endOffset": 44458
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -4480,7 +4480,7 @@
                     "endOffset": 46885
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -4955,7 +4955,7 @@
                     "endOffset": 48691
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6209,7 +6209,7 @@
                     "endOffset": 53022
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -6228,7 +6228,7 @@
                     "endOffset": 53078
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6247,7 +6247,7 @@
                     "endOffset": 53130
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -7501,7 +7501,7 @@
                     "endOffset": 58934
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -7520,7 +7520,7 @@
                     "endOffset": 58990
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -7539,7 +7539,7 @@
                     "endOffset": 59104
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -7558,7 +7558,7 @@
                     "endOffset": 59186
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -7577,7 +7577,7 @@
                     "endOffset": 59290
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -7596,7 +7596,7 @@
                     "endOffset": 59393
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -7615,7 +7615,7 @@
                     "endOffset": 59513
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -7634,7 +7634,7 @@
                     "endOffset": 59616
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -7653,7 +7653,7 @@
                     "endOffset": 59669
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -7672,7 +7672,7 @@
                     "endOffset": 59754
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -7995,7 +7995,7 @@
                     "endOffset": 60845
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -8014,7 +8014,7 @@
                     "endOffset": 60917
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -8033,7 +8033,7 @@
                     "endOffset": 60997
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -8090,7 +8090,7 @@
                     "endOffset": 61222
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Location\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -8109,7 +8109,7 @@
                     "endOffset": 61320
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -8128,7 +8128,7 @@
                     "endOffset": 61377
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -8261,7 +8261,7 @@
                     "endOffset": 61884
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -8376,7 +8376,7 @@
                     "endOffset": 62602
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -8397,7 +8397,7 @@
                     "endOffset": 62762
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
