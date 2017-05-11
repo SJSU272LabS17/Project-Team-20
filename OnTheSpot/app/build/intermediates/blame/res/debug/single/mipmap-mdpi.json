@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash_icon.png",
+        "source": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

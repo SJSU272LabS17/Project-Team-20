@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\de52ed1c8b2ce48e0b694e318efffe8315c2a269\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

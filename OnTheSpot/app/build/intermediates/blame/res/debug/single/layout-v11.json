@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\f60fd6d64cd67f55a12217a281439d42b457c320\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\f60fd6d64cd67f55a12217a281439d42b457c320\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\f60fd6d64cd67f55a12217a281439d42b457c320\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\f60fd6d64cd67f55a12217a281439d42b457c320\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\f60fd6d64cd67f55a12217a281439d42b457c320\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\Pictures\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\f60fd6d64cd67f55a12217a281439d42b457c320\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
