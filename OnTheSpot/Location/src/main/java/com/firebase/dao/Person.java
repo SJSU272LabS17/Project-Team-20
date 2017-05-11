@@ -1,61 +1,53 @@
 package com.firebase.dao;
 
 import java.util.List;
+import java.util.UUID;
 
-public class Person {
-	
-	//String id = UUID.randomUUID().toString();
-	String firstName;
-	String lastName;
+public class Person  {
+
+	String id = UUID.randomUUID().toString();
+	String userName;
 	String contactNo;
 	String email;
 	List<Complaint> complaints;
 
-    public List<Complaint> getComplaints() {
-        return complaints;
-    }
+	public String getId() {
+		return id;
+	}
 
-    public void setComplaints(List<Complaint> complaints) {
-        this.complaints = complaints;
-    }
+	public void setId(String id) {
+		this.id = id;
+	}
 
-    /*public String getId() {
-            return id;
-        }
-        public void setId(String id) {
-            this.id = id;
-        }*/
-	public String getEmail() {
-		return email;
+	public String getUserName() {
+		return userName;
 	}
-	public void setEmail(String email) {
-		this.email = email;
+
+	public void setUserName(String userName) {
+		this.userName = userName;
 	}
-	public String getFirstName() {
-		return firstName;
-	}
-	public void setFirstName(String firstName) {
-		this.firstName = firstName;
-	}
-	public String getLastName() {
-		return lastName;
-	}
-	public void setLastName(String lastName) {
-		this.lastName = lastName;
-	}
+
 	public String getContactNo() {
 		return contactNo;
 	}
+
 	public void setContactNo(String contactNo) {
 		this.contactNo = contactNo;
 	}
-	/*public Map<String, Complaint> getComplaints() {
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public List<Complaint> getComplaints() {
 		return complaints;
 	}
-	public void setComplaints(Map<String, Complaint> complaints) {
+
+	public void setComplaints(List<Complaint> complaints) {
 		this.complaints = complaints;
 	}
-	
-	*/
-	
 }

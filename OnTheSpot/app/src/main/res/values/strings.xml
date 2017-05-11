@@ -19,8 +19,8 @@
 
   <!-- USED BY DEMO FEATURES ONLY - YOU CAN DISCARD THESE WITH THE DEMO FOLDER -->
 
-  <string name="fragment_demo_instruction_overview_header">Overview</string>
-  <string name="fragment_demo_instruction_description_header">Sample App Features</string>
+  <string name="fragment_demo_instruction_overview_header">Complaint Details</string>
+  <string name="fragment_demo_instruction_description_header"></string>
   <string name="feature_sign_in_title">Register a complaint</string>
   <string name="feature_sign_in_subtitle">Let your users sign in with public identity providers or your own identity system.</string>
   <string name="feature_sign_in_overview">Whether your users sign in or not, the User sign-in feature configures Amazon Cognito to uniquely identify the user and provide your app the appropriate credentials to access your AWS resources.</string>

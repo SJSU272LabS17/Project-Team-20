@@ -1,7 +1,9 @@
 package com.google.android.gms.location.sample.locationaddress;
 
 import android.app.IntentService;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.location.Address;
 import android.location.Geocoder;
 import android.location.Location;
@@ -13,11 +15,7 @@ import android.util.Log;
 import com.firebase.dao.Complaint;
 import com.firebase.dao.ComplaintAddress;
 import com.firebase.dao.Person;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
+import com.google.gson.Gson;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -32,6 +30,8 @@ import java.util.Locale;
  */
 public class FetchAddressIntentService extends IntentService {
     private static final String TAG = "FetchAddressIS";
+
+    private SharedPreferences sharedpreferences;
 
     /**
      * The receiver where results are forwarded from this service.
@@ -79,6 +79,10 @@ public class FetchAddressIntentService extends IntentService {
             deliverResultToReceiver(Constants.FAILURE_RESULT, errorMessage);
             return;
         }
+
+        String userName = intent.getStringExtra("username");
+        String object = intent.getStringExtra("object");
+        String description = intent.getStringExtra("description");
 
         // Errors could still arise from using the Geocoder (for example, if there is no
         // connectivity, or if the Geocoder is given illegal location data). Or, the Geocoder may
@@ -142,6 +146,10 @@ public class FetchAddressIntentService extends IntentService {
                 addressFragments.add(address.getAddressLine(i));
             }
             Log.i(TAG, getString(R.string.address_found));
+
+            addComplaint(userName, description, object, address);
+
+
             deliverResultToReceiver(Constants.SUCCESS_RESULT,
                     TextUtils.join(System.getProperty("line.separator"), addressFragments));
         }
@@ -156,102 +164,51 @@ public class FetchAddressIntentService extends IntentService {
         mReceiver.send(resultCode, bundle);
     }
 
-    /**
-     * Save the contents to database
-     */
-    private void registerComplaint(){
+    private void addComplaint(String userName, String description, String object, Address address){
 
 
-        // Write a message to the database
-        FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference myRef = database.getReference("onthespot");
+        ComplaintAddress complaintAddress = new ComplaintAddress();
 
+        complaintAddress.setCity(address.getLocality());
+        complaintAddress.setCountry(address.getCountryName());
+        complaintAddress.setState(address.getAdminArea());
+        complaintAddress.setStreet(address.getLocality());
+        complaintAddress.setZip(address.getPostalCode());
 
-        ComplaintAddress address = new ComplaintAddress();
-        address.setCity("San Jose");
-        address.setCountry("USA");
-        address.setStreet("101 San Fernando");
-        address.setZip("95112");
-        address.setState("CA");
+        Complaint complaint = new Complaint();
 
-        final Complaint complaint = new Complaint();
-        complaint.setAuthorityName("ducstbin");
+        complaint.setAuthorityName("San Jose authority");
         complaint.setComplaintDate(new Date());
-        complaint.setComplaintImage("http://ssss.");
-        complaint.setComplaintLocation(address);
-        complaint.setDescription("bbbbbbbbbb");
-        String complaintId = complaint.getId();
+        complaint.setComplaintLocation(complaintAddress);
+        complaint.setComplaintImage("image url");
+        complaint.setDescription(description);
+        complaint.setComplaintObject(object);
 
-        Complaint complaintb = new Complaint();
-        complaintb.setAuthorityName("red light");
-        complaintb.setComplaintDate(new Date());
-        complaintb.setComplaintImage("http://aaa.");
-        complaintb.setComplaintLocation(address);
-        complaintb.setDescription("xxxxx");
-        String complaintbId = complaintb.getId();
+        sharedpreferences = getSharedPreferences("pref",
+                Context.MODE_PRIVATE);
 
-        List<Complaint> complaints = new ArrayList<Complaint>();
-        complaints.add(complaintb);
-        complaints.add(complaint);
-        Person person = new Person();
-        //person.setComplaints(complaints);
-        person.setContactNo("+14088861711");
-        person.setEmail("kimtani90@gmail.com");
-        person.setFirstName("Dishant");
-        person.setLastName("Kimtani");
-        person.setComplaints(complaints);
+        Gson gson = new Gson();
 
-        String personId = myRef.push().getKey();
+        String json1 = sharedpreferences.getString(userName, "");
+        Person obj = gson.fromJson(json1, Person.class);
 
-        //myRef.child(personId).child()
-        myRef.child("kimtani90").setValue(person);
-        // myRef.child("kimtani90").child(complaintId).setValue(complaint);
-        //  myRef.child("kimtani90").child(complaintbId).setValue(complaintb);
+        List<Complaint> complaintList = new ArrayList<Complaint>();
 
-        myRef.addListenerForSingleValueEvent(new ValueEventListener() {
+        complaintList = obj.getComplaints();
 
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                for (DataSnapshot postSnapshot: dataSnapshot.getChildren()) {
-                    // TODO: handle the post
-                    Person value = postSnapshot.getValue(Person.class);
-                    List complaints = value.getComplaints();
-                    Complaint a = (Complaint) complaints.get(0);
-                    Complaint b = (Complaint) complaints.get(1);
+        complaintList.add(complaint);
+
+        //person.setComplaints(complaintList);
+
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+
+        String json = gson.toJson(obj); // myObject - instance of MyObject
+        editor.putString(userName, json);
+        editor.commit();
 
 
-                    System.out.println("..value."+ value.getFirstName() + "..a ID."+ a.getId()+"..b ID."+ b.getId());
-                    Log.d(TAG, "Value is: " + value);
-                }
-            }
-
-            @Override
-            public void onCancelled(DatabaseError firebaseError) {
-
-            }
-        });
-       /* // Read from the database
-        myRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                // This method is called once with the initial value and again
-                // whenever data at this location is updated.
-                for (DataSnapshot postSnapshot: dataSnapshot.getChildren()) {
-                    // TODO: handle the post
-                    Person value = postSnapshot.getValue(Person.class);
-                    System.out.println("..value."+ value.getContactNo());
-                    Log.d(TAG, "Value is: " + value);
-                }
-                //Complaint value = dataSnapshot.getValue(String.class);
 
 
-            }
-
-            @Override
-            public void onCancelled(DatabaseError error) {
-                // Failed to read value
-                Log.w(TAG, "Failed to read value.", error.toException());
-            }
-        });*/
     }
+
 }

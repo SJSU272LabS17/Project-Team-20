@@ -2,6 +2,7 @@
 <resources>
     <color name="bg_gradient_end">#6b394c</color>
     <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_test">#FF8C00</color>
     <color name="white">#ffffff</color>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>

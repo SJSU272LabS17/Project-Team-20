@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "outputFile": "D:\\CMPE272bck\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\73e1d77145d76189104cb69ecc57d6615d884c77\\output\\res\\values-en-rCA\\values.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\ff8916eacb9577f416567cff25974afd6c7dc3b7\\output\\res\\values-en-rCA\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

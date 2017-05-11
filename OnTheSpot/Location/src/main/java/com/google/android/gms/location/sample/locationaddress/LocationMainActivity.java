@@ -16,8 +16,6 @@
 
 package com.google.android.gms.location.sample.locationaddress;
 
-import android.app.AlertDialog;
-import android.content.Context;
 import android.content.Intent;
 import android.location.Geocoder;
 import android.location.Location;
@@ -26,21 +24,15 @@ import android.os.Handler;
 import android.os.ResultReceiver;
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
-import android.view.View;
-import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
-
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
 import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener;
 import com.google.android.gms.location.LocationServices;
-
-
 
 
 /**
@@ -111,6 +103,8 @@ public class LocationMainActivity extends ActionBarActivity implements
     protected TextView mObjectTextView;
     protected TextView mUserTextView;
     private String userName;
+    private String objectName;
+    private String description;
 
 
     /**
@@ -155,13 +149,13 @@ public class LocationMainActivity extends ActionBarActivity implements
         if(b!=null)
         {
             if(b.containsKey("identifiedObject")) {
-                String objectName =  b.get("identifiedObject").toString();
-                String description = b.get("description").toString();
-                mObjectTextView.setText(objectName);
-                mDescriptionTextView.setText(description);
+                objectName =  b.get("identifiedObject").toString();
+                description = b.get("description").toString();
+                // mObjectTextView.setText(objectName);
+                // mDescriptionTextView.setText(description);
                 userName=b.get("userName").toString();
-                mUserTextView.setText(userName);
-             }
+                //mUserTextView.setText(userName);
+            }
 
         }
 
@@ -273,6 +267,10 @@ public class LocationMainActivity extends ActionBarActivity implements
         // Pass the location data as an extra to the service.
         intent.putExtra(Constants.LOCATION_DATA_EXTRA, mLastLocation);
 
+        intent.putExtra("username", userName);
+        intent.putExtra("object", objectName);
+        intent.putExtra("description", description);
+
         // Start the service. If the service isn't already running, it is instantiated and started
         // (creating a process for it if needed); if it is running then it remains running. The
         // service kills itself automatically once all intents are processed.
@@ -363,5 +361,7 @@ public class LocationMainActivity extends ActionBarActivity implements
             mAddressRequested = false;
             updateUIWidgets();
         }
+
+
     }
 }

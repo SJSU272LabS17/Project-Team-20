@@ -11,12 +11,11 @@ package com.amazonaws.mobilehelper.auth.signin;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
-import com.amazonaws.mobileconnectors.cognitoidentityprovider.handlers.VerificationHandler;
-import com.amazonaws.mobilehelper.auth.IdentityProviderType;
 import com.amazonaws.mobileconnectors.cognitoidentityprovider.CognitoDevice;
 import com.amazonaws.mobileconnectors.cognitoidentityprovider.CognitoUser;
 import com.amazonaws.mobileconnectors.cognitoidentityprovider.CognitoUserAttributes;
@@ -32,17 +31,24 @@ import com.amazonaws.mobileconnectors.cognitoidentityprovider.handlers.Authentic
 import com.amazonaws.mobileconnectors.cognitoidentityprovider.handlers.ForgotPasswordHandler;
 import com.amazonaws.mobileconnectors.cognitoidentityprovider.handlers.GenericHandler;
 import com.amazonaws.mobileconnectors.cognitoidentityprovider.handlers.SignUpHandler;
-import com.amazonaws.mobilehelper.auth.user.IdentityProfile;
-import com.amazonaws.mobilehelper.config.AWSMobileHelperConfiguration;
+import com.amazonaws.mobileconnectors.cognitoidentityprovider.handlers.VerificationHandler;
 import com.amazonaws.mobilehelper.R;
+import com.amazonaws.mobilehelper.auth.IdentityProviderType;
 import com.amazonaws.mobilehelper.auth.signin.userpools.ForgotPasswordActivity;
 import com.amazonaws.mobilehelper.auth.signin.userpools.MFAActivity;
 import com.amazonaws.mobilehelper.auth.signin.userpools.SignUpActivity;
 import com.amazonaws.mobilehelper.auth.signin.userpools.SignUpConfirmActivity;
+import com.amazonaws.mobilehelper.auth.user.IdentityProfile;
+import com.amazonaws.mobilehelper.config.AWSMobileHelperConfiguration;
+import com.amazonaws.mobilehelper.dao.Complaint;
+import com.amazonaws.mobilehelper.dao.Person;
 import com.amazonaws.mobilehelper.util.ViewHelper;
 import com.amazonaws.services.cognitoidentityprovider.model.UserNotConfirmedException;
+import com.google.gson.Gson;
 
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 /**
@@ -71,6 +77,8 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
         /** Phone number attribute. */
         public static final String PHONE_NUMBER = "phone_number";
     }
+
+    private SharedPreferences sharedpreferences;
 
     /** Log tag. */
     private static final String LOG_TAG = CognitoUserPoolsSignInProvider.class.getSimpleName();
@@ -142,6 +150,8 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
     /** Active Cognito User Pools session. */
     private CognitoUserSession cognitoUserSession;
 
+    private Person person;
+
     /**
      * Handle callbacks from the Forgot Password flow.
      */
@@ -197,8 +207,8 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
         public void onFailure(final Exception exception) {
             Log.e(LOG_TAG, "Sign up failed.", exception);
             ViewHelper.showDialog(activity, activity.getString(R.string.title_dialog_sign_up_failed),
-                exception.getMessage() != null ? exception.getMessage() :
-                    activity.getString(R.string.sign_up_failed));
+                    exception.getMessage() != null ? exception.getMessage() :
+                            activity.getString(R.string.sign_up_failed));
         }
     };
 
@@ -209,6 +219,7 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
         @Override
         public void onSuccess() {
             Log.i(LOG_TAG, "Confirmed.");
+
             ViewHelper.showDialog(activity, activity.getString(R.string.title_activity_sign_up_confirm),
                     activity.getString(R.string.sign_up_confirm_success));
         }
@@ -233,9 +244,9 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
             public void onFailure(final Exception exception) {
                 if (null != resultsHandler) {
                     ViewHelper.showDialog(activity, activity.getString(R.string.title_activity_sign_in),
-                        activity.getString(R.string.login_failed)
-                            + "\nUser was not verified and resending confirmation code failed.\n"
-                            + exception);
+                            activity.getString(R.string.login_failed)
+                                    + "\nUser was not verified and resending confirmation code failed.\n"
+                                    + exception);
 
                     resultsHandler.onError(CognitoUserPoolsSignInProvider.this, exception);
                 }
@@ -318,13 +329,13 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
         this.context = context;
 
         this.cognitoUserPool = new CognitoUserPool(context,
-            configuration.getCognitoUserPoolId(),
-            configuration.getCognitoUserPoolClientId(),
-            configuration.getCognitoUserPoolClientSecret(),
-            configuration.getCognitoRegion());
+                configuration.getCognitoUserPoolId(),
+                configuration.getCognitoUserPoolClientId(),
+                configuration.getCognitoUserPoolClientSecret(),
+                configuration.getCognitoRegion());
 
         cognitoLoginKey = "cognito-idp." +  configuration.getCognitoRegion().getName()
-            + ".amazonaws.com/" + configuration.getCognitoUserPoolId();
+                + ".amazonaws.com/" + configuration.getCognitoUserPoolId();
         Log.d(LOG_TAG, "CognitoLoginKey: " + cognitoLoginKey);
     }
 
@@ -359,6 +370,12 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
                     final String email = data.getStringExtra(CognitoUserPoolsSignInProvider.AttributeKeys.EMAIL_ADDRESS);
                     final String phone = data.getStringExtra(CognitoUserPoolsSignInProvider.AttributeKeys.PHONE_NUMBER);
 
+                    person = new Person();
+                    person.setUserName(givenName);
+                    person.setUserName(username);
+                    person.setContactNo(phone);
+                    person.setEmail(email);
+
                     Log.d(LOG_TAG, "username = " + username);
                     Log.d(LOG_TAG, "given_name = " + givenName);
                     Log.d(LOG_TAG, "email = " + email);
@@ -371,7 +388,7 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
                     if (null != phone && phone.length() > 0) {
                         userAttributes.addAttribute(CognitoUserPoolsSignInProvider.AttributeKeys.PHONE_NUMBER, phone);
                     }
-
+                    addPersonToDB();
                     cognitoUserPool.signUpInBackground(username, password, userAttributes,
                             null, signUpHandler);
 
@@ -520,7 +537,7 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
         }
 
         final RefreshSessionAuthenticationHandler refreshSessionAuthenticationHandler
-            = new RefreshSessionAuthenticationHandler();
+                = new RefreshSessionAuthenticationHandler();
 
         cognitoUserPool.getCurrentUser().getSession(refreshSessionAuthenticationHandler);
         if (null != refreshSessionAuthenticationHandler.getUserSession()) {
@@ -547,7 +564,7 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
         if ((cognitoUserSession != null) && !cognitoUserSession.isValid()) {
             // Attempt to refresh the credentials.
             final RefreshSessionAuthenticationHandler refreshSessionAuthenticationHandler
-                = new RefreshSessionAuthenticationHandler();
+                    = new RefreshSessionAuthenticationHandler();
 
             // Cognito User Pools SDK will attempt to refresh the token upon calling getSession().
             cognitoUserPool.getCurrentUser().getSession(refreshSessionAuthenticationHandler);
@@ -584,6 +601,23 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
      */
     public CognitoUserPool getCognitoUserPool() {
         return cognitoUserPool;
+    }
+
+    void addPersonToDB() {
+
+        sharedpreferences = context.getSharedPreferences("pref",
+                Context.MODE_PRIVATE);
+
+        List<Complaint> complaintList = new ArrayList<Complaint>();
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+        person.setComplaints(complaintList);
+        Gson gson = new Gson();
+        String json = gson.toJson(person); // myObject - instance of MyObject
+        editor.putString(person.getUserName(), json);
+        editor.commit();
+
+
+
     }
 
 }

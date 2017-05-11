@@ -8,13 +8,12 @@
 //
 package com.onthespot;
 
+import android.content.Context;
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v4.content.FileProvider;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -32,8 +31,6 @@ import com.amazonaws.mobilehelper.auth.user.IdentityProfile;
 import com.onthespot.demo.DemoConfiguration;
 import com.onthespot.demo.HomeDemoFragment;
 import com.onthespot.navigation.NavigationDrawer;
-
-import info.androidhive.speechtotext.SpeechMainActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     /** Class name for log messages. */
@@ -58,10 +55,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Bundle fragmentBundle;
 
     private Button   signOutButton;
-
+    Context context = MainActivity.this;
     private Button   complaintButton;
-    private String userName="Arsh";
+    private Context ctx;
+    private String userName="";
     private final int REQ_CODE_VISION_OUTPUT = 200;
+
     /**
      * Initializes the Toolbar for use with the activity.
      */
@@ -95,11 +94,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 
+
+
     /**
      * Initializes the navigation drawer menu to allow toggling via the toolbar or swipe from the
      * side of the screen.
      */
-    private void setupNavigationMenu(final Bundle savedInstanceState) {
+    private void setupNavigationMenu(final Bundle savedInstanceState, String userName) {
         final DrawerLayout drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         final ListView drawerItems = (ListView) findViewById(R.id.nav_drawer_items);
 
@@ -109,9 +110,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         // Add navigation drawer menu items.
         // Home isn't a demo, but is fake as a demo.
+        DemoConfiguration configuration=new DemoConfiguration(getApplicationContext(), userName);
         DemoConfiguration.DemoFeature home = new DemoConfiguration.DemoFeature();
         home.iconResId = R.mipmap.icon_home;
-        home.titleResId = R.string.main_nav_menu_item_home;
+        home.titleResId = "home";
         navigationDrawer.addDemoFeatureToMenu(home);
 
         for (DemoConfiguration.DemoFeature demoFeature : DemoConfiguration.getDemoFeatureList()) {
@@ -138,6 +140,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // Obtain a reference to the identity manager.
         identityManager = awsMobileClient.getIdentityManager();
 
+        if (identityManager.getIdentityProfile() != null) {
+            userName=identityManager.getIdentityProfile().getUserName();
+        }
+
         identityManager.getUserID(new IdentityHandler() {
             @Override
             public void onIdentityId(String identityId) {
@@ -157,7 +163,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         setupToolbar(savedInstanceState);
 
-        setupNavigationMenu(savedInstanceState);
+        setupNavigationMenu(savedInstanceState, userName);
     }
 
     @Override
@@ -222,7 +228,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onActivityResult(requestCode, resultCode, data);
         if(requestCode==REQ_CODE_VISION_OUTPUT) {
             if (resultCode == RESULT_OK && null != data) {
-
+                setupNavigationMenu(null, userName);
             }
         }
     }

@@ -4,13 +4,23 @@ import java.util.Date;
 import java.util.UUID;
 
 public class Complaint {
-	
+
 	String id = UUID.randomUUID().toString();
 	String description;
 	Date complaintDate;
 	String complaintImage;
 	ComplaintAddress complaintLocation = new ComplaintAddress();
 	String authorityName;
+	String complaintObject;
+
+	public String getComplaintObject() {
+		return complaintObject;
+	}
+
+	public void setComplaintObject(String complaintObject) {
+		this.complaintObject = complaintObject;
+	}
+
 	public String getId() {
 		return id;
 	}

@@ -1,4 +1,4 @@
-#Sun May 07 17:54:45 PDT 2017
-base.0=C\:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+#Wed May 10 18:11:50 PDT 2017
+base.0=D\:\\CMPE272bck\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
 renamed.0=classes.dex
-file.0=C\:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
+file.0=D\:\\CMPE272bck\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

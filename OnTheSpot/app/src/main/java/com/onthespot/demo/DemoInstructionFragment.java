@@ -57,7 +57,7 @@ public class DemoInstructionFragment extends DemoFragmentBase {
         tvOverview.setText(demoFeature.overviewResId);
         final TextView tvDescription = (TextView) view.findViewById(
                 R.id.text_demo_feature_description);
-        if (demoFeature.descriptionResId > 0) {
+        if (demoFeature.descriptionResId.length() > 0) {
             tvDescription.setText(demoFeature.descriptionResId);
         } else {
             final TextView tvDescHeading = (TextView) view.findViewById(R.id.text_demo_feature_description_heading);
@@ -91,7 +91,7 @@ public class DemoInstructionFragment extends DemoFragmentBase {
                     int padding = dpToPixel(10);
                     title.setPadding(padding, padding, padding, padding);
                 }
-                if (item.buttonTextResId != 0)
+                if (item.buttonTextResId.length() != 0)
                     title.setText(item.buttonTextResId);
                 else
                     title.setText(item.buttonText);

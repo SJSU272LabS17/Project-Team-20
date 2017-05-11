@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
-        "source": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+        "merged": "D:\\CMPE272bck\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
     },
     {
-        "merged": "C:\\Users\\Komal Raju\\Downloads\\Project-Team-20-master\\Project-Team-20-master\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
-        "source": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+        "merged": "D:\\CMPE272bck\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
     }
 ]

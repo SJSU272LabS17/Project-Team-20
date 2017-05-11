@@ -52,6 +52,7 @@
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="bg_gradient_end">#6b394c</color>
     <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_test">#FF8C00</color>
     <color name="black_overlay">#66000000</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -1113,8 +1114,8 @@
     <string name="forgot_password_button_hint">Set password</string>
     <string name="forgot_password_header">Forgot your password?</string>
     <string name="forgot_password_input_code_hint">Verification code</string>
-    <string name="fragment_demo_instruction_description_header">Sample App Features</string>
-    <string name="fragment_demo_instruction_overview_header">Overview</string>
+    <string name="fragment_demo_instruction_description_header"/>
+    <string name="fragment_demo_instruction_overview_header">Complaint Details</string>
     <string name="gcm_defaultSenderId" translatable="false">151202301239</string>
     <string name="given_name_text">Given name</string>
     <string name="google_api_key" translatable="false">AIzaSyB5zd4TMTDBVZ1FliKr8pxK56wyOSIFAKA</string>

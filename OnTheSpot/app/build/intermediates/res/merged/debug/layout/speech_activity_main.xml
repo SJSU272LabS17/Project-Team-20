@@ -22,9 +22,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="or"
-        android:textColor="@color/white"
+        android:textColor="@color/bg_gradient_test"
         android:textSize="15dp"
-        android:textStyle="normal"
+        android:textStyle="bold"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
 
@@ -33,26 +33,25 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
         android:layout_marginLeft="12dp"
-        android:layout_marginStart="12dp"
         android:text="Write the problem description for "
-        android:textColor="@color/white"
+        android:textColor="@color/bg_gradient_test"
         android:textSize="15dp"
-        android:textStyle="normal" />
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="63dp" />
 
     <TextView
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Tap the mic to speak"
-        android:textColor="@color/white"
+        android:textColor="@color/bg_gradient_test"
         android:textSize="15dp"
-        android:textStyle="normal"
+        android:textStyle="bold"
         android:layout_below="@+id/textView3"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="11dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:id="@+id/textView7"
@@ -60,13 +59,12 @@
         android:layout_height="wrap_content"
 
         android:layout_marginLeft="12dp"
-        android:text="Write the problem description for "
+        android:text=""
         android:textColor="@color/white"
         android:textSize="15dp"
-        android:textStyle="normal"
+        android:textStyle="bold"
         android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginEnd="65dp" />
+        android:layout_centerHorizontal="true" />
 
     <MultiAutoCompleteTextView
         android:id="@+id/multiAutoCompleteTextView"
