@@ -1062,7 +1062,7 @@ public final class R {
         public static final int blurred_background_image_view = 0x7f0d00a1;
         public static final int book_now = 0x7f0d005e;
         public static final int bottom = 0x7f0d0053;
-        public static final int btnSpeak = 0x7f0d00fc;
+        public static final int btnSpeak = 0x7f0d00fb;
         public static final int button = 0x7f0d00b7;
         public static final int buttonPanel = 0x7f0d0079;
         public static final int buttonSubmit = 0x7f0d00fd;
@@ -1184,7 +1184,7 @@ public final class R {
         public static final int mr_volume_group_list = 0x7f0d00da;
         public static final int mr_volume_item_icon = 0x7f0d00dc;
         public static final int mr_volume_slider = 0x7f0d00dd;
-        public static final int multiAutoCompleteTextView = 0x7f0d00fb;
+        public static final int multiAutoCompleteTextView = 0x7f0d00fc;
         public static final int multiply = 0x7f0d0022;
         public static final int never = 0x7f0d0043;
         public static final int none = 0x7f0d001c;

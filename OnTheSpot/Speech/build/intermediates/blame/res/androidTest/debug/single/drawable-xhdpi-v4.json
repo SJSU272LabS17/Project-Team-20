@@ -908,12 +908,12 @@
         "source": "C:\\Users\\arsh2\\.android\\build-cache\\de52ed1c8b2ce48e0b694e318efffe8315c2a269\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_tv_light.png",
-        "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\drawable-xhdpi-v4\\ic_tv_light.png"
-    },
-    {
         "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_12_dark.png",
         "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_12_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_tv_light.png",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\drawable-xhdpi-v4\\ic_tv_light.png"
     },
     {
         "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_36.png",
