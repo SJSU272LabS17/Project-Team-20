@@ -82,6 +82,7 @@ public class FetchAddressIntentService extends IntentService {
 
         String userName = intent.getStringExtra("username");
         String object = intent.getStringExtra("object");
+        String authority = intent.getStringExtra("authority");
         String description = intent.getStringExtra("description");
 
         // Errors could still arise from using the Geocoder (for example, if there is no
@@ -147,7 +148,7 @@ public class FetchAddressIntentService extends IntentService {
             }
             Log.i(TAG, getString(R.string.address_found));
 
-            addComplaint(userName, description, object, address);
+            addComplaint(userName, description, object, address,authority);
 
 
             deliverResultToReceiver(Constants.SUCCESS_RESULT,
@@ -164,7 +165,7 @@ public class FetchAddressIntentService extends IntentService {
         mReceiver.send(resultCode, bundle);
     }
 
-    private void addComplaint(String userName, String description, String object, Address address){
+    private void addComplaint(String userName, String description, String object, Address address,String authority){
 
 
         ComplaintAddress complaintAddress = new ComplaintAddress();
@@ -177,7 +178,7 @@ public class FetchAddressIntentService extends IntentService {
 
         Complaint complaint = new Complaint();
 
-        complaint.setAuthorityName("San Jose authority");
+        complaint.setAuthorityName(authority);
         complaint.setComplaintDate(new Date());
         complaint.setComplaintLocation(complaintAddress);
         complaint.setComplaintImage("image url");

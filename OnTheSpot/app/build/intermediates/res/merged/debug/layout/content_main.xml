@@ -23,7 +23,7 @@
                 android:id="@+id/image_details"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="6dp"
+                android:layout_marginBottom="7dp"
                 android:text="Hit the button below to click an image"
                 android:textAllCaps="true"
                 android:textStyle="bold"/>

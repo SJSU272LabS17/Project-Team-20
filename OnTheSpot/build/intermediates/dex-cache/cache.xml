@@ -7,8 +7,35 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ce463ac5ba7f3c68fb86617049a9f6792cb1851b">
+        sha1="cfbb6ddcb93b42cf0acfede13814790bb54cda82">
         <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1517fdc45b1726e87eba25be7863324752bacdca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.7.0\9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734\logging-interceptor-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.7.0_39b4a774b95725d758e7585bbd9008a879770450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_e49e1663bfed89dfc09e441f0d46ef8aa0204e55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.7.0\22c61dda6d7e63a7325932c85b0a3412443b1f5a\okhttp-urlconnection-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c61dda6d7e63a7325932c85b0a3412443b1f5a">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.7.0_53a6e0c172af546e1859961ed4e7ea3a670eab58\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,12 +48,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c5985a22f7b79e298ae4331769acf3d4051527f3\classes.dex" />
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_d231cf9716425fb69497839ddd9d8a6162866319\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\natural-language-classifier\3.8.0\70819912811f620c59429bc5e3cd5db326b1062d\natural-language-classifier-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70819912811f620c59429bc5e3cd5db326b1062d">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\natural-language-classifier-3.8.0_3e2c026c6b68def176d31cc164a68557634979dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.8.0\93b8a390d018d74d1eb9014ba14dbdaee2a2b318\core-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b8a390d018d74d1eb9014ba14dbdaee2a2b318">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.8.0_cf703ed5e68f522f37b6e7d9ef7ed05dd26f1bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_02ce1ac70f6d8c7fc2bd9d5af5095e83ab8306d1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -36,6 +90,33 @@
         revision="25.0.2"
         sha1="465ff453a441546598ecf0edf3044d3027f63cc0">
         <dex dex="C:\Users\arsh2\Pictures\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c04536864cb1a29978fcaaa2dc04f6e18c318965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_89bb26b9d12e5c25bc42d7c4438ef7d6740e1788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c5985a22f7b79e298ae4331769acf3d4051527f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\jersey-jsr166e-2.22.2_a5ddc6dd4014ccedccf4a4a92e51ef49092bcc47\classes.dex" />
     </item>
 
 </items>

@@ -116,12 +116,12 @@
         "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_08_dark.png"
     },
     {
-        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_13_light.png",
-        "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_13_light.png"
-    },
-    {
         "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "C:\\Users\\arsh2\\.android\\build-cache\\ee9e5a2ce10361a03b5d5768880bcf65d7b19b31\\output\\res\\drawable-xxhdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_13_light.png",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_13_light.png"
     },
     {
         "merged": "C:\\Users\\arsh2\\cmpe272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\quantum_ic_play_arrow_white_24.png",

@@ -16,12 +16,16 @@
 
 package com.google.android.gms.location.sample.locationaddress;
 
+import android.Manifest;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.location.Geocoder;
 import android.location.Location;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.ResultReceiver;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.widget.ProgressBar;
@@ -33,6 +37,8 @@ import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
 import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener;
 import com.google.android.gms.location.LocationServices;
+import com.ibm.watson.developer_cloud.natural_language_classifier.v1.NaturalLanguageClassifier;
+import com.ibm.watson.developer_cloud.natural_language_classifier.v1.model.Classification;
 
 
 /**
@@ -105,7 +111,7 @@ public class LocationMainActivity extends ActionBarActivity implements
     private String userName;
     private String objectName;
     private String description;
-
+    private String authority;
 
     /**
      * Visible while the address is being fetched.
@@ -116,7 +122,6 @@ public class LocationMainActivity extends ActionBarActivity implements
      * Kicks off the request to fetch an address when pressed.
      */
     //Button mFetchAddressButton;
-
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -143,17 +148,16 @@ public class LocationMainActivity extends ActionBarActivity implements
         // immediately kicks off the process of getting the address
         updateUIWidgets();
 
-        Intent in= getIntent();
+        Intent in = getIntent();
         Bundle b = in.getExtras();
 
-        if(b!=null)
-        {
-            if(b.containsKey("identifiedObject")) {
-                objectName =  b.get("identifiedObject").toString();
+        if (b != null) {
+            if (b.containsKey("identifiedObject")) {
+                objectName = b.get("identifiedObject").toString();
                 description = b.get("description").toString();
                 // mObjectTextView.setText(objectName);
                 // mDescriptionTextView.setText(description);
-                userName=b.get("userName").toString();
+                userName = b.get("userName").toString();
                 //mUserTextView.setText(userName);
             }
 
@@ -235,6 +239,16 @@ public class LocationMainActivity extends ActionBarActivity implements
     public void onConnected(Bundle connectionHint) {
         // Gets the best and most recent location currently available, which may be null
         // in rare cases when a location is not available.
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            return;
+        }
         mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
         if (mLastLocation != null) {
             // Determine whether a Geocoder is available.
@@ -248,7 +262,35 @@ public class LocationMainActivity extends ActionBarActivity implements
             // fetchAddressButtonHandler()) . Instead, we start the intent service here if the
             // user has requested an address, since we now have a connection to GoogleApiClient.
             if (mAddressRequested) {
-                startIntentService();
+                new AsyncTask<String, Void, Classification>() {
+
+                    private Exception exception;
+
+                    protected Classification doInBackground(String... urls) {
+                        Classification classification=new Classification();
+                        try {
+                            NaturalLanguageClassifier service = new NaturalLanguageClassifier();
+                            service.setUsernameAndPassword("d1bed693-c368-4316-a7fb-ec3cc5c1deb7", "gq7WidZllcMq");
+                            classification = service.classify("90e7acx197-nlc-50931", "Traffic").execute();
+                            System.out.println("aaaa"+classification);
+
+                        } catch (Exception e) {
+                            this.exception = e;
+
+
+                        }
+                        return classification;
+                    }
+
+                    protected void onPostExecute(Classification classification) {
+                        authority=classification.getId();
+                        System.out.print("check"+authority);
+                        startIntentService();
+                    }
+                }.execute();
+
+
+
             }
         }
     }
@@ -258,8 +300,8 @@ public class LocationMainActivity extends ActionBarActivity implements
      * fetching an address.
      */
     protected void startIntentService() {
-        // Create an intent for passing to the intent service responsible for fetching the address.
-        Intent intent = new Intent(this, FetchAddressIntentService.class);
+
+        Intent intent = new Intent(getApplicationContext(), FetchAddressIntentService.class);
 
         // Pass the result receiver as an extra to the service.
         intent.putExtra(Constants.RECEIVER, mResultReceiver);
@@ -269,12 +311,15 @@ public class LocationMainActivity extends ActionBarActivity implements
 
         intent.putExtra("username", userName);
         intent.putExtra("object", objectName);
+        intent.putExtra("authority",authority);
         intent.putExtra("description", description);
 
         // Start the service. If the service isn't already running, it is instantiated and started
         // (creating a process for it if needed); if it is running then it remains running. The
         // service kills itself automatically once all intents are processed.
         startService(intent);
+
+
     }
 
     @Override
