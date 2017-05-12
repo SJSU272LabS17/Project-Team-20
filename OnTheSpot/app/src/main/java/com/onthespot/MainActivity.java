@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             // Restore the Toolbar's title.
             getSupportActionBar().setTitle(
-                savedInstanceState.getCharSequence(BUNDLE_KEY_TOOLBAR_TITLE));
+                    savedInstanceState.getCharSequence(BUNDLE_KEY_TOOLBAR_TITLE));
         }
     }
 
@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         // Create the navigation drawer.
         navigationDrawer = new NavigationDrawer(this, toolbar, drawerLayout, drawerItems,
-            R.id.main_fragment_container);
+                R.id.main_fragment_container);
 
         // Add navigation drawer menu items.
         // Home isn't a demo, but is fake as a demo.
@@ -241,7 +241,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onBackPressed() {
         final FragmentManager fragmentManager = this.getSupportFragmentManager();
-        
+
         if (navigationDrawer.isDrawerOpen()) {
             navigationDrawer.closeDrawer();
             return;
@@ -254,10 +254,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 final Fragment fragment = Fragment.instantiate(this, fragmentClass.getName());
 
                 fragmentManager
-                    .beginTransaction()
-                    .replace(R.id.main_fragment_container, fragment, fragmentClass.getSimpleName())
-                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-                    .commit();
+                        .beginTransaction()
+                        .replace(R.id.main_fragment_container, fragment, fragmentClass.getSimpleName())
+                        .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
+                        .commit();
 
                 // Set the title for the fragment.
                 final ActionBar actionBar = this.getSupportActionBar();

@@ -51,18 +51,18 @@ public class DemoConfiguration {
 
             for (int i=0 ; i<complaintList.size(); i++) {
 
-            Complaint complaint = complaintList.get(i);
-            String str = "Complaint"+" "+(i+1);
-            String location =  complaint.getComplaintLocation().getStreet()+", "+complaint.getComplaintLocation().getCity() +", "+
-                    complaint.getComplaintLocation().getState()+", "+complaint.getComplaintLocation().getCountry()+" /n"+complaint.getComplaintLocation().getZip();
+                Complaint complaint = complaintList.get(i);
+                String str = "Complaint"+" "+(i+1);
+                String location =  complaint.getComplaintLocation().getStreet()+", "+complaint.getComplaintLocation().getCity() +", "+
+                        complaint.getComplaintLocation().getState()+", "+complaint.getComplaintLocation().getCountry()+", "+complaint.getComplaintLocation().getZip();
 
 
-                addDemoFeature("user_identity", R.mipmap.user_identity, str,
+                addDemoFeature(str, R.mipmap.user_identity, str,
                         complaint.getDescription(), "\n\n"+"Authority : "+complaint.getAuthorityName()+"\n\n"+"Complaint Date : "+complaint.getComplaintDate().toString()+"\n\n"
-                        +"Image URL : "+complaint.getComplaintImage()+"\n\n"+"Location : "+location,
-                        "", "",
-                        new DemoItem(R.string.main_fragment_title_user_identity, R.mipmap.user_identity,
-                               userName, IdentityDemoFragment.class));
+                                +"Image URL : "+complaint.getComplaintImage()+"\n\n"+"Location : "+location,
+                        "", "");
+                       /* new DemoItem(R.string.main_fragment_title_user_identity, R.mipmap.user_identity,
+                               userName, IdentityDemoFragment.class));*/
 
             }
         }
@@ -84,10 +84,10 @@ public class DemoConfiguration {
 
     private static void addDemoFeature(final String name, final int iconResId, final String titleResId,
                                        final String subtitleResId, final String overviewResId,
-                                       final String descriptionResId, final String poweredByResId,
-                                       final DemoItem... demoItems) {
+                                       final String descriptionResId, final String poweredByResId
+    ) {
         DemoFeature demoFeature = new DemoFeature(name, iconResId, titleResId, subtitleResId,
-                overviewResId, descriptionResId, poweredByResId, demoItems);
+                overviewResId, descriptionResId, poweredByResId);
         demoFeatures.add(demoFeature);
     }
 

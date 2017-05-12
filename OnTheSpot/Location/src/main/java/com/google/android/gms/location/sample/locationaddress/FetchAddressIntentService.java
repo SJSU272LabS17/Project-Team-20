@@ -12,16 +12,21 @@ import android.os.ResultReceiver;
 import android.text.TextUtils;
 import android.util.Log;
 
+import com.firebase.dao.Authority;
 import com.firebase.dao.Complaint;
 import com.firebase.dao.ComplaintAddress;
 import com.firebase.dao.Person;
 import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 
 import java.io.IOException;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;
+
 /**
  * Asynchronously handles an intent using a worker thread. Receives a ResultReceiver object and a
  * location through an intent. Tries to fetch the address for the location using a Geocoder, and
@@ -146,7 +151,7 @@ public class FetchAddressIntentService extends IntentService {
                 addressFragments.add(address.getAddressLine(i));
             }
             Log.i(TAG, getString(R.string.address_found));
-
+            saveAuthority();
             addComplaint(userName, description, object, address,authority);
 
 
@@ -172,12 +177,12 @@ public class FetchAddressIntentService extends IntentService {
         complaintAddress.setCity(address.getLocality());
         complaintAddress.setCountry(address.getCountryName());
         complaintAddress.setState(address.getAdminArea());
-        complaintAddress.setStreet(address.getLocality());
+        complaintAddress.setStreet(address.getSubThoroughfare()+" "+address.getThoroughfare());
         complaintAddress.setZip(address.getPostalCode());
 
         Complaint complaint = new Complaint();
 
-        complaint.setAuthorityName(authority);
+
         complaint.setComplaintDate(new Date());
         complaint.setComplaintLocation(complaintAddress);
         complaint.setComplaintImage("image url");
@@ -190,7 +195,24 @@ public class FetchAddressIntentService extends IntentService {
         Gson gson = new Gson();
 
         String json1 = sharedpreferences.getString(userName, "");
+        String json2 = sharedpreferences.getString("authorityList", "");
+
+
         Person obj = gson.fromJson(json1, Person.class);
+
+        Type type = new TypeToken<List<Authority>>(){}.getType();
+
+
+        List<Authority> authorityList = gson.fromJson(json2, type);
+
+        for (Authority auth:authorityList){
+
+            if (Arrays.asList(auth.getZipHandled()).contains(address.getPostalCode())
+                    && auth.getName().equals("Ambulance Service")) {
+                complaint.setAuthorityName(auth.getName()+" "+address.getLocality());
+                System.out.println("authotrity name" + auth.getName());
+            }
+        }
 
         List<Complaint> complaintList = new ArrayList<Complaint>();
 
@@ -211,5 +233,102 @@ public class FetchAddressIntentService extends IntentService {
 
     }
 
+    void saveAuthority(){
+
+        List<Authority> authorityList = new ArrayList<Authority>();
+        Authority authority1 = new Authority();
+        String zipArray1[] = {"95112", "95113", "95114"};
+        authority1.setEmail("kimtani90@gmail.com");
+        authority1.setContact("+14088861711");
+        authority1.setName("Department of Transport");
+        authority1.setZipHandled(zipArray1);
+
+        Authority authority2 = new Authority();
+        String zipArray2[] = {"95112", "95113", "95114"};
+        authority2.setEmail("kimtani90@gmail.com");
+        authority2.setContact("+14088861711");
+        authority2.setName("Animal Care and Services");
+        authority2.setZipHandled(zipArray2);
+
+        Authority authority3 = new Authority();
+        String zipArray3[] = {"95112", "95113", "95114"};
+        authority3.setEmail("kimtani90@gmail.com");
+        authority3.setContact("+14088861711");
+        authority3.setName("Environmental Services");
+        authority3.setZipHandled(zipArray3);
+
+        Authority authority4 = new Authority();
+        String zipArray4[] = {"95112", "95113", "95114"};
+        authority4.setEmail("kimtani90@gmail.com");
+        authority4.setContact("+14088861711");
+        authority4.setName("Public Works Department");
+        authority4.setZipHandled(zipArray4);
+
+        Authority authority5 = new Authority();
+        String zipArray5[] = {"95112", "95113", "95114"};
+        authority5.setEmail("kimtani90@gmail.com");
+        authority5.setContact("+14088861711");
+        authority5.setName("Ambulance Service");
+        authority5.setZipHandled(zipArray5);
+
+        Authority authority6 = new Authority();
+        String zipArray6[] = {"95112", "95113", "95114"};
+        authority6.setEmail("kimtani90@gmail.com");
+        authority6.setContact("+14088861711");
+        authority6.setName("Code Enforcement Services Dept\n");
+        authority6.setZipHandled(zipArray6);
+
+        Authority authority7 = new Authority();
+        String zipArray7[] = {"95112", "95113", "95114"};
+        authority7.setEmail("kimtani90@gmail.com");
+        authority7.setContact("+14088861711");
+        authority7.setName("Fire Department");
+        authority7.setZipHandled(zipArray7);
+
+        Authority authority8 = new Authority();
+        String zipArray8[] = {"95112", "95113", "95114"};
+        authority8.setEmail("kimtani90@gmail.com");
+        authority8.setContact("+14088861711");
+        authority8.setName("Library");
+        authority8.setZipHandled(zipArray8);
+
+        Authority authority9 = new Authority();
+        String zipArray9[] = {"95112", "95113", "95114"};
+        authority9.setEmail("kimtani90@gmail.com");
+        authority9.setContact("+14088861711");
+        authority9.setName("Police Department");
+        authority9.setZipHandled(zipArray9);
+
+        Authority authority0 = new Authority();
+        String zipArray0[] = {"95112", "95113", "95114"};
+        authority0.setEmail("kimtani90@gmail.com");
+        authority0.setContact("+14088861711");
+        authority0.setName("Parks, Recreation & Neighborhood Services");
+        authority0.setZipHandled(zipArray0);
+
+        authorityList.add(authority0);
+        authorityList.add(authority1);
+        authorityList.add(authority2);
+        authorityList.add(authority3);
+        authorityList.add(authority4);
+        authorityList.add(authority5);
+        authorityList.add(authority6);
+        authorityList.add(authority7);
+        authorityList.add(authority8);
+        authorityList.add(authority9);
+
+        sharedpreferences = getSharedPreferences("pref",
+                Context.MODE_PRIVATE);
+
+        Gson gson = new Gson();
+
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+
+        String json = gson.toJson(authorityList); // myObject - instance of MyObject
+        editor.putString("authorityList", json);
+        editor.commit();
+
+
+    }
 
 }
