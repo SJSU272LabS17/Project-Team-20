@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="23"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
     build-mode="FULL"
-    density="560dpi"
+    density="hdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1494546408432"
+    timestamp="1494586863012"
     token="248135969902674477"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="4097" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="256" />
     <task
         name="verifier"
-        duration="0" />
+        duration="20" />
 
     <artifact
         location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -30,6 +30,12 @@
         location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
         location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
@@ -37,9 +43,6 @@
         type="SPLIT" />
     <artifact
         location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -56,13 +59,10 @@
     <artifact
         location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1494546408432"
+        timestamp="1494586863012"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -71,6 +71,12 @@
             location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
             location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
@@ -78,9 +84,6 @@
             type="SPLIT" />
         <artifact
             location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -97,9 +100,6 @@
         <artifact
             location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

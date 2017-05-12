@@ -28,10 +28,14 @@ import android.os.ResultReceiver;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.email.sendgrid.Util;
+import com.github.sendgrid.SendGrid;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
@@ -39,6 +43,9 @@ import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListe
 import com.google.android.gms.location.LocationServices;
 import com.ibm.watson.developer_cloud.natural_language_classifier.v1.NaturalLanguageClassifier;
 import com.ibm.watson.developer_cloud.natural_language_classifier.v1.model.Classification;
+
+import java.util.Hashtable;
+import java.util.concurrent.ExecutionException;
 
 
 /**
@@ -395,18 +402,78 @@ public class LocationMainActivity extends ActionBarActivity implements
 
             // Display the address string or an error message sent from the intent service.
             mAddressOutput = resultData.getString(Constants.RESULT_DATA_KEY);
-            displayAddressOutput();
 
-            // Show a toast message if an address was found.
-            if (resultCode == Constants.SUCCESS_RESULT) {
-                //showToast(getString(R.string.address_found));
-            }
+            sendMessage();
 
-            // Reset. Enable the Fetch Address button and stop showing the progress bar.
-            mAddressRequested = false;
-            updateUIWidgets();
         }
 
 
+
+        private class SendEmailWithSendGrid extends AsyncTask<Hashtable<String,String>, Void, String> {
+
+            @Override
+            protected String doInBackground(Hashtable<String,String>... params) {
+                Hashtable<String,String> h = params[0];
+                Util creds = new Util();
+                SendGrid sendgrid = new SendGrid(creds.getUsername(),creds.getPassword());
+                sendgrid.addTo(h.get("to"));
+                sendgrid.setFrom(h.get("from"));
+                sendgrid.setSubject(h.get("subject"));
+                sendgrid.setText(h.get("text"));
+
+                String response = sendgrid.send();
+                return response;
+            }
+
+            @Override
+            protected void onPostExecute(String s) {
+                super.onPostExecute(s);
+                mAddressRequested = false;
+                displayAddressOutput();
+
+            }
+        }
+
+
+        public void sendMessage() {
+            Hashtable<String,String> params = new Hashtable<String,String>();
+            String result = null;
+
+            // Get the values from the form
+            String to ="arsh291991@gmail.com";
+            params.put("to", to);
+
+            String from = "arsh291991@gmail.com";
+            params.put("from", from);
+
+            String subject = "Complaint";
+            params.put("subject", subject);
+
+            String text = "Description";
+            params.put("text", text);
+
+            String imageURI = "Complaint Image";
+            params.put("imageURI", imageURI);
+
+
+            // Send the Email
+            SendEmailWithSendGrid email = new SendEmailWithSendGrid();
+
+            try {
+                result = email.execute(params).get();
+            } catch (InterruptedException e) {
+                // TODO Implement exception handling
+                e.printStackTrace();
+            } catch (ExecutionException e) {
+                // TODO Implement exception handling
+                e.printStackTrace();
+            }
+
+
+        }
+
     }
+
+
 }
+

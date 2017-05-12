@@ -12,12 +12,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\json-simple-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="397e18dd99731952dcb47bff4c9245af86854886">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\json-simple-1.1.1_73dd6c2e31fe666ede87fcc3480b02c50d250ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\arsh2\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.7.0\9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734\logging-interceptor-3.7.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734">
         <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.7.0_39b4a774b95725d758e7585bbd9008a879770450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\sendgrid-0.1.2-jar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f336889a136bceba58227171dc3a1f39b59c371c">
+        <dex dex="C:\Users\arsh2\cmpe272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\sendgrid-0.1.2-jar_acfbd58cc283fb1975b21f4df265e2cc6a668867\classes.dex" />
     </item>
     <item
         is-multidex="true"
