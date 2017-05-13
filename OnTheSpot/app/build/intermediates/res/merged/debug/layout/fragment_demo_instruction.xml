@@ -44,13 +44,20 @@
                 android:paddingRight="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
-            <TextView
+            <!--<TextView
                 android:id="@+id/text_demo_feature_powered_by"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingTop="10dp"/>
+                android:paddingTop="10dp"/>-->
+
+            <ImageView
+                android:id="@+id/main_image"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginBottom="20dp"
+                android:scaleType="fitCenter"/>
         </LinearLayout>
     </ScrollView>
     <LinearLayout

@@ -1,4 +1,4 @@
-#Fri May 12 16:42:23 PDT 2017
+#Sat May 13 15:15:02 PDT 2017
 base.0=D\:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
 file.0=D\:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

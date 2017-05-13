@@ -2,7 +2,10 @@ package com.onthespot.demo;
 
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.support.v4.app.Fragment;
+import android.util.Base64;
 
 import com.firebase.dao.Complaint;
 import com.firebase.dao.Person;
@@ -21,6 +24,7 @@ public class DemoConfiguration {
 
 
     private SharedPreferences sharedpreferences;
+    private Bitmap bitmap;
     static {
 
     }
@@ -37,6 +41,13 @@ public class DemoConfiguration {
 
         Gson gson = new Gson();
 
+        String previouslyEncodedImage = sharedpreferences.getString("image", "");
+
+        if( !previouslyEncodedImage.equalsIgnoreCase("") ){
+            byte[] b = Base64.decode(previouslyEncodedImage, Base64.DEFAULT);
+             bitmap = BitmapFactory.decodeByteArray(b, 0, b.length);
+
+        }
 
         String json1 = sharedpreferences.getString(userName, "");
         Person obj = gson.fromJson(json1, Person.class);
@@ -60,7 +71,7 @@ public class DemoConfiguration {
                 addDemoFeature(str, R.mipmap.user_identity, str,
                         complaint.getDescription(), "\n\n"+"Authority : "+complaint.getAuthorityName()+"\n\n"+"Complaint Date : "+complaint.getComplaintDate().toString()+"\n\n"
                                 +"Image URL : "+complaint.getComplaintImage()+"\n\n"+"Location : "+location,
-                        "", "");
+                        "", bitmap);
                        /* new DemoItem(R.string.main_fragment_title_user_identity, R.mipmap.user_identity,
                                userName, IdentityDemoFragment.class));*/
 
@@ -84,10 +95,10 @@ public class DemoConfiguration {
 
     private static void addDemoFeature(final String name, final int iconResId, final String titleResId,
                                        final String subtitleResId, final String overviewResId,
-                                       final String descriptionResId, final String poweredByResId
+                                       final String descriptionResId, final Bitmap bitmap
     ) {
         DemoFeature demoFeature = new DemoFeature(name, iconResId, titleResId, subtitleResId,
-                overviewResId, descriptionResId, poweredByResId);
+                overviewResId, descriptionResId, bitmap);
         demoFeatures.add(demoFeature);
     }
 
@@ -98,7 +109,7 @@ public class DemoConfiguration {
         public String subtitleResId;
         public String overviewResId;
         public String descriptionResId;
-        public String poweredByResId;
+        public Bitmap bitmap;
         public List<DemoItem> demos;
 
         public DemoFeature() {
@@ -107,7 +118,7 @@ public class DemoConfiguration {
 
         public DemoFeature(final String name, final int iconResId, final String titleResId,
                            final String subtitleResId, final String overviewResId,
-                           final String descriptionResId, final String poweredByResId,
+                           final String descriptionResId, final Bitmap bitmap,
                            final DemoItem... demoItems) {
             this.name = name;
             this.iconResId = iconResId;
@@ -115,7 +126,7 @@ public class DemoConfiguration {
             this.subtitleResId = subtitleResId;
             this.overviewResId = overviewResId;
             this.descriptionResId = descriptionResId;
-            this.poweredByResId = poweredByResId;
+            this.bitmap = bitmap;
             this.demos = Arrays.asList(demoItems);
         }
     }

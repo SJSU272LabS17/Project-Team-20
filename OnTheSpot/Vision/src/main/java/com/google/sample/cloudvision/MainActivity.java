@@ -17,9 +17,10 @@
 package com.google.sample.cloudvision;
 
 import android.Manifest;
-import android.content.ClipData;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.AsyncTask;
@@ -32,15 +33,15 @@ import android.support.v4.content.FileProvider;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Base64;
 import android.util.Log;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.widget.ArrayAdapter;
-import android.widget.AdapterView;
-
 
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.googleapis.json.GoogleJsonResponseException;
@@ -56,13 +57,13 @@ import com.google.api.services.vision.v1.model.BatchAnnotateImagesResponse;
 import com.google.api.services.vision.v1.model.EntityAnnotation;
 import com.google.api.services.vision.v1.model.Feature;
 import com.google.api.services.vision.v1.model.Image;
+import com.google.gson.Gson;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
 import info.androidhive.speechtotext.SpeechMainActivity;
 
@@ -208,6 +209,7 @@ public class MainActivity extends AppCompatActivity {
                                 1200);
 
                 callCloudVision(bitmap);
+
                 mMainImage.setImageBitmap(bitmap);
 
             } catch (IOException e) {
@@ -271,6 +273,7 @@ public class MainActivity extends AppCompatActivity {
                         bitmap.compress(Bitmap.CompressFormat.JPEG, 90, byteArrayOutputStream);
                         byte[] imageBytes = byteArrayOutputStream.toByteArray();
 
+                        saveImageInDB(imageBytes);
                         // Base64 encode the JPEG
                         base64EncodedImage.encodeContent(imageBytes);
                         annotateImageRequest.setImage(base64EncodedImage);
@@ -380,4 +383,20 @@ public class MainActivity extends AppCompatActivity {
 
         return message;
     }*/
+
+    void saveImageInDB(byte[] b){
+
+        SharedPreferences sharedpreferences = getSharedPreferences("pref", Context.MODE_PRIVATE);
+
+        Gson gson = new Gson();
+
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+
+        String encodedImage = Base64.encodeToString(b, Base64.DEFAULT);
+
+    //    String json = gson.toJson(bitmap); // myObject - instance of MyObject
+        editor.putString("image", encodedImage);
+        editor.commit();
+    }
+
 }

@@ -12,9 +12,10 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.LinearLayout;
+
 import com.onthespot.R;
 
 /**
@@ -64,9 +65,14 @@ public class DemoInstructionFragment extends DemoFragmentBase {
             tvDescHeading.setVisibility(View.GONE);
             tvDescription.setVisibility(View.GONE);
         }
-        final TextView tvPoweredBy = (TextView) view.findViewById(
+       /* final TextView tvPoweredBy = (TextView) view.findViewById(
                 R.id.text_demo_feature_powered_by);
         tvPoweredBy.setText(demoFeature.poweredByResId);
+*/
+       final ImageView mMainImage = (ImageView) view.findViewById(R.id.main_image);
+        mMainImage.setImageBitmap(demoFeature.bitmap);
+
+
 
         final ArrayAdapter<DemoConfiguration.DemoItem> adapter = new ArrayAdapter<DemoConfiguration.DemoItem>(
                 getActivity(), R.layout.list_item_icon_text_with_subtitle) {
@@ -140,4 +146,6 @@ public class DemoInstructionFragment extends DemoFragmentBase {
         float scale = getResources().getDisplayMetrics().density;
         return (int) (sizeInDp * scale + 0.5f);
     }
+
+
 }
