@@ -24,7 +24,7 @@ public class DemoConfiguration {
 
 
     private SharedPreferences sharedpreferences;
-    private Bitmap bitmap;
+
     static {
 
     }
@@ -41,13 +41,7 @@ public class DemoConfiguration {
 
         Gson gson = new Gson();
 
-        String previouslyEncodedImage = sharedpreferences.getString("image", "");
 
-        if( !previouslyEncodedImage.equalsIgnoreCase("") ){
-            byte[] b = Base64.decode(previouslyEncodedImage, Base64.DEFAULT);
-             bitmap = BitmapFactory.decodeByteArray(b, 0, b.length);
-
-        }
 
         String json1 = sharedpreferences.getString(userName, "");
         Person obj = gson.fromJson(json1, Person.class);
@@ -63,14 +57,22 @@ public class DemoConfiguration {
             for (int i=0 ; i<complaintList.size(); i++) {
 
                 Complaint complaint = complaintList.get(i);
+                Bitmap bitmap = null;
+                if( !complaint.getComplaintImage().equalsIgnoreCase("") ){
+                    byte[] b = Base64.decode(complaint.getComplaintImage(), Base64.DEFAULT);
+                    bitmap = BitmapFactory.decodeByteArray(b, 0, b.length);
+
+                }
+
+
+
                 String str = "Complaint"+" "+(i+1);
                 String location =  complaint.getComplaintLocation().getStreet()+", "+complaint.getComplaintLocation().getCity() +", "+
                         complaint.getComplaintLocation().getState()+", "+complaint.getComplaintLocation().getCountry()+", "+complaint.getComplaintLocation().getZip();
 
 
                 addDemoFeature(str, R.mipmap.user_identity, str,
-                        complaint.getDescription(), "\n\n"+"Authority : "+complaint.getAuthorityName()+"\n\n"+"Complaint Date : "+complaint.getComplaintDate().toString()+"\n\n"
-                                +"Image URL : "+complaint.getComplaintImage()+"\n\n"+"Location : "+location,
+                        complaint.getDescription(), "\n\n"+"Authority : "+complaint.getAuthorityName()+"\n\n"+"Complaint Date : "+complaint.getComplaintDate().toString()+"\n\n"+"Location : "+location,
                         "", bitmap);
                        /* new DemoItem(R.string.main_fragment_title_user_identity, R.mipmap.user_identity,
                                userName, IdentityDemoFragment.class));*/

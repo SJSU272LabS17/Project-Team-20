@@ -28,8 +28,6 @@ import android.os.ResultReceiver;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
-import android.view.View;
-import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -119,6 +117,7 @@ public class LocationMainActivity extends ActionBarActivity implements
     private String objectName;
     private String description;
     private String authority;
+    private String encodedImage;
 
     /**
      * Visible while the address is being fetched.
@@ -165,6 +164,7 @@ public class LocationMainActivity extends ActionBarActivity implements
                 // mObjectTextView.setText(objectName);
                 // mDescriptionTextView.setText(description);
                 userName = b.get("userName").toString();
+                encodedImage = b.get("encodedImage").toString();
                 //mUserTextView.setText(userName);
             }
 
@@ -320,6 +320,7 @@ public class LocationMainActivity extends ActionBarActivity implements
         intent.putExtra("object", objectName);
         intent.putExtra("authority",authority);
         intent.putExtra("description", description);
+        intent.putExtra("encodedImage", encodedImage);
 
         // Start the service. If the service isn't already running, it is instantiated and started
         // (creating a process for it if needed); if it is running then it remains running. The
