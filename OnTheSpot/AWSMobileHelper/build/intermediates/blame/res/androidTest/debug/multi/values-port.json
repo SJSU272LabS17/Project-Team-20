@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "C:\\Users\\arsh2\\new\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-port\\values-port.xml",
+                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -27,9 +27,7 @@ public class SignInHandler extends DefaultSignInResultHandler {
         if (provider != null) {
             Log.d(LOG_TAG, String.format("User sign-in with %s provider succeeded",
                 provider.getDisplayName()));
-            Toast.makeText(callingActivity, String.format(
-                callingActivity.getString(R.string.sign_in_succeeded_message_format),
-                provider.getDisplayName()), Toast.LENGTH_LONG).show();
+            Toast.makeText(callingActivity, "User Sign-in succeeded!", Toast.LENGTH_LONG).show();
         }
 
         goMain(callingActivity);

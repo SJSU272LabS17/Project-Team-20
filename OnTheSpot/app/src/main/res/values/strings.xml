@@ -1,17 +1,15 @@
 <resources>
 
-  <!-- CUSTOMIZE THESE FOR YOUR APP -->
 
   <string name="app_name">ON THE SPOT</string>
   <string name="facebook_app_id">290936371311800</string> 
   <string name="fb_login_protocol_scheme">fb290936371311800</string> 
-  
-  <!-- REQUIRED FOR GENERAL APP FUNCTIONALITY - YOU MAY WANT TO KEEP THESE -->
+
 
   <string name="main_nav_menu_item_home">Home</string>
   <string name="title_activity_item_detail">Item Detail</string>
   <string name="title_activity_item_list">Item List</string>
-  <string name="title_activity_main">ON THE SPOT</string>
+  <string name="title_activity_main">On The Spot</string>
   <string name="button_text_sign_in">SIGN IN</string>
   <string name="button_text_sign_out">SIGN OUT</string>
   <string name="button_text_complaint">LOG COMPLAINT</string>

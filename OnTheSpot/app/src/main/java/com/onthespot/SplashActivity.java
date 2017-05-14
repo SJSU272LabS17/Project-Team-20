@@ -39,8 +39,7 @@ public class SplashActivity extends Activity {
             if (authResult.isUserSignedIn()) {
                 final IdentityProvider provider = identityManager.getCurrentIdentityProvider();
                 // If we were signed in previously with a provider indicate that to the user with a toast.
-                Toast.makeText(SplashActivity.this, String.format("Signed in with %s",
-                    provider.getDisplayName()), Toast.LENGTH_LONG).show();
+                Toast.makeText(SplashActivity.this, "User sign-in succeeded!", Toast.LENGTH_LONG).show();
             } else {
                 // Either the user has never signed in with a provider before or refresh failed with a previously
                 // signed in provider.

@@ -17,8 +17,12 @@
 package com.google.android.gms.location.sample.locationaddress;
 
 import android.Manifest;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.location.Geocoder;
 import android.location.Location;
 import android.os.AsyncTask;
@@ -27,6 +31,7 @@ import android.os.Handler;
 import android.os.ResultReceiver;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.ActionBarActivity;
+import android.util.Base64;
 import android.util.Log;
 import android.widget.ProgressBar;
 import android.widget.TextView;
@@ -42,6 +47,9 @@ import com.google.android.gms.location.LocationServices;
 import com.ibm.watson.developer_cloud.natural_language_classifier.v1.NaturalLanguageClassifier;
 import com.ibm.watson.developer_cloud.natural_language_classifier.v1.model.Classification;
 
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
 import java.util.Hashtable;
 import java.util.concurrent.ExecutionException;
 
@@ -164,7 +172,8 @@ public class LocationMainActivity extends ActionBarActivity implements
                 // mObjectTextView.setText(objectName);
                 // mDescriptionTextView.setText(description);
                 userName = b.get("userName").toString();
-                encodedImage = b.get("encodedImage").toString();
+            //    encodedImage = b.get("encodedImage").toString();
+
                 //mUserTextView.setText(userName);
             }
 
@@ -278,7 +287,7 @@ public class LocationMainActivity extends ActionBarActivity implements
                         try {
                             NaturalLanguageClassifier service = new NaturalLanguageClassifier();
                             service.setUsernameAndPassword("d1bed693-c368-4316-a7fb-ec3cc5c1deb7", "gq7WidZllcMq");
-                            classification = service.classify("90e7acx197-nlc-50931", "Traffic").execute();
+                            classification = service.classify("90e7b7x198-nlc-52253", objectName+" "+description).execute();
                             System.out.println("aaaa"+classification);
 
                         } catch (Exception e) {
@@ -290,7 +299,7 @@ public class LocationMainActivity extends ActionBarActivity implements
                     }
 
                     protected void onPostExecute(Classification classification) {
-                        authority=classification.getId();
+                        authority=classification.getTopClass();
                         System.out.print("check"+authority);
                         startIntentService();
                     }
@@ -320,7 +329,7 @@ public class LocationMainActivity extends ActionBarActivity implements
         intent.putExtra("object", objectName);
         intent.putExtra("authority",authority);
         intent.putExtra("description", description);
-        intent.putExtra("encodedImage", encodedImage);
+    //    intent.putExtra("encodedImage", encodedImage);
 
         // Start the service. If the service isn't already running, it is instantiated and started
         // (creating a process for it if needed); if it is running then it remains running. The
@@ -350,7 +359,7 @@ public class LocationMainActivity extends ActionBarActivity implements
      * Updates the address in the UI.
      */
     protected void displayAddressOutput() {
-        mLocationAddressTextView.setText(mAddressOutput);
+        //mLocationAddressTextView.setText(mAddressOutput);
         Intent intent=new Intent();
         intent.putExtra("MESSAGE","DONE");
         setResult(RESULT_OK,intent);
@@ -403,12 +412,23 @@ public class LocationMainActivity extends ActionBarActivity implements
 
             // Display the address string or an error message sent from the intent service.
             mAddressOutput = resultData.getString(Constants.RESULT_DATA_KEY);
+            Bundle sub=resultData.getBundle("emailDetails");
 
-            sendMessage();
+            sendMessage(sub.getString("userFullName"),sub.getString("userEmail"),
+                    sub.getString("object"),sub.getString("description"),sub.getString("authority"),sub.getString("authorityEmail"),
+                    sub.getString("image"),sub.getString("address"));
 
         }
 
+        void getImage(){
 
+            SharedPreferences sharedpreferences = getSharedPreferences("pref",
+                    Context.MODE_PRIVATE);
+
+
+            encodedImage = sharedpreferences.getString("image", "");
+
+        }
 
         private class SendEmailWithSendGrid extends AsyncTask<Hashtable<String,String>, Void, String> {
 
@@ -421,6 +441,32 @@ public class LocationMainActivity extends ActionBarActivity implements
                 sendgrid.setFrom(h.get("from"));
                 sendgrid.setSubject(h.get("subject"));
                 sendgrid.setText(h.get("text"));
+                getImage();
+                byte[] b = Base64.decode(encodedImage, Base64.DEFAULT);
+                Bitmap bitmap = BitmapFactory.decodeByteArray(b, 0, b.length);
+
+                //create a file to write bitmap data
+                File f = new File(getApplicationContext().getCacheDir(), objectName+".jpeg");
+                try {
+                    f.createNewFile();
+
+//Convert bitmap to byte array
+
+                    ByteArrayOutputStream bos = new ByteArrayOutputStream();
+                    bitmap.compress(Bitmap.CompressFormat.JPEG, 100 /*ignored for PNG*/, bos);
+                    byte[] bitmapdata = bos.toByteArray();
+
+//write the bytes in file
+                    FileOutputStream fos = new FileOutputStream(f);
+                    fos.write(bitmapdata);
+                    fos.flush();
+                    fos.close();
+                    sendgrid.addFile(f);
+                }
+                catch (Exception e)
+                {
+
+                }
 
                 String response = sendgrid.send();
                 return response;
@@ -436,25 +482,32 @@ public class LocationMainActivity extends ActionBarActivity implements
         }
 
 
-        public void sendMessage() {
+        public void sendMessage(String userFullName,String userEmail,String object,String description,String authority,String authorityEmail,String image,String address) {
+
             Hashtable<String,String> params = new Hashtable<String,String>();
             String result = null;
 
             // Get the values from the form
-            String to ="arsh291991@gmail.com";
+            String to =authorityEmail;
             params.put("to", to);
 
-            String from = "arsh291991@gmail.com";
+            String from = userEmail;
             params.put("from", from);
 
-            String subject = "Complaint";
+            String subject = "Report a complaint regarding "+object;
             params.put("subject", subject);
 
-            String text = "Description";
+            String text = "Dear "+authority+",\n\n"+
+                    "I would like to report a complaint regarding "+object+".\n Please find below all the details \n\n"
+                    +" DESCRIPTION: "+description+"\n"
+                    +" ADDRESS: "+address
+                    +" \n\nPlease find attached the site image for your reference.\n"
+                    +"Thanks in advance for your help and support!\n\n"
+                    +"Best Regards\n\n"+userFullName;
             params.put("text", text);
 
-            String imageURI = "Complaint Image";
-            params.put("imageURI", imageURI);
+            /*String imageURI = encodedImage;
+            params.put("imageURI", imageURI)*/;
 
 
             // Send the Email

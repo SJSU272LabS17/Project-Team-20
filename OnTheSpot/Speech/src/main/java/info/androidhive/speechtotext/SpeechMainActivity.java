@@ -24,7 +24,7 @@ public class SpeechMainActivity extends Activity {
 
     private ImageButton btnSpeak;
 	private Button buttonSubmit;
-	private String encodedImage;
+	//private String encodedImage;
     private String identifiedObject;
 	private String userName;
 	private final int REQ_CODE_SPEECH_INPUT = 100;
@@ -46,7 +46,7 @@ public class SpeechMainActivity extends Activity {
             String objectName =(String) b.get("identifiedObject");
             identifiedObject=objectName;
 			userName=b.get("userName").toString();
-			encodedImage=b.get("encodedImage").toString();
+			//encodedImage=b.get("encodedImage").toString();
 			System.out.println("*******************************"+userName);
 
             objectName= txtCaption.getText().toString()+objectName;
@@ -98,7 +98,7 @@ public class SpeechMainActivity extends Activity {
 		intent.putExtra("description",txtSpeechInput.getText());
         intent.putExtra("identifiedObject",identifiedObject);
 		intent.putExtra("userName",userName);
-		intent.putExtra("encodedImage",encodedImage);
+		//intent.putExtra("encodedImage",encodedImage);
         try {
 			startActivityForResult(intent,REQ_CODE_LOCATION_OUTPUT);
 		} catch (ActivityNotFoundException a) {

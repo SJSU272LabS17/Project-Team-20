@@ -9,7 +9,16 @@ public class Person  {
 	String userName;
 	String contactNo;
 	String email;
+	String fullName;
 	List<Complaint> complaints;
+
+	public String getFullName() {
+		return fullName;
+	}
+
+	public void setFullName(String fullName) {
+		this.fullName = fullName;
+	}
 
 	public String getId() {
 		return id;

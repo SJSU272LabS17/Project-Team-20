@@ -375,6 +375,7 @@ public class CognitoUserPoolsSignInProvider implements SignInProvider {
                     person.setUserName(username);
                     person.setContactNo(phone);
                     person.setEmail(email);
+                    person.setFullName(givenName);
 
                     Log.d(LOG_TAG, "username = " + username);
                     Log.d(LOG_TAG, "given_name = " + givenName);

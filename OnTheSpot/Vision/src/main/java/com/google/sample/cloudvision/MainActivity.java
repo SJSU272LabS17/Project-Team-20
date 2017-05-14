@@ -17,8 +17,10 @@
 package com.google.sample.cloudvision;
 
 import android.Manifest;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.AsyncTask;
@@ -55,6 +57,7 @@ import com.google.api.services.vision.v1.model.BatchAnnotateImagesResponse;
 import com.google.api.services.vision.v1.model.EntityAnnotation;
 import com.google.api.services.vision.v1.model.Feature;
 import com.google.api.services.vision.v1.model.Image;
+import com.google.gson.Gson;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -326,7 +329,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(), SpeechMainActivity.class).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.putExtra("identifiedObject",identifiedObject);
         intent.putExtra("userName",userName);
-        intent.putExtra("encodedImage",encodedImage);
+     //   intent.putExtra("encodedImage",encodedImage);
 
         startActivityForResult(intent,REQ_CODE_SPEECH_OUTPUT);
 
@@ -386,17 +389,17 @@ public class MainActivity extends AppCompatActivity {
 
     void saveImageInDB(byte[] b){
 
-      /*  SharedPreferences sharedpreferences = getSharedPreferences("pref", Context.MODE_PRIVATE);
+        SharedPreferences sharedpreferences = getSharedPreferences("pref", Context.MODE_PRIVATE);
 
         Gson gson = new Gson();
 
         SharedPreferences.Editor editor = sharedpreferences.edit();
-*/
+
         encodedImage = Base64.encodeToString(b, Base64.DEFAULT);
-/*
+
     //    String json = gson.toJson(bitmap); // myObject - instance of MyObject
         editor.putString("image", encodedImage);
-        editor.commit();*/
+        editor.commit();
     }
 
 }

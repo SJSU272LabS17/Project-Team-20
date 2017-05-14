@@ -3,13 +3,22 @@ package com.firebase.dao;
 import java.util.List;
 import java.util.UUID;
 
-public class Person  {
+public class Person {
 
 	String id = UUID.randomUUID().toString();
 	String userName;
 	String contactNo;
 	String email;
+	String fullName;
 	List<Complaint> complaints;
+
+	public String getFullName() {
+		return fullName;
+	}
+
+	public void setFullName(String fullName) {
+		this.fullName = fullName;
+	}
 
 	public String getId() {
 		return id;

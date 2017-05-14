@@ -36,6 +36,15 @@ public class FetchAddressIntentService extends IntentService {
     private static final String TAG = "FetchAddressIS";
 
     private SharedPreferences sharedpreferences;
+    private String userFullName;
+    private String userEmail;
+    private String userName;
+    private String object;
+    private String description;
+    private String address;
+    private String authority;
+    private String authorityEmail;
+    private String encodedImage;
 
     /**
      * The receiver where results are forwarded from this service.
@@ -84,11 +93,11 @@ public class FetchAddressIntentService extends IntentService {
             return;
         }
 
-        String userName = intent.getStringExtra("username");
-        String object = intent.getStringExtra("object");
-        String authority = intent.getStringExtra("authority");
-        String description = intent.getStringExtra("description");
-        String encodedImage = intent.getStringExtra("encodedImage");
+         userName = intent.getStringExtra("username");
+         object = intent.getStringExtra("object");
+         authority = intent.getStringExtra("authority");
+        description = intent.getStringExtra("description");
+      //  encodedImage = intent.getStringExtra("encodedImage");
 
         // Errors could still arise from using the Geocoder (for example, if there is no
         // connectivity, or if the Geocoder is given illegal location data). Or, the Geocoder may
@@ -153,6 +162,7 @@ public class FetchAddressIntentService extends IntentService {
             }
             Log.i(TAG, getString(R.string.address_found));
             saveAuthority();
+            getImage();
             addComplaint(userName, description, object, address,authority, encodedImage);
 
 
@@ -166,7 +176,19 @@ public class FetchAddressIntentService extends IntentService {
      */
     private void deliverResultToReceiver(int resultCode, String message) {
         Bundle bundle = new Bundle();
+        address=message;
+        Bundle subBundle=new Bundle();
+        subBundle.putString("userFullName",userFullName);
+        subBundle.putString("userEmail",userEmail);
+        subBundle.putString("object",object);
+        subBundle.putString("description",description);
+        subBundle.putString("authority",authority);
+        subBundle.putString("authorityEmail",authorityEmail);
+        subBundle.putString("image",encodedImage);
+        subBundle.putString("address",address);
+
         bundle.putString(Constants.RESULT_DATA_KEY, message);
+        bundle.putBundle("emailDetails",subBundle);
         mReceiver.send(resultCode, bundle);
     }
 
@@ -200,6 +222,8 @@ public class FetchAddressIntentService extends IntentService {
 
 
         Person obj = gson.fromJson(json1, Person.class);
+        userFullName= obj.getFullName();
+        userEmail=obj.getEmail();
 
         Type type = new TypeToken<List<Authority>>(){}.getType();
 
@@ -209,8 +233,10 @@ public class FetchAddressIntentService extends IntentService {
         for (Authority auth:authorityList){
 
             if (Arrays.asList(auth.getZipHandled()).contains(address.getPostalCode())
-                    && auth.getName().equals("Ambulance Service")) {
+                    && auth.getName().equals(authority)) {
                 complaint.setAuthorityName(auth.getName()+" "+address.getLocality());
+                //authority=auth.getName();
+                authorityEmail=auth.getEmail();
                 System.out.println("authotrity name" + auth.getName());
             }
         }
@@ -234,6 +260,16 @@ public class FetchAddressIntentService extends IntentService {
 
     }
 
+    void getImage(){
+
+        sharedpreferences = getSharedPreferences("pref",
+                Context.MODE_PRIVATE);
+
+
+        encodedImage = sharedpreferences.getString("image", "");
+
+    }
+
     void saveAuthority(){
 
         List<Authority> authorityList = new ArrayList<Authority>();
@@ -241,7 +277,7 @@ public class FetchAddressIntentService extends IntentService {
         String zipArray1[] = {"95112", "95113", "95114"};
         authority1.setEmail("kimtani90@gmail.com");
         authority1.setContact("+14088861711");
-        authority1.setName("Department of Transport");
+        authority1.setName("Department of Transportation");
         authority1.setZipHandled(zipArray1);
 
         Authority authority2 = new Authority();
@@ -267,7 +303,7 @@ public class FetchAddressIntentService extends IntentService {
 
         Authority authority5 = new Authority();
         String zipArray5[] = {"95112", "95113", "95114"};
-        authority5.setEmail("kimtani90@gmail.com");
+        authority5.setEmail("arsh291991@gmail.com");
         authority5.setContact("+14088861711");
         authority5.setName("Ambulance Service");
         authority5.setZipHandled(zipArray5);
