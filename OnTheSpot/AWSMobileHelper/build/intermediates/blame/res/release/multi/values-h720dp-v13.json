@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\arsh2\\new\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\Users\\Komal Raju\\14may\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\91c08518926b126c00c4e0e64e269011a95b05f2\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

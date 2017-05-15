@@ -20,7 +20,7 @@ import java.util.Locale;
 public class SpeechMainActivity extends Activity {
 
 	private TextView txtSpeechInput;
-    private TextView txtCaption;
+    /*private TextView txtCaption;*/
 
     private ImageButton btnSpeak;
 	private Button buttonSubmit;
@@ -35,9 +35,11 @@ public class SpeechMainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.speech_activity_main);
 
+/*
 
 		txtSpeechInput = (TextView) findViewById(R.id.multiAutoCompleteTextView);
         txtCaption = (TextView) findViewById(R.id.textView7);
+*/
 
         Intent in= getIntent();
         Bundle b = in.getExtras();
@@ -49,8 +51,8 @@ public class SpeechMainActivity extends Activity {
 			//encodedImage=b.get("encodedImage").toString();
 			System.out.println("*******************************"+userName);
 
-            objectName= txtCaption.getText().toString()+objectName;
-            txtCaption.setText(objectName);
+            /*objectName= txtCaption.getText().toString()+objectName;
+            txtCaption.setText(objectName);*/
         }
 
 

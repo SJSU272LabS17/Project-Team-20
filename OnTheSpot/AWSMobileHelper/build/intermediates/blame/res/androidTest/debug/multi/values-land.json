@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\arsh2\\new\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+        "outputFile": "C:\\Users\\Komal Raju\\14may\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\91c08518926b126c00c4e0e64e269011a95b05f2\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\91c08518926b126c00c4e0e64e269011a95b05f2\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\91c08518926b126c00c4e0e64e269011a95b05f2\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,88 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\39df86ff442a4f3f61610b569b84b9ccebe49ee6\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\91c08518926b126c00c4e0e64e269011a95b05f2\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dd5268702867be30490f11defd5b40579170fadd\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

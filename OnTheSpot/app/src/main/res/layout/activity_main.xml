@@ -31,15 +31,13 @@
 
 
         <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/button_text_complaint"
-            android:textStyle="bold"
             android:id="@+id/button_complaint"
-            android:layout_marginLeft="6dp"
-            android:layout_marginRight="6dp" />
-
-
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/button_text_complaint"
+            android:textStyle="bold" />
 
 
     </LinearLayout>

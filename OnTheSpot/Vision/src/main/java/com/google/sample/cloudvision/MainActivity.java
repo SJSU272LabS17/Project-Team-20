@@ -58,11 +58,14 @@ import com.google.api.services.vision.v1.model.EntityAnnotation;
 import com.google.api.services.vision.v1.model.Feature;
 import com.google.api.services.vision.v1.model.Image;
 import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.IOException;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import info.androidhive.speechtotext.SpeechMainActivity;
@@ -85,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayAdapter<String> listAdapter ;
     private String userName;
     private String encodedImage;
+
 
     private final int REQ_CODE_SPEECH_OUTPUT = 200;
     @Override
@@ -221,6 +225,7 @@ public class MainActivity extends AppCompatActivity {
             Log.d(TAG, "Image picker gave us a null image.");
             Toast.makeText(this, R.string.image_picker_error, Toast.LENGTH_LONG).show();
         }
+
     }
 
     private void callCloudVision(final Bitmap bitmap) throws IOException {
@@ -307,20 +312,22 @@ public class MainActivity extends AppCompatActivity {
                             e.getMessage());
                 }
                 ArrayList<String> fail=new ArrayList<String>();
-                        fail.add("Cloud Vision API request failed. Check logs for details.");
+                fail.add("Cloud Vision API request failed. Check logs for details.");
                 return fail;
             }
 
             protected void onPostExecute(ArrayList<String> result) {
+
                 mImageDetails.setText("Select one of following possible objects:");
                 listAdapter.addAll(result);
-                mObjectList.setAdapter( listAdapter );
-                mObjectList.setOnItemClickListener(new AdapterView.OnItemClickListener(){
+                mObjectList.setAdapter(listAdapter);
+                mObjectList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                     @Override
-                    public void onItemClick(AdapterView<?> parent, View view, int position, long id){
+                    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                         passObject(((TextView) view).getText().toString());
                     }
                 });
+
             }
         }.execute();
     }
@@ -329,10 +336,21 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(), SpeechMainActivity.class).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.putExtra("identifiedObject",identifiedObject);
         intent.putExtra("userName",userName);
-     //   intent.putExtra("encodedImage",encodedImage);
+        //   intent.putExtra("encodedImage",encodedImage);
+        boolean error = getObjectList(identifiedObject);
+        if (error == true) {
 
-        startActivityForResult(intent,REQ_CODE_SPEECH_OUTPUT);
+            //  Toast.makeText(this, R.string.image_picker_error, Toast.LENGTH_LONG).show();
+            final android.app.AlertDialog.Builder errorDialogBuilder = new android.app.AlertDialog.Builder(this);
+            errorDialogBuilder.setTitle(R.string.object_picker_error);
+            errorDialogBuilder.setMessage("The object selected is not handled by any of the listed authorities. Pick a different object or click another picture.");
+            errorDialogBuilder.setNeutralButton(android.R.string.ok, null);
+            errorDialogBuilder.show();
+        }
 
+        else {
+            startActivityForResult(intent, REQ_CODE_SPEECH_OUTPUT);
+        }
     }
 
 
@@ -357,7 +375,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private ArrayList<String> convertResponseToString(BatchAnnotateImagesResponse response) {
-
+        listAdapter = new ArrayAdapter<String>(this, R.layout.simplerow);
         ArrayList<String> objectList = new ArrayList<String>();
         List<EntityAnnotation> labels = response.getResponses().get(0).getLabelAnnotations();
         if (labels != null) {
@@ -397,9 +415,62 @@ public class MainActivity extends AppCompatActivity {
 
         encodedImage = Base64.encodeToString(b, Base64.DEFAULT);
 
-    //    String json = gson.toJson(bitmap); // myObject - instance of MyObject
+        //    String json = gson.toJson(bitmap); // myObject - instance of MyObject
         editor.putString("image", encodedImage);
         editor.commit();
     }
 
+    void addObjects(){
+
+        SharedPreferences sharedpreferences = getSharedPreferences("pref", Context.MODE_PRIVATE);
+
+        Gson gson = new Gson();
+
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+
+        String[] objectArray = {"dustbin",
+                "waste",
+                "litter",
+                "garbage",
+                "pollution",
+                "street sign",
+                "sign",
+                "signage",
+                "soil",
+                "vehicle",
+                "traffic light",
+                "water",
+                "rain",
+                "road" };
+
+        String json = gson.toJson(objectArray); // myObject - instance of MyObject
+        editor.putString("objects", json);
+        editor.commit();
+    }
+
+    boolean getObjectList(String identifiedObject) {
+
+        addObjects();
+        SharedPreferences sharedpreferences = getSharedPreferences("pref",
+                Context.MODE_PRIVATE);
+
+        Gson gson = new Gson();
+
+        Type type = new TypeToken<String[]>() {
+        }.getType();
+
+        String json = sharedpreferences.getString("objects", "");
+        String[] objectArray = gson.fromJson(json, type);
+
+
+        boolean error = true;
+        if (Arrays.asList(objectArray).contains(identifiedObject)) {
+
+            error = false;
+
+        }
+
+        return error;
+
+    }
 }

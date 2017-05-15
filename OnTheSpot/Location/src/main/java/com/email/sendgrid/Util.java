@@ -1,7 +1,7 @@
 package com.email.sendgrid;
 
 public class Util {
-    public static final String username = "**" ;
+    public static final String username = "***" ;
     public static final String password = "***" ;
 
     public String getUsername() {

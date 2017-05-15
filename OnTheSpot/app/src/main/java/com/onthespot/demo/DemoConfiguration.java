@@ -72,8 +72,8 @@ public class DemoConfiguration {
 
 
                 addDemoFeature(str, R.mipmap.user_identity, str,
-                        complaint.getDescription(), "\n\n"+"Authority : "+complaint.getAuthorityName()+"\n\n"+"Complaint Date : "+complaint.getComplaintDate().toString()+"\n\n"+"Location : "+location,
-                        "", bitmap);
+                        complaint.getDescription(),
+                        "Complaint Details","Description : "+complaint.getDescription()+"\n\nAuthority : "+complaint.getAuthorityName()+"\n\n"+"Date : "+complaint.getComplaintDate().toString()+"\n\n"+"Location : "+location, bitmap);
                        /* new DemoItem(R.string.main_fragment_title_user_identity, R.mipmap.user_identity,
                                userName, IdentityDemoFragment.class));*/
 

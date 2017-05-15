@@ -553,9 +553,9 @@ public final class R {
         public static final int place_autocomplete_search_hint = 0x7f0a007b;
         public static final int store_picture_message = 0x7f0a007e;
         public static final int store_picture_title = 0x7f0a007f;
-        public static final int tagmanager_preview_dialog_button = 0x7f0a00ec;
-        public static final int tagmanager_preview_dialog_message = 0x7f0a00ed;
-        public static final int tagmanager_preview_dialog_title = 0x7f0a00ee;
+        public static final int tagmanager_preview_dialog_button = 0x7f0a00ed;
+        public static final int tagmanager_preview_dialog_message = 0x7f0a00ee;
+        public static final int tagmanager_preview_dialog_title = 0x7f0a00ef;
         public static final int wallet_buy_button_place_holder = 0x7f0a0080;
     }
     public static final class style {

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\arsh2\\new\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "outputFile": "C:\\Users\\Komal Raju\\14may\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\f3a7eb16d3f18d5ded7bb650f9497797d8def4c5\\output\\res\\values-en-rCA\\values.xml",
+                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\73e1d77145d76189104cb69ecc57d6615d884c77\\output\\res\\values-en-rCA\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

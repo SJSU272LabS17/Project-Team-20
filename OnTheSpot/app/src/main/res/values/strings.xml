@@ -1,7 +1,7 @@
 <resources>
 
 
-  <string name="app_name">ON THE SPOT</string>
+  <string name="app_name">On The Spot</string>
   <string name="facebook_app_id">290936371311800</string> 
   <string name="fb_login_protocol_scheme">fb290936371311800</string> 
 
@@ -37,5 +37,5 @@
   <string name="identity_demo_dialog_dismiss_text">DISMISS</string>
   <string name="identity_demo_error_dialog_title">Failed Identity Retrieval</string>
   <string name="identity_demo_error_message_failed_get_identity">Could not retrieve the user identity:\u0020</string>
-  
+  <string name="font_family_arial">Arial</string>
 </resources>
