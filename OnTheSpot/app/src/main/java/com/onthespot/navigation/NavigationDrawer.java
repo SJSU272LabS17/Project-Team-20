@@ -156,8 +156,8 @@ public class NavigationDrawer {
 
         if (identityProfile != null && identityProfile.getUserName() != null) {
             userNameView.setText(identityProfile.getUserName());
-            userNameView.setBackgroundColor(
-                    activity.getResources().getColor(R.color.nav_drawer_top_background));
+          //  userNameView.setBackgroundColor(
+          //          activity.getResources().getColor(R.color.nav_drawer_top_background));
         }
     }
 

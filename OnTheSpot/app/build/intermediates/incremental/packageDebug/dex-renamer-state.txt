@@ -1,0 +1,7 @@
+#Mon May 15 03:22:51 PDT 2017
+base.0=C\:\\Users\\Komal Raju\\Desktop\\14may-night\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d8dd266548ae1dbe4072830ac71e494c47c018b4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Komal Raju\\Desktop\\14may-night\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac532a759c68da5120190c9ab5430dc60dcbc995\\classes.dex
+base.1=C\:\\Users\\Komal Raju\\Desktop\\14may-night\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac532a759c68da5120190c9ab5430dc60dcbc995
+file.0=C\:\\Users\\Komal Raju\\Desktop\\14may-night\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d8dd266548ae1dbe4072830ac71e494c47c018b4\\classes.dex

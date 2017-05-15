@@ -1096,7 +1096,7 @@ int drawable mr_ic_pause_dark 0x7f020144
 int drawable mr_ic_pause_light 0x7f020145
 int drawable mr_ic_play_dark 0x7f020146
 int drawable mr_ic_play_light 0x7f020147
-int drawable notification_template_icon_bg 0x7f020176
+int drawable notification_template_icon_bg 0x7f020179
 int drawable places_ic_clear 0x7f020148
 int drawable places_ic_search 0x7f020149
 int drawable powered_by_google_dark 0x7f02014a
@@ -1143,6 +1143,9 @@ int drawable quantum_ic_volume_off_white_36 0x7f020172
 int drawable quantum_ic_volume_up_grey600_36 0x7f020173
 int drawable quantum_ic_volume_up_white_36 0x7f020174
 int drawable test 0x7f020175
+int drawable test2 0x7f020176
+int drawable test3 0x7f020177
+int drawable test4 0x7f020178
 int id action0 0x7f0e0102
 int id action_bar 0x7f0e00a7
 int id action_bar_activity_content 0x7f0e0000

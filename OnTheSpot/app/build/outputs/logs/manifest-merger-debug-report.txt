@@ -1,0 +1,594 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:16:1-63:12
+	package
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:17:5-28
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:19:5-67
+MERGED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\c35a60c929dd92a8f24ce1b2453955b567ea0cc0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Komal Raju\.android\build-cache\c83a8eabb6c9917a20d866c9ae5a3495ef758bd5\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Komal Raju\.android\build-cache\701bb83d12807dae9306bec14eb322a8cc40435d\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\46b2df5dfdba0b3babecbcb0ad10d9daf6a8ff3c\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\3ac24f9ceae2e7bb4e631e1e3af5ec06098c416e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Komal Raju\.android\build-cache\746cdde346c42bb209796c4d12a4799026b3721f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\befd04d28c9624845abf2c706120ebab0f0770a7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\c35a60c929dd92a8f24ce1b2453955b567ea0cc0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Komal Raju\.android\build-cache\0f19aff424be5cd262f9afe6cac460ad6e2336d3\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\3ac24f9ceae2e7bb4e631e1e3af5ec06098c416e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Komal Raju\.android\build-cache\746cdde346c42bb209796c4d12a4799026b3721f\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\befd04d28c9624845abf2c706120ebab0f0770a7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:22:5-79
+MERGED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:22:22-76
+application
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:24:5-62:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Komal Raju\.android\build-cache\f95be13b34e3b0af064fe286eae9d3a9e1a2e495\output\AndroidManifest.xml:22:5-20
+MERGED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:19:5-48:19
+MERGED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:15:5-34:19
+MERGED from [OnTheSpot:Speech:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:11:5-16:19
+MERGED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Komal Raju\.android\build-cache\da917871b3a6564aafe0ebbf9b5fec0786f3f8c1\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\c35a60c929dd92a8f24ce1b2453955b567ea0cc0\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Komal Raju\.android\build-cache\6ff953f4dad4cc20f31ffa6979702712b0c8b729\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Komal Raju\.android\build-cache\13e35e011d542c024b4d2583b999fc7d4132b26a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Komal Raju\.android\build-cache\31ae5e6a41cdf479e4c7564a740feb58a6f035c5\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Komal Raju\.android\build-cache\604d4034656b92ced9bb08047506207edb8543a6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Komal Raju\.android\build-cache\560b73ac689d2e58a64e026590beb44658b54b2b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Komal Raju\.android\build-cache\4729c4d5976bc6b7ab943c0b38e9cd8ad62f650c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Komal Raju\.android\build-cache\c83a8eabb6c9917a20d866c9ae5a3495ef758bd5\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\ff5adc50b24f7e15ee1ef4cca8cd060d3e691811\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Komal Raju\.android\build-cache\84bd08ae700b7949d6f84765618d95834c24d2d5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Komal Raju\.android\build-cache\e226885345dc50147fc3dbabb6abf7a341b06c52\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Komal Raju\.android\build-cache\9f1ae7ac8e891829d89148be4fa384dee0af21ea\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Komal Raju\.android\build-cache\2234edcda1ac1668fbe5fd90a78754e5d0b50063\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Komal Raju\.android\build-cache\701bb83d12807dae9306bec14eb322a8cc40435d\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Komal Raju\.android\build-cache\2573a739d13ab27e05544d80c3010455f881f27c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\46b2df5dfdba0b3babecbcb0ad10d9daf6a8ff3c\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Komal Raju\.android\build-cache\2aefc7f1cbafd788740987f3cd8176f689fd7b52\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Komal Raju\.android\build-cache\0f19aff424be5cd262f9afe6cac460ad6e2336d3\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Komal Raju\.android\build-cache\066264c1611aac76a289cbfe9d4eb3d73cacf7d4\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Komal Raju\.android\build-cache\ccb6059d6cdbcd2af982518cb50db47e07e68f8e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Komal Raju\.android\build-cache\8368f09984e170bdbc7effe7937eb92147663114\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Komal Raju\.android\build-cache\0e0f754ccdaed86de741a9c8142d2fa7577cb64b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\9e5a9002232ea996bf162786c935a24c27b7d052\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\3ac24f9ceae2e7bb4e631e1e3af5ec06098c416e\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Komal Raju\.android\build-cache\02c2b934302d2a2776720256b7b2135266ae8317\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Komal Raju\.android\build-cache\ad4a5f799b06c78080ede412607a77a35300adc6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Komal Raju\.android\build-cache\746cdde346c42bb209796c4d12a4799026b3721f\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Komal Raju\.android\build-cache\9cff006206f3876e22e1538fe7491ec5b0b74d41\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Komal Raju\.android\build-cache\e0eeafac3fee9298c8a210aaca8fc340b2a45c54\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Komal Raju\.android\build-cache\5fd0cfa4148518933d5317ba3bbff5d6d6ea1e4c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\befd04d28c9624845abf2c706120ebab0f0770a7\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\aeea28fc97259eb6ba768deae13697e3ce26e1e8\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Komal Raju\.android\build-cache\ffb7d929c73ec5fb3388a45ad94d624f507d4e63\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Komal Raju\.android\build-cache\b130230dd5e376439864e0f38dce2c0c8543004a\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Komal Raju\.android\build-cache\3dab390d7a1b62555f4bf955171570baee6e05bf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Komal Raju\.android\build-cache\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Komal Raju\.android\build-cache\5b6eba4d70b151c2d36a288aaa3c81681b1f2778\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Komal Raju\.android\build-cache\1f240535d26a669ef0b66b0b8256bc5faedaa6b6\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Komal Raju\.android\build-cache\1644fe93a8900cdb530992e31bfc3b6e659fd4b2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Komal Raju\.android\build-cache\176351fa5ff83ea50b57d6e2cb13f47698cde19b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Komal Raju\.android\build-cache\536ae381cd7d2a6e0791df4d2c43529e5b294c91\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Komal Raju\.android\build-cache\8ec704bd62d55047a9072a85a26c500667b462cf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Komal Raju\.android\build-cache\78fe574a8e71238505a5c7b29a931cb7af897e3c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Komal Raju\.android\build-cache\6f88a4f9c43c4f6c9f2877f09981a06af8f03075\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Komal Raju\.android\build-cache\d98dd19d63428aa1a5de96c7ee0cfe3da461b3d6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Komal Raju\.android\build-cache\2c65013668469d80f62361a397350a021498909c\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:27:9-41
+	android:supportsRtl
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:26:9-36
+	android:theme
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:29:9-49
+activity#com.onthespot.SplashActivity
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:34:13-83
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:32:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.onthespot.MainActivity
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:40:9-44:20
+	android:label
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:43:13-56
+	android:launchMode
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:42:13-48
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:41:13-54
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:48:9-57:20
+	android:exported
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:49:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:51:13-56:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:53:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:54:17-78
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:54:27-75
+data
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:55:17-75
+	android:scheme
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:55:23-72
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:58:9-108
+	android:value
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:58:66-105
+	android:name
+		ADDED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml:58:20-65
+uses-sdk
+INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Komal Raju\.android\build-cache\f95be13b34e3b0af064fe286eae9d3a9e1a2e495\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Komal Raju\.android\build-cache\ece3926b89e237d9a9a0dc802884e89b461df493\output\AndroidManifest.xml:18:5-42
+MERGED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:15:5-17:41
+MERGED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [OnTheSpot:Speech:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Komal Raju\.android\build-cache\da917871b3a6564aafe0ebbf9b5fec0786f3f8c1\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\Komal Raju\.android\build-cache\1ec8db8e4ac8b9106d35115ff12f0e9eb61e4aca\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\c35a60c929dd92a8f24ce1b2453955b567ea0cc0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\Komal Raju\.android\build-cache\f9e7753c2481cd3d7f93da3a38d9768bf0d82335\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Komal Raju\.android\build-cache\6ff953f4dad4cc20f31ffa6979702712b0c8b729\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Komal Raju\.android\build-cache\13e35e011d542c024b4d2583b999fc7d4132b26a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Komal Raju\.android\build-cache\31ae5e6a41cdf479e4c7564a740feb58a6f035c5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Komal Raju\.android\build-cache\604d4034656b92ced9bb08047506207edb8543a6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Komal Raju\.android\build-cache\560b73ac689d2e58a64e026590beb44658b54b2b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Komal Raju\.android\build-cache\4729c4d5976bc6b7ab943c0b38e9cd8ad62f650c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Komal Raju\.android\build-cache\c83a8eabb6c9917a20d866c9ae5a3495ef758bd5\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\ff5adc50b24f7e15ee1ef4cca8cd060d3e691811\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\Komal Raju\.android\build-cache\ad8e549c4794656a40d362f9ae2bb0733ad47dcc\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\e35c1130bf81350e2674cc066feab95f35e9b498\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Komal Raju\.android\build-cache\84bd08ae700b7949d6f84765618d95834c24d2d5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Komal Raju\.android\build-cache\e226885345dc50147fc3dbabb6abf7a341b06c52\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Komal Raju\.android\build-cache\9f1ae7ac8e891829d89148be4fa384dee0af21ea\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Komal Raju\.android\build-cache\2234edcda1ac1668fbe5fd90a78754e5d0b50063\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Komal Raju\.android\build-cache\701bb83d12807dae9306bec14eb322a8cc40435d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Komal Raju\.android\build-cache\2573a739d13ab27e05544d80c3010455f881f27c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\46b2df5dfdba0b3babecbcb0ad10d9daf6a8ff3c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\Komal Raju\.android\build-cache\cc0f95a5b2bf509ae1f8ad341e48a11dceef8776\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Komal Raju\.android\build-cache\2aefc7f1cbafd788740987f3cd8176f689fd7b52\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Komal Raju\.android\build-cache\0f19aff424be5cd262f9afe6cac460ad6e2336d3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Komal Raju\.android\build-cache\066264c1611aac76a289cbfe9d4eb3d73cacf7d4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Komal Raju\.android\build-cache\ccb6059d6cdbcd2af982518cb50db47e07e68f8e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Komal Raju\.android\build-cache\8368f09984e170bdbc7effe7937eb92147663114\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Komal Raju\.android\build-cache\0e0f754ccdaed86de741a9c8142d2fa7577cb64b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\Komal Raju\.android\build-cache\73ca6ad1e4266bc3c1080ca131a684336303990d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\9e5a9002232ea996bf162786c935a24c27b7d052\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\3ac24f9ceae2e7bb4e631e1e3af5ec06098c416e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Komal Raju\.android\build-cache\02c2b934302d2a2776720256b7b2135266ae8317\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\Komal Raju\.android\build-cache\73e1d77145d76189104cb69ecc57d6615d884c77\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Komal Raju\.android\build-cache\ad4a5f799b06c78080ede412607a77a35300adc6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Komal Raju\.android\build-cache\746cdde346c42bb209796c4d12a4799026b3721f\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Komal Raju\.android\build-cache\9cff006206f3876e22e1538fe7491ec5b0b74d41\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Komal Raju\.android\build-cache\e0eeafac3fee9298c8a210aaca8fc340b2a45c54\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\Komal Raju\.android\build-cache\eecfdb9848f2ffbe552a39b0ab5fcbce3e6c3104\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\Komal Raju\.android\build-cache\5422423ecb3335f33c7108f819b82e83504141e3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Komal Raju\.android\build-cache\5fd0cfa4148518933d5317ba3bbff5d6d6ea1e4c\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\befd04d28c9624845abf2c706120ebab0f0770a7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\aeea28fc97259eb6ba768deae13697e3ce26e1e8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Komal Raju\.android\build-cache\ffb7d929c73ec5fb3388a45ad94d624f507d4e63\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Komal Raju\.android\build-cache\b130230dd5e376439864e0f38dce2c0c8543004a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.1.1] C:\Users\Komal Raju\.android\build-cache\3dab390d7a1b62555f4bf955171570baee6e05bf\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Komal Raju\.android\build-cache\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Komal Raju\.android\build-cache\5b6eba4d70b151c2d36a288aaa3c81681b1f2778\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Komal Raju\.android\build-cache\1f240535d26a669ef0b66b0b8256bc5faedaa6b6\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Komal Raju\.android\build-cache\68c03714c7395c80634f003201beec01c6a0b3a7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Komal Raju\.android\build-cache\1644fe93a8900cdb530992e31bfc3b6e659fd4b2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Komal Raju\.android\build-cache\176351fa5ff83ea50b57d6e2cb13f47698cde19b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Komal Raju\.android\build-cache\536ae381cd7d2a6e0791df4d2c43529e5b294c91\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Komal Raju\.android\build-cache\8ec704bd62d55047a9072a85a26c500667b462cf\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Komal Raju\.android\build-cache\78fe574a8e71238505a5c7b29a931cb7af897e3c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Komal Raju\.android\build-cache\6f88a4f9c43c4f6c9f2877f09981a06af8f03075\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Komal Raju\.android\build-cache\d98dd19d63428aa1a5de96c7ee0cfe3da461b3d6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Komal Raju\.android\build-cache\2c65013668469d80f62361a397350a021498909c\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Komal Raju\.android\build-cache\3dab390d7a1b62555f4bf955171570baee6e05bf\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Komal Raju\.android\build-cache\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\output\AndroidManifest.xml:45:13-70
+activity#com.amazonaws.mobilehelper.auth.signin.SignInActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:23:9-27:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:26:13-59
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:25:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:24:13-81
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.ForgotPasswordActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:28:9-32:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:31:13-67
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:30:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:29:13-99
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.SignUpActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:33:9-37:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:36:13-59
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:35:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:34:13-91
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.MFAActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:38:9-42:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:41:13-55
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:40:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:39:13-88
+activity#com.amazonaws.mobilehelper.auth.signin.userpools.SignUpConfirmActivity
+ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:43:9-47:20
+	android:label
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:46:13-67
+	android:configChanges
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:45:13-83
+	android:name
+		ADDED from [OnTheSpot:AWSMobileHelper:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:44:13-98
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:13:22-62
+activity#com.google.sample.cloudvision.MainActivity
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:18:9-23:20
+	android:screenOrientation
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:19:13-70
+provider#android.support.v4.content.FileProvider
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:25:9-33:20
+	android:authorities
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:27:13-60
+	android:grantUriPermissions
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:29:13-47
+	android:exported
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:26:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:30:13-32:58
+	android:resource
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:32:17-55
+	android:name
+		ADDED from [OnTheSpot:Vision:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\AndroidManifest.xml:31:17-67
+activity#info.androidhive.speechtotext.SpeechMainActivity
+ADDED from [OnTheSpot:Speech:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:12:9-15:20
+	android:label
+		ADDED from [OnTheSpot:Speech:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from [OnTheSpot:Speech:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Speech\build\intermediates\bundles\default\AndroidManifest.xml:13:13-76
+meta-data#com.google.android.gms.version
+ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:29:9-31:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Komal Raju\.android\build-cache\b130230dd5e376439864e0f38dce2c0c8543004a\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:30:13-58
+activity#com.google.android.gms.location.sample.locationaddress.LocationMainActivity
+ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:34:13-103
+service#com.google.android.gms.location.sample.locationaddress.FetchAddressIntentService
+ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [OnTheSpot:Location:unspecified] C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\AndroidManifest.xml:43:13-108
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Komal Raju\.android\build-cache\84ca73b9c9b00b7c87c9598d55fcb6dfafea09c0\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\c35a60c929dd92a8f24ce1b2453955b567ea0cc0\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\3ac24f9ceae2e7bb4e631e1e3af5ec06098c416e\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\befd04d28c9624845abf2c706120ebab0f0770a7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\c35a60c929dd92a8f24ce1b2453955b567ea0cc0\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Komal Raju\.android\build-cache\b16f607677049cf6bb78c60b4ecd085c8ecaeac5\output\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Komal Raju\.android\build-cache\97b235262154c14579c136fcb7e18c14d8022a38\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Komal Raju\.android\build-cache\211eac05a0c33a1954fc4bef9353f50cf865bdd5\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Komal Raju\.android\build-cache\5b5c7aaf580533f8bfb346e4dd43c623d49b9d60\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Komal Raju\.android\build-cache\701bb83d12807dae9306bec14eb322a8cc40435d\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\46b2df5dfdba0b3babecbcb0ad10d9daf6a8ff3c\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Komal Raju\.android\build-cache\701bb83d12807dae9306bec14eb322a8cc40435d\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Komal Raju\.android\build-cache\b6248e0816e8d556ed6bc202cca7472d1caef086\output\AndroidManifest.xml:25:19-93
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Komal Raju\.android\build-cache\746cdde346c42bb209796c4d12a4799026b3721f\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Komal Raju\.android\build-cache\746cdde346c42bb209796c4d12a4799026b3721f\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Komal Raju\.android\build-cache\746cdde346c42bb209796c4d12a4799026b3721f\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Komal Raju\.android\build-cache\e0eeafac3fee9298c8a210aaca8fc340b2a45c54\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Komal Raju\.android\build-cache\e0eeafac3fee9298c8a210aaca8fc340b2a45c54\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Komal Raju\.android\build-cache\e0eeafac3fee9298c8a210aaca8fc340b2a45c54\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Komal Raju\.android\build-cache\e0eeafac3fee9298c8a210aaca8fc340b2a45c54\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\befd04d28c9624845abf2c706120ebab0f0770a7\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Komal Raju\.android\build-cache\befd04d28c9624845abf2c706120ebab0f0770a7\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Komal Raju\.android\build-cache\5913cda9a942856dd78208c2acac2ea5189b1836\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Komal Raju\.android\build-cache\dc555ca9fc0a4edd59f4e6124444cd0a46972ceb\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\aeea28fc97259eb6ba768deae13697e3ce26e1e8\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\aeea28fc97259eb6ba768deae13697e3ce26e1e8\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\aeea28fc97259eb6ba768deae13697e3ce26e1e8\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\aeea28fc97259eb6ba768deae13697e3ce26e1e8\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Komal Raju\.android\build-cache\aeea28fc97259eb6ba768deae13697e3ce26e1e8\output\AndroidManifest.xml:6:79-143
