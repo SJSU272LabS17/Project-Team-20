@@ -18,7 +18,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/top_bar_background"
+            android:background="#00356B"
             app:contentInsetEnd="0dp"
             app:contentInsetStart="0dp"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
@@ -36,8 +36,13 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:gravity="center"
-            android:text="@string/button_text_complaint"
-            android:textStyle="bold" />
+            android:background="#21B6A8"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textAllCaps="false"
+            android:text="Log Complaint"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"/>
 
 
     </LinearLayout>

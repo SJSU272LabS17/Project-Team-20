@@ -12,7 +12,7 @@
   <string name="title_activity_main">On The Spot</string>
   <string name="button_text_sign_in">SIGN IN</string>
   <string name="button_text_sign_out">SIGN OUT</string>
-  <string name="button_text_complaint">LOG COMPLAINT</string>
+  <string name="button_text_complaint">Log Complaint</string>
   <string name="main_nav_menu_default_user_text">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
 
   <!-- USED BY DEMO FEATURES ONLY - YOU CAN DISCARD THESE WITH THE DEMO FOLDER -->

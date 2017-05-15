@@ -21,19 +21,21 @@
 
             <TextView
                 android:id="@+id/image_details"
+                android:paddingLeft="30dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="7dp"
                 android:text="Hit the button below to click an image"
-                android:textAllCaps="true"
-                android:textStyle="bold"/>
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
 
             <ImageView
                 android:id="@+id/main_image"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:layout_marginBottom="20dp"
-                android:scaleType="fitCenter"/>
+                android:scaleType="centerCrop"/>
 
             <ListView android:layout_width="fill_parent"
                 android:layout_height="200dp"

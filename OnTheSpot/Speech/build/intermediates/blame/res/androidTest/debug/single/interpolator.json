@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Komal Raju\\14may\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_fast_out_slow_in.xml",
-        "source": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+        "merged": "C:\\Users\\arsh2\\latest\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
     },
     {
-        "merged": "C:\\Users\\Komal Raju\\14may\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_linear_out_slow_in.xml",
-        "source": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+        "merged": "C:\\Users\\arsh2\\latest\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\arsh2\\.android\\build-cache\\3f92cb473ba9a9eafa163bed253647ada995b8a6\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Komal Raju\\14may\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+        "outputFile": "C:\\Users\\arsh2\\latest\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\e3d07800d62b95e23fe03d6881fc0d57d28c8a5a\\output\\res\\values-v18\\values-v18.xml",
+                    "file": "C:\\Users\\arsh2\\.android\\build-cache\\de52ed1c8b2ce48e0b694e318efffe8315c2a269\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

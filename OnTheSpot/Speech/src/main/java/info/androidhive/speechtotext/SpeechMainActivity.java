@@ -35,10 +35,10 @@ public class SpeechMainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.speech_activity_main);
 
-/*
+
 
 		txtSpeechInput = (TextView) findViewById(R.id.multiAutoCompleteTextView);
-        txtCaption = (TextView) findViewById(R.id.textView7);
+/*        txtCaption = (TextView) findViewById(R.id.textView7);
 */
 
         Intent in= getIntent();
