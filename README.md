@@ -21,5 +21,6 @@ Project Report:
 
 **User Interface Screenshots:** 
 
-![Alt text](https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Screenshots/Capture.PNG)![Alt text](https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Screenshots/Capture1.PNG)
+![Alt text](https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Screenshots/Capture.PNG) <br /> 
+![Alt text](https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Screenshots/Capture1.PNG)
 
