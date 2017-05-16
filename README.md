@@ -17,10 +17,20 @@ Presentation Slides:  https://github.com/SJSU272LabS17/Project-Team-20/blob/mast
 
 Project Report:
 
-**App Link:** https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Apk/onthespot.apk
 
-**User Interface Screenshots:** 
+## App Link: https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Apk/onthespot.apk
+
+## User Interface Screenshots:
 
 ![Alt text](https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Screenshots/Capture.PNG) <br /> 
 ![Alt text](https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Screenshots/Capture1.PNG)
 
+## User Stories
+
+1. User 1: Walks by a broken street light, reports the incident which notifies the authorities instantaneously.
+2. User 2: Sees a pothole on the way causing disruption. Reports the incident which helps in timely fixing.
+
+## Features
+
+1. Users can login through Facebook etc.
+2. User authentication on every signup and sign in.
