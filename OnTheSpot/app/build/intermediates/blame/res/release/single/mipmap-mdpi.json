@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\splash_icon.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\user_identity.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\src\\main\\res\\mipmap-mdpi\\user_identity.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\facebook_icon.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\facebook_icon.png"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\button_login.png",
+        "source": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\AWSMobileHelper\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\button_login.png"
+    }
+]

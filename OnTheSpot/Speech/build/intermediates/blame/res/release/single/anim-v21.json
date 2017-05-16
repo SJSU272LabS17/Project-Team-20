@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Komal Raju\\Desktop\\14may-night\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Komal Raju\\.android\\build-cache\\e88edb94ab23bab21c38deefa845a16e6fcb9fbf\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\d0f602649e9fed7996145bfaa7ebe14ec5225d53\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\Komal Raju\\Desktop\\14may-night\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Komal Raju\\.android\\build-cache\\e88edb94ab23bab21c38deefa845a16e6fcb9fbf\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\Speech\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\d0f602649e9fed7996145bfaa7ebe14ec5225d53\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

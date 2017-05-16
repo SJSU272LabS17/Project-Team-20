@@ -3,39 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Vision\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d8dd266548ae1dbe4072830ac71e494c47c018b4\classes.dex" />
+        sha1="d276b0b74c1697b391fc4f21e5cf85a21b2e61ff">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_9bc164bcaec450fcb14e77a58ccfca2c25eecbae\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\sendgrid-0.1.2-jar.jar"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\sendgrid-0.1.2-jar.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f336889a136bceba58227171dc3a1f39b59c371c">
-        <dex dex="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\sendgrid-0.1.2-jar_77ea8ed6e529a722b0b7c4b633bffd7011a895a9\classes.dex" />
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\sendgrid-0.1.2-jar_ee5ece7cdf3586d1ef1be1671a664ef3f67061e7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="56d4c147b08a3ba84c3c46ef1e4ee621f16959d2">
-        <dex dex="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ac532a759c68da5120190c9ab5430dc60dcbc995\classes.dex" />
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_7b30b251d093a6117c6dc865552707db95f34f9a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\json-simple-1.1.1.jar"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\natural-language-classifier\3.8.0\70819912811f620c59429bc5e3cd5db326b1062d\natural-language-classifier-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70819912811f620c59429bc5e3cd5db326b1062d">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\natural-language-classifier-3.8.0_ecce960d9511958f27c8c29b68c06e7bfe7cde65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\jersey-jsr166e-2.22.2_7bbeae136d2236fac8a09434efeeb821a46fc589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\json-simple-1.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="397e18dd99731952dcb47bff4c9245af86854886">
-        <dex dex="C:\Users\Komal Raju\Desktop\14may-night\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\json-simple-1.1.1_3dde76ff9128ce7f1582243bebd07ddfd4d111ad\classes.dex" />
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\json-simple-1.1.1_03e9853d11521532eebbf82869a4b7033986b8ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.8.0\93b8a390d018d74d1eb9014ba14dbdaee2a2b318\core-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b8a390d018d74d1eb9014ba14dbdaee2a2b318">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.8.0_1fd689d3f6f1b9ab9ff7b5a6b54cc449161648e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\sendgrid-0.1.2-jar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f336889a136bceba58227171dc3a1f39b59c371c">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\sendgrid-0.1.2-jar_ee5ece7cdf3586d1ef1be1671a664ef3f67061e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_412aa6ee91f58b059adf373ef2c32a3a9cad0fa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="397e18dd99731952dcb47bff4c9245af86854886">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\8\json-simple-1.1.1_03e9853d11521532eebbf82869a4b7033986b8ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Location\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7bf8d8f346831f6ba0540e0f987694ec3fb5f65">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_264bdf1a9297c27bbf994f95b538c0b881ae4b01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\Speech\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="936a13e30da9aebb5aaf02d5bb6b890d7e0d1018">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_2924aa3042ec34a16284fc9f32ce3d97fe3cb40a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMPE272\Project-Team-20\OnTheSpot\AWSMobileHelper\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dccfcb3b62ff37cb2bc954377d00a336e37c09f">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_184ededd0c6aef7dd7f648b99fa73240b9d77301\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.7.0\9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734\logging-interceptor-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.7.0_d5c0a61b80db4231c421e4c68adda593f1da4b43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.7.0\22c61dda6d7e63a7325932c85b0a3412443b1f5a\okhttp-urlconnection-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c61dda6d7e63a7325932c85b0a3412443b1f5a">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.7.0_3a361af172e1cac5ed5def26d08e181251740b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_1e9216ad2905a698dd0b540a17972c2e9fcaa1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kimta\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="D:\CMPE272\Project-Team-20\OnTheSpot\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_f4b8eae071fe52bd733388963cfedb5d80c5d9b0\classes.dex" />
     </item>
 
 </items>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\c99bff54650dae953a27095d9092d4f1f0bd6ef4\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\c99bff54650dae953a27095d9092d4f1f0bd6ef4\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\c99bff54650dae953a27095d9092d4f1f0bd6ef4\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\c99bff54650dae953a27095d9092d4f1f0bd6ef4\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

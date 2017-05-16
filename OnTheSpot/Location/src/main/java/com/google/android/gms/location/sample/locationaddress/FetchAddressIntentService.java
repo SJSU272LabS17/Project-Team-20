@@ -274,70 +274,70 @@ public class FetchAddressIntentService extends IntentService {
 
         List<Authority> authorityList = new ArrayList<Authority>();
         Authority authority1 = new Authority();
-        String zipArray1[] = {"95112", "95113", "95114"};
+        String zipArray1[] = {"95111", "95192","95112", "95113", "95114"};
         authority1.setEmail("kimtani90@gmail.com");
         authority1.setContact("+14088861711");
         authority1.setName("Department of Transportation");
         authority1.setZipHandled(zipArray1);
 
         Authority authority2 = new Authority();
-        String zipArray2[] = {"95112", "95113", "95114"};
+        String zipArray2[] = {"95111", "95192","95112", "95113", "95114"};
         authority2.setEmail("kimtani90@gmail.com");
         authority2.setContact("+14088861711");
         authority2.setName("Animal Care and Services");
         authority2.setZipHandled(zipArray2);
 
         Authority authority3 = new Authority();
-        String zipArray3[] = {"95112", "95113", "95114"};
+        String zipArray3[] = {"95111", "95192","95112", "95113", "95114"};
         authority3.setEmail("kimtani90@gmail.com");
         authority3.setContact("+14088861711");
         authority3.setName("Environmental Services");
         authority3.setZipHandled(zipArray3);
 
         Authority authority4 = new Authority();
-        String zipArray4[] = {"95112", "95113", "95114"};
+        String zipArray4[] = {"95111", "95192","95112", "95113", "95114"};
         authority4.setEmail("kimtani90@gmail.com");
         authority4.setContact("+14088861711");
         authority4.setName("Public Works Department");
         authority4.setZipHandled(zipArray4);
 
         Authority authority5 = new Authority();
-        String zipArray5[] = {"95112", "95113", "95114"};
+        String zipArray5[] = {"95111", "95192","95112", "95113", "95114"};
         authority5.setEmail("arsh291991@gmail.com");
         authority5.setContact("+14088861711");
         authority5.setName("Ambulance Service");
         authority5.setZipHandled(zipArray5);
 
         Authority authority6 = new Authority();
-        String zipArray6[] = {"95112", "95113", "95114"};
+        String zipArray6[] = {"95111", "95192","95112", "95113", "95114"};
         authority6.setEmail("kimtani90@gmail.com");
         authority6.setContact("+14088861711");
         authority6.setName("Code Enforcement Services Dept\n");
         authority6.setZipHandled(zipArray6);
 
         Authority authority7 = new Authority();
-        String zipArray7[] = {"95112", "95113", "95114"};
+        String zipArray7[] = {"95111", "95192","95112", "95113", "95114"};
         authority7.setEmail("kimtani90@gmail.com");
         authority7.setContact("+14088861711");
         authority7.setName("Fire Department");
         authority7.setZipHandled(zipArray7);
 
         Authority authority8 = new Authority();
-        String zipArray8[] = {"95112", "95113", "95114"};
+        String zipArray8[] = {"95111", "95192","95112", "95113", "95114"};
         authority8.setEmail("kimtani90@gmail.com");
         authority8.setContact("+14088861711");
         authority8.setName("Library");
         authority8.setZipHandled(zipArray8);
 
         Authority authority9 = new Authority();
-        String zipArray9[] = {"95112", "95113", "95114"};
+        String zipArray9[] = {"95111", "95192","95112", "95113", "95114"};
         authority9.setEmail("kimtani90@gmail.com");
         authority9.setContact("+14088861711");
         authority9.setName("Police Department");
         authority9.setZipHandled(zipArray9);
 
         Authority authority0 = new Authority();
-        String zipArray0[] = {"95112", "95113", "95114"};
+        String zipArray0[] = {"95111", "95192","95112", "95113", "95114"};
         authority0.setEmail("kimtani90@gmail.com");
         authority0.setContact("+14088861711");
         authority0.setName("Parks, Recreation & Neighborhood Services");

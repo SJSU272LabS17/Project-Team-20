@@ -287,7 +287,7 @@ public class LocationMainActivity extends ActionBarActivity implements
                         try {
                             NaturalLanguageClassifier service = new NaturalLanguageClassifier();
                             service.setUsernameAndPassword("d1bed693-c368-4316-a7fb-ec3cc5c1deb7", "gq7WidZllcMq");
-                            classification = service.classify("90e7b7x198-nlc-52253", objectName+" "+description).execute();
+                            classification = service.classify("90e7b7x198-nlc-67824", objectName+" "+description).execute();
                             System.out.println("aaaa"+classification);
 
                         } catch (Exception e) {

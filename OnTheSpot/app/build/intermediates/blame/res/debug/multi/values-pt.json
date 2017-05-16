@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Komal Raju\\Desktop\\14may-night\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+        "outputFile": "D:\\CMPE272\\Project-Team-20\\OnTheSpot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 170
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 401
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 703
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 922
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1005
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1085
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1172
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1279
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1391
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1493
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1601
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1708
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1818
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1943
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2043
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2186
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2294
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2433
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2530
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2596
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 2666
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 2727
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 2801
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 2873
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 2972
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 3064
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 3135
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3206
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 3291
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 3397
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 3461
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 3533
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 3710
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 3787
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 3872
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 3961
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 4110
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 4172
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\cd6ed6eb3c9cb028dfe2e5d9cf4d680bb3661e0d\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\67f9ec7fdd676cada0a0eb40a7678d48e8bee300\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 4277
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 4381
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 4471
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 4567
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 4674
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 4771
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 4867
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 4962
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 5056
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -980,7 +980,7 @@
                     "endOffset": 5176
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -999,7 +999,7 @@
                     "endOffset": 5292
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1018,7 +1018,7 @@
                     "endOffset": 5377
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1037,7 +1037,7 @@
                     "endOffset": 5464
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1056,7 +1056,7 @@
                     "endOffset": 5565
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1075,7 +1075,7 @@
                     "endOffset": 5652
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1094,7 +1094,7 @@
                     "endOffset": 5751
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\13e35e011d542c024b4d2583b999fc7d4132b26a\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\b11b3d13d982d61fa1849db1261b791eaf179f12\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1113,7 +1113,7 @@
                     "endOffset": 5836
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1132,7 +1132,7 @@
                     "endOffset": 5937
                 },
                 "from": {
-                    "file": "C:\\Users\\Komal Raju\\.android\\build-cache\\bdb18392b90bdf3f0879c19496a6c509ddd9e6ff\\output\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\kimta\\.android\\build-cache\\dcdc3ae6eb946aff0efab57fc5400aeb036ab3cf\\output\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
