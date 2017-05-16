@@ -16,6 +16,8 @@ We have developed an android app which can help report common incidents such as 
 
 Presentation Slides:  https://github.com/SJSU272LabS17/Project-Team-20/blob/master/On%20The%20Spot.pptx
 
+Project Report:       https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Final_report.pdf
+
 
 ## App Link: 
 https://github.com/SJSU272LabS17/Project-Team-20/blob/master/Apk/onthespot.apk
