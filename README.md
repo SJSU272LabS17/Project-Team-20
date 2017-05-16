@@ -1,4 +1,4 @@
-<center># On the spot</center>
+# On the spot
 
 ## Problem:
 
