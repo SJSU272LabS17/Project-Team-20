@@ -13,7 +13,7 @@ We have developed an android app which can help report common incidents such as 
 
 **Project Deliverables:**
 
-Presentation Slides:
+Presentation Slides:  https://github.com/SJSU272LabS17/Project-Team-20/blob/master/On%20The%20Spot.pptx
 
 Project Report:
 
